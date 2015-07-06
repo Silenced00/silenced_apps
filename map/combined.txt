@@ -1,0 +1,1209 @@
+X	Y	Location	Cult	Image
+-112.526588	36.945541	"Fredonia, AZ 86022"	A Congregation of the Church of God	http://silenced.co/wp-content/uploads/2012/03/accog-150x150.png
+-121.401604	36.852455	"Hollister, CA"	Christian Biblical Church of God	http://silenced.co/wp-content/uploads/2012/03/hwa11.png
+151.206985	-33.867489	Sydney NSW	Christian Biblical Church of God	http://silenced.co/wp-content/uploads/2012/03/hwa11.png
+-75.684288	44.589523	"Brockville, ON"	Christian Biblical Church of God	http://silenced.co/wp-content/uploads/2012/03/hwa11.png
+174.763336	-36.848461	Auckland	Christian Biblical Church of God	http://silenced.co/wp-content/uploads/2012/03/hwa11.png
+28.516666	-27.283333	Frankfort	Christian Biblical Church of God	http://silenced.co/wp-content/uploads/2012/03/hwa11.png
+0.641918	51.800564	"Witham, Essex"	Christian Biblical Church of God	http://silenced.co/wp-content/uploads/2012/03/hwa11.png
+115.8742311	-31.82750385	"Melbourne, Victoria  "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-78.74075396	44.35657893	"Alexander Heights, Western Australia  "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+0.771782212	49.48231908	"Lindsay, ON  "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+17.08248153	-22.55890075	"La Maillerraye sur Seine, Normandy  "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+121.1281905	14.74886014	"Windhoek, Namibia"	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+121.2019514	14.75981936	"Amityville, Philippines"	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+121.3944494	14.10916726	"Rodriquez, Philippines"	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-61.51666652	10.66667049	"Rizal, Philippines   "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+18.42405799	-33.92486752	"Port of Spain, Trinidad and Tobago"	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+25.56995371	-33.93263829	"Cape Town, South Africa"	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+28.28716938	-15.40819246	"Port Elizabeth, South Africa"	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-111.9260511	33.49417519	"Lusaka, Zambia"	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-121.6169085	39.14044984	"Scottsdale, AZ    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-117.7523023	34.05522883	"Yuba City, CA    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-122.4194122	37.77493382	"Pomona, CA    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-104.9847172	39.73756752	"San Francisco, CA    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-105.9394554	40.08610085	"Denver, CO    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-81.65564907	30.33218495	"Granby, CO    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-82.45717395	27.9505796	"Jacksonville, FL    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-84.38798234	33.7489975	"Tampa, FL    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-82.97625687	33.27570279	"Atlanta, GA    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-87.78449394	41.57337068	"Sparta, GA    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-77.15470165	39.37621656	"Tinley Park, IL    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-86.36112373	41.82727216	"Baltimore/Mt. Airy, MD    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-93.8185368	37.10367037	"Buchanan, MI    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-93.13935468	37.75781588	"Mount Vernon, MO    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-88.55612352	30.36575859	"Springfield/Louisburg, MO    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-80.94507236	35.00737212	"Pascagoula, MS    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-80.07365245	36.11986067	"Fort Mill, SC, NC    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-122.6762036	45.52345209	"Kernersville, NC    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-76.30551196	40.03787695	"Portland, OR    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-81.03481323	34.00071215	"Lancaster, PA    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-101.8312952	35.22200167	"Columbia, SC    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-97.73677485	30.48357346	"Amarillo, TX    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-94.94271582	32.53653571	"Austin/Round Rock, TX    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-97.38668066	32.34764855	"Gladewater, TX    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-97.386681	32.347645	"Cleburne, TX"	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-123.089996	44.049999	"Eugene, OR"	"Church of God, the Eternal"	http://silenced.co/wp-content/uploads/2012/03/coge.bmp
+6.633597	46.519962	"Lausanne, Switzerland"	"Church of God, the Eternal"	http://silenced.co/wp-content/uploads/2012/03/coge.bmp
+120.43576	15.94411	"Pangasinan, Philippines"	"Church of God, the Eternal"	http://silenced.co/wp-content/uploads/2012/03/coge.bmp
+123.303406	8.49613	"Mindanao, Philippines"	"Church of God, the Eternal"	http://silenced.co/wp-content/uploads/2012/03/coge.bmp
+34.457256	-1.093774	"Suna, Philippines"	"Church of God, the Eternal"	http://silenced.co/wp-content/uploads/2012/03/coge.bmp
+-117.419998	47.720001	"Spokane, WA"	Church of God Fellowship	http://silenced.co/wp-content/uploads/2011/04/TheBibleHymnalCover.jpg
+-119.293465	46.23941	"Richland, WA"	Church of God Fellowship	http://silenced.co/wp-content/uploads/2011/04/TheBibleHymnalCover.jpg
+-112.814049	49.733383	"Lethbridge, Canada"	Church of God Fellowship	http://silenced.co/wp-content/uploads/2011/04/TheBibleHymnalCover.jpg
+-120.829102	38.191586	"Valley Springs, CA"	"Church of God, Faithful Flock"	http://silenced.co/wp-content/uploads/2012/03/cogff.png
+-86.20768805	32.36454179	"Montgomery, AL"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-94.15742337	36.06257963	"Fayettville, AR"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-94.39854349	35.38592723	"Fort Smith, AR"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-92.28959093	34.74648199	"Little Rock, AR"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-94.03768626	33.44179366	"Texarkana, AR"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-121.9473103	36.87819304	"Monterey Bay, CA"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-82.80010249	27.96585468	"Clearwater, FL"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-81.78868659	28.06530082	"Auburndale, FL"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-82.57481559	27.49893136	"Bradenton, FL"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-84.38798154	33.74899572	"Atlanta, GA"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-86.1580668	39.76840791	"Indianapolis, IN"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-92.34296175	42.49276834	"Waterloo, IA"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-97.3675121	37.70858397	"Wichita, KS"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-84.44716084	39.07506472	"Fort Thomas, KY"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-85.75845374	38.25266741	"Louisville, KY"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-83.43268063	38.18397513	"Morehead, KY"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-93.71891149	32.53274604	"Bossier City, LA"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-77.20136969	39.14344465	"Gaithersburg, MD"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-83.04575311	42.33143055	"Detroit, MI"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-94.50676836	38.94690219	"Kansas City, MO"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-93.29229708	37.20895735	"Springfield, MO"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-91.96987126	36.99228075	"Willow Springs, MO"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-74.00597037	40.71435576	"New York City, NY"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-81.34119365	35.73318834	"Hickory, NC"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-78.63860962	35.77209654	"Raleigh, NC"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-81.63623359	41.18894869	"Bath, OH"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-82.9987939	39.96117589	"Columbus, OH"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-84.39827609	39.51506023	"Middletown, OH"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-83.5552101	41.66394082	"Toledo, OH"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-97.05836337	36.11561036	"Stillwater, OK"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-78.39473387	40.5186847	"Altoona, PA"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-79.9958844	40.44062766	"Pittsburgh, PA"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-79.93091946	32.77656756	"Charleston, SC"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-88.81394439	35.61451786	"Jackson, TN"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-89.99245445	35.0635368	"Memphis, TN"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-86.92142773	36.07735829	"Nashville, TN"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-83.92073501	35.96064279	"Knoxville, TN"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-99.73231321	32.48884174	Abilene TX	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-96.96733868	32.83066844	"Irving, TX"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-95.49583527	29.72349043	"Houston, TX"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-95.33000178	32.30560135	"Tyler, TX"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-76.29827149	36.83542772	"Portsmouth, VA"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-111.8910471	40.76078203	"Salt Lake City, UT"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-80.47774322	43.43431573	"Kitchener, ON"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-123.9400606	49.16588763	"Nanaimo, BC"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-73.5539909	45.50867486	"Montreal, CA"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-79.38318145	43.65322879	"Toronto, ON"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+121.079681	14.609133	"Quezon City, Philippines"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-73.792809	40.714996	"Queens, NY"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+152.682236	-27.997343	"Boonah, Australia"	Church of God International	http://silenced.co/wp-content/uploads/2011/04/cgilogo.jpg
+-118.1455	34.137585	"Pasadena, CA "	"Church of God, an International Community"	http://silenced.co/wp-content/uploads/2012/03/cogic.png
+-84.536324	39.106636	"Cincinnati, OH"	"Church of God, Preparing for the Kingdom of God"	http://silenced.co/wp-content/uploads/2012/03/logo_lion_lamb-150x150.png
+4.402882	51.219215	"Antwerp, Belgium"	"Church of God, Preparing for the Kingdom of God"	http://silenced.co/wp-content/uploads/2012/03/logo_lion_lamb-150x150.png
+-4.173145	55.850098	"Glasgow, UK"	"Church of God, Preparing for the Kingdom of God"	http://silenced.co/wp-content/uploads/2012/03/logo_lion_lamb-150x150.png
+-122.238892	40.563763	"Palo Cedro, CA"	"Church of God, In Training for the Kingdom"	http://silenced.co/wp-content/uploads/2012/03/3155047yb6bcWtd-150x150.png
+-82.037048	34.739571	"Woodruff, SC"	Church of Covenant Blessings	http://silenced.co/wp-content/uploads/2012/03/3161150mKr6q3Zk-e1336054509885-150x148.gif
+-81.563683	28.80777	"Sorrento, FL 32776"	"God's Church, Worldwide"	http://silenced.co/wp-content/uploads/2012/03/hwa11.png
+-119.67688	49.607353	"Summerland, BC V0H"	"Church of God, a Christian Fellowship"	http://silenced.co/wp-content/uploads/2011/04/C_Pattern_Globe.jpg
+-1.466139	52.915039	"Derby, England"	Global Church of God	http://silenced.co/wp-content/uploads/2011/04/C_Pattern_Globe.jpg
+-117.074532	33.022141	"San Diego, CA"	Church of the Eternal God	http://silenced.co/wp-content/uploads/2011/04/C_Pattern_Globe.jpg
+-99.732292	32.45203	"Abilene, TX 79604"	The House of Yahweh	http://silenced.co/wp-content/uploads/2012/03/hoy-150x150.png
+-86.58609877	34.73037078	"AL, Huntsville"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-92.26709388	34.76953606	"AR, North Little Rock"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-110.9264789	32.22174319	"AZ, Tucson"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-120.2601739	37.12299987	"CA, Chowchilla"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-122.2808325	40.3857116	"CA, Cottonwood"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-121.4943948	38.58157482	"CA, Sacramento"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-82.45717288	27.95057621	"FL, Tampa"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-84.38797753	33.74899754	"GA, Atlanta"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-81.09983157	32.0835422	"GA, Savannah"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-90.48343601	41.56085396	"IA, Bettendorf"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-91.66562033	41.97788413	"IA, Cedar Rapids"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-96.40030397	42.49999563	"IA, Sioux City"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-116.1193298	47.53825763	"ID, Kellogg"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-87.68318923	41.76034972	"IL, Chicago/Western Suburbs"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-87.68769515	42.04507362	"IL, Evanston"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-89.58898564	40.69365125	"IL, Peoria"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-88.94561478	38.62699596	"IL, Salem"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-89.65014322	39.78172497	"IL, Springfield"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-88.89783849	37.41533042	"IL, Vienna"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-86.62499649	39.23393685	"IN, Bloomington/Ellettsville"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-85.92137867	39.2014404	"IN, Columbus"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-87.57108794	37.9715639	"IN, Evansville"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-85.13934751	41.07927694	"IN, Fort Wayne"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-85.53719471	40.05727174	"IN, Middletown"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-84.07694017	37.08722592	"KY, London/Corbin"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-88.31475863	36.61033806	"KY, Murray"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-87.11116569	37.77190988	"KY, Owensboro"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-82.51876078	37.47926989	"KY, Pikeville"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-90.07152858	29.95106759	"LA, New Orleans"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-83.0457503	42.33143081	"MI, Detroit"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-94.88027528	47.47361183	"MN, Bemidji"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-93.16833199	47.3802781	"MN, Nashwauk"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-90.62484539	37.76921724	"MO, Bismarck"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-92.33406839	38.95170713	"MO, Columbia"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-94.57856573	39.09973115	"MO, Kansas City"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-90.39288308	36.75700418	"MO, Poplar Bluff"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-90.19940408	38.62700505	"MO, Saint Louis"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-93.29229804	37.20895909	"MO, Springfield"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-91.96987242	36.99227841	"MO, Willow Springs"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-90.18480937	32.29875961	"MS, Jackson"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-88.7033812	34.25760928	"MS, Tupelo"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-78.8783538	35.05266797	"NC, Fayetteville"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-81.68481451	35.74541203	"NC, Morganton"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-80.00531272	35.95569676	"NC, High Point"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-78.01953794	42.31298576	"NY, Allegany"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-78.87836608	42.88644914	"NY, Buffalo"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-84.36216063	39.44033851	"OH, Monroe"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-95.62024395	34.231216	"OK, Antlers"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-97.51642383	35.46756041	"OK, Oklahoma City"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-95.99277006	36.15398188	"OK, Tulsa"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-78.01027776	40.48479699	"PA, Huntingdon"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-77.00107642	41.24118986	"PA, Williamsport"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-80.98243449	35.02187321	"SC, Ft. Mills"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-85.30967835	35.04563288	"TN, Chattanooga"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-85.50164026	36.16284182	"TN, Cookeville"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-88.81394576	35.61452025	"TN, Jackson"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-82.56181574	36.54843428	"TN, Kingsport"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-83.92073495	35.96064033	"TN, Knoxville"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-90.0489801	35.14953887	"TN, Memphis"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-86.78333013	36.16666768	"TN, Nashville"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-99.73313918	32.44873943	"TX, Abilene"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-97.74305954	30.26715638	"TX, Austin"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-96.36995862	30.67436621	"TX, Bryan"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-96.80044953	32.78014419	"TX, Dallas/Fort Worth"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-95.3693854	29.76019555	"TX, Houston"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-100.4370328	31.46377379	"TX, San Angelo"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-95.30105964	32.3512632	"TX, Tyler"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-97.14666635	31.54933509	"TX, Waco"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-111.8910427	40.76078271	"UT, Salt Lake City"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-79.39501845	36.5859728	"VA, Danville"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-77.43604552	37.54072792	"VA, Richmond"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-79.94142557	37.27097074	"VA, Roanoke"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-122.9006907	47.03787454	"WA, Olympia"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-120.5058975	46.60207473	"WA, Yakima"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-80.85621566	39.09564408	"WV, Auburn"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+150.9133856	-34.33385865	"AU, Bulli, NSW"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+153.4256996	-28.01725704	"AU, Gold Coast"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+149.124228	-35.30823522	"AU, Canberra"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+151.7431649	-32.76209662	"AU, Raymond Terrace, NSW"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+151.2069917	-33.86748344	"AU, Sydney"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-114.0580976	51.04532618	"AB, Calgary"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-123.9400608	49.16588454	"BC, Nanaimo"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-66.06330567	45.27331598	"NB, St. John"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-75.72757669	45.37600447	"ON, Kingston/Ottawa"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-81.00999744	46.49000218	"ON, Sudbury"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-78.31974239	44.30906191	"ON, Peterborough"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-81.2431754	42.98695173	"ON, London"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-79.38318076	43.65322806	"ON, Toronto"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+10.75224595	59.91386912	"NO, Oslo"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-0.119819717	51.51121501	"UK, London"	Intercontinental Church of God	http://silenced.co/wp-content/uploads/2012/03/intcog.png
+-82.997673	38.731743	"Portsmouth, OH"	Independent Church of God	http://silenced.co/wp-content/uploads/2011/04/icog.png
+-118.2436827	34.05223767	"Los Angeles, CA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-116.5452909	33.83030028	"Palm Springs, CA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-122.3916733	40.58654443	"Redding, CA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-121.494396	38.58157194	"Sacramento, CA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-117.1572516	32.71532931	"San Diego, CA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-104.8213625	38.8338835	"Colorado Springs, CO"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-104.984716	39.73757189	"Denver, CO"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-107.9131298	40.03747576	"Meeker, CO"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-77.03636527	38.8951163	"Washington, DC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-80.14337394	26.12231258	"Ft Lauderdale, FL"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-81.65564759	30.33218757	"Jacksonville, FL"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-82.63928928	30.18967865	"Lake City, FL"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-82.14008852	29.18719991	"Ocala, FL"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-87.21691261	30.42131283	"Pensacola, FL"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-82.45717411	27.95057531	"Tampa, FL"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-84.38797817	33.74899972	"Atlanta, GA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-82.01051324	33.47349949	"Augusta, GA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-83.95823667	34.87620252	"Blairsville, GA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-83.76266932	34.10927609	"Braselton, GA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-84.9877053	32.46097689	"Columbus, GA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-83.6324003	32.84069845	"Macon, GA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-83.97878035	30.83658544	"Thomasville, GA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-93.60910505	41.60054545	"Des Moines, IA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-90.66456976	42.50056191	"Dubuque, IA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-116.2146036	43.61871273	"Boise, ID"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-87.62979344	41.8781167	"Chicago, IL"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-89.58898517	40.6936507	"Peoria, IL"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-85.13934727	41.07927353	"Fort Wayne, IN"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-86.15806738	39.7684034	"Indianapolis, IN"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-86.62501358	41.29587735	"Knox, IN"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-87.41390587	39.46670512	"Terre Haute, IN"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-95.4572016	37.67921438	"Chanute, KS"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-97.3361089	37.68888957	"Wichita, KS"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-84.29632116	37.56869534	"Berea, KY"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-85.75845085	38.25266864	"Louisville, KY"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-91.14031629	30.4582861	"Baton Rouge, LA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-91.55456022	31.63016937	"Ferriday, LA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-92.019838	30.22409166	"Lafayette, LA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-92.11930062	32.50931329	"Monroe, LA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-90.0715282	29.95106985	"New Orleans, LA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-93.75017659	32.52515261	"Shreveport, LA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-71.83611085	42.19444762	"Auburn, MA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-76.61218592	39.2903855	"Baltimore, MD"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-75.59936861	38.3606785	"Salisbury, MD"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-68.77781036	44.80118367	"Bangor, ME"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-70.10311795	43.85701098	"Freeport, ME"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-83.04574917	42.33142836	"Detroit, MI"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-85.58722656	42.29171145	"Kalamazoo, MI"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-84.55553097	42.73253558	"Lansing, MI"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-85.6878418	46.33898347	"McMillan, MI"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-85.62063026	44.76305941	"Traverse City, MI"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-92.10048266	46.78667411	"Duluth, MN"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-93.26666652	44.98333763	"Minneapolis, MN"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-92.33406787	38.95170836	"Columbia, MO"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-94.5132806	37.08423131	"Joplin, MO"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-94.57856218	39.09972712	"Kansas City, MO"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-91.77152605	37.94854519	"Rolla, MO"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-93.29229395	37.20895897	"Springfield, MO"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-94.83653801	39.75794711	"St Joseph, MO"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-90.19939961	38.62700702	"St Louis, MO"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-88.42726183	33.49567655	"Columbus, MS"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-90.18480581	32.29876031	"Jackson, MS"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-89.13060855	31.69405522	"Laurel, MS"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-88.82780397	30.41131365	"Ocean Springs, MS"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-111.2951956	47.50806109	"Great Falls, MT"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-112.0270295	46.59580647	"Helena, MT"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-79.81364373	35.70791463	"Asheboro, NC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-82.55148233	35.59506207	"Asheville, NC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-80.84312233	35.22708901	"Charlotte, NC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-78.638614	35.7720969	"Raleigh, NC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-80.88729521	35.78263771	"Statesville, NC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-77.94470536	34.22572625	"Wilmington, NC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-100.7837387	46.80833015	"Bismarck, ND"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-95.99798578	41.25236447	"Omaha, NE"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-72.25175551	43.64229727	"Lebanon, NH"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-74.29959033	40.65842382	"Cranford, NJ"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-74.80238184	39.63650721	"Hammonton, NJ"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-106.6099866	35.11070593	"Albuquerque, NM"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-106.7234619	32.4857685	"El Paso/Las Cruces, NM"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-105.9377987	35.68697739	"Santa Fe, NM"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-115.1728117	36.11465077	"Las Vegas, NV"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-119.8138006	39.52963348	"Reno, NV"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-73.75622861	42.65258061	"Albany, NY"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-77.05468822	42.1428535	"Corning, NY"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-73.41512013	40.7934351	"Melville, NY"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-74.00597225	40.71435313	"New York City, NY"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-77.61092016	43.16103181	"Rochester, NY"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-76.14742265	43.04812277	"Syracuse, NY"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-81.51900135	41.08144598	"Akron, OH"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-84.51201905	39.10311899	"Cincinnati, OH"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-82.99879095	39.96117681	"Columbus, OH"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-84.10522165	40.74255278	"Lima, OH"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-97.51642639	35.46756132	"Oklahoma City, OK"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-95.99277415	36.15398394	"Tulsa, OK"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-123.3283895	42.43900751	"Grants Pass, OR"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-122.6762069	45.52345275	"Portland, OR"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-76.8844139	40.27370425	"Harrisburg, PA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-79.99588419	40.44062753	"Pittsburgh, PA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-75.19462186	40.98676566	"Stroudsburg, PA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-66.10571764	18.46633527	"San Juan, PR"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-71.41282999	41.82399057	"Providence, RI"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-82.65012955	34.50344248	"Anderson, SC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-80.6667675	32.90517152	"Walterboro, SC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-85.30967776	35.04563198	"Chattanooga, TN"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-87.35945035	36.52977203	"Clarksville, TN"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-85.02689871	35.94896021	"Crossville, TN"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-83.92073433	35.96064306	"Knoxville, TN"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-90.04897763	35.14953823	"Memphis, TN"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-86.78333071	36.16666905	"Nashville, TN"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-99.7331401	32.44873737	"Abilene, TX"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-101.8312957	35.22199845	"Amarillo, TX"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-97.74305646	30.26715717	"Austin, TX"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-94.12655134	30.08017699	"Beaumont, TX"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-97.39637848	27.80058328	"Corpus Christi, TX"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-96.80044776	32.7801422	"Dallas, TX"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-95.20411026	32.58847417	"Hawkins, TX"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-95.36938625	29.760193	"Houston, TX"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-94.72909276	31.33824438	"Lufkin, TX"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-102.0779131	31.99734916	"Midland, TX"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-98.49362584	29.42412646	"San Antonio, TX"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-97.34277844	31.09823936	"Temple, TX"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-111.9710481	41.06022231	"Layton, UT"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-82.18880401	36.59514282	"Bristol, VA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-76.28587098	36.85076953	"Norfolk, VA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-77.43604511	37.5407282	"Richmond, VA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-76.70745621	37.27070433	"Williamsburg, VA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-78.1633296	39.18566412	"Winchester, VA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-119.2844582	46.28569366	"Richland, WA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-122.4442878	47.25287879	"Seattle/Tacoma, WA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-119.4395	48.70515633	"Tonasket, WA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-88.41538442	44.26193424	"Appleton, WI"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-89.68345672	45.18052366	"Merrill, WI"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-87.90647204	43.03890263	"Milwaukee, WI"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-89.77095654	43.62747987	"Wisconsin Dells, WI"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-81.22231948	37.26984378	"Bluefield, WV"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-81.99345804	37.84871827	"Logan, WV"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-81.71068232	38.8186978	"Ripley, WV"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-106.3130792	42.86663487	"Casper, WY"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-106.806423	41.45496223	"Saratoga, WY"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-104.952748	42.05441765	"Wheatland, WY"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+168.3220307	-17.73481498	"Port Vila, Efate"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+167.3972914	-16.0760686	"Norsup, Malakula"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+169.2819099	-19.53890524	"Isangel, Tanna"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+31.0539637	-17.82921512	"Harare, Zimbabwe"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-59.84106737	-37.20172422	"Buenos Aires, Buenos Aires"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-67.70022287	-53.78603317	"Rio Grande, Tierra del Fuego"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+149.1242283	-35.30823314	"Canberra, ACT"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+151.2069917	-33.86748327	"Sydney, NSW"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+153.0234495	-27.47100929	"Brisbane, QLD"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+138.599962	-34.92861674	"Adelaide, SA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+146.3609551	-41.17834858	"Devonport, TAS"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+144.9632825	-37.81410659	"Melbourne, VIC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+115.8574732	-31.95300197	"Perth, WA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+144.961946	-37.77172281	Christ Church	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+4.351710986	50.85034244	Brussels	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+37.61842524	55.75124443	Moscou	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-110.7499973	54.26666745	"Bonnyville, AB"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-114.0580982	51.04532622	"Calgary, AB"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-113.4909259	53.54439136	"Edmonton, AB"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-118.7986128	55.16994146	"Grande Prairie, AB"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-112.8327763	49.69417102	"Lethbridge, AB"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-113.8112385	52.26811539	"Red Deer, AB"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-122.4706623	49.05805361	"Aldergrove, BC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-115.7693964	49.51296825	"Cranbrook, BC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-119.4960069	49.88795426	"Kelowna, BC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-128.6031513	54.51819258	"Terrace, BC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-123.365641	48.4284255	"Victoria, BC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-97.13748995	49.89975454	"Winnipeg, MB"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-68.32667368	47.36901524	"Edmunston, NB"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-66.64311093	45.96359256	"Fredericton, NB"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-64.77822685	46.08782112	"Moncton, NB"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-52.71283108	47.56054371	"St Johns, NL"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-63.57531875	44.64886352	"Halifax, NS"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-62.63762263	45.61685005	"Trenton, NS"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-79.70161406	44.37809483	"Barrie, ON"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-93.39552496	48.60995128	"Ft Frances, ON"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-80.24816234	43.5448067	"Guelph, ON"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-76.48594981	44.23117418	"Kingston, ON"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-81.24317338	42.98695048	"London, ON"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-79.64411843	43.58904614	"Mississauga, ON"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-79.46081587	46.30911863	"North Bay, ON"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-75.69719255	45.42153036	"Ottawa, ON"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-78.31974293	44.30906164	"Peterborough, ON"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-79.24686122	43.15937649	"St Catharines, ON"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-81.00999586	46.49000143	"Sudbury, ON"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-89.24768055	48.38089713	"Thunder Bay, ON"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-79.38318207	43.6532303	"Toronto, ON"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-83.00852798	42.2796105	"Windsor, ON"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-73.55399105	45.50867036	"Montreal, QC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-71.24279561	46.8032836	"Quebec City, QC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-71.06849011	48.42805653	"Saguenay, QC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-105.7530689	53.20335435	"Prince Albert, SK"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-104.606663	50.45472338	"Regina, SK"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-106.6476556	52.13437338	"Saskatoon, SK"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-102.4627738	51.21389171	"Yorkton, SK"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-72.58449378	-38.73382895	"Temuco, Cautin"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-70.70718946	19.45565462	"Santiago, Santiago"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-75.57513465	6.23592811	"Medellin, Antioquia"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-75.51828373	5.067133024	"Manizales, Caldas"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-77.05678158	-11.96026006	"Santa Fe de Bogota, Distrito Especial"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-75.30444043	2.998612519	"Neiva, Huila"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-75.69455369	4.814279439	"Pereira, Risaralda"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-76.52221894	3.420556214	"Cali, Valle del Cauca"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-117.8678294	33.7455768	Santa Ana	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-89.20180681	13.70688172	San Salvador	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+7.747884622	48.5831483	"Strasbourg, Alsace"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+2.352223254	48.85661514	"Paris, Ile-de-France"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+4.360056564	43.83670067	"Nimes, Languedoc-Roussillon"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+8.379946914	49.00914801	Karlsruhe	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-61.47856947	16.22160699	Gosier	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-91.86666232	14.70000396	Coatepeque	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-58.15482828	6.804615372	"Georgetown, Demerara-Mahaica"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-59.24999596	2.516669175	"Aishalton, Upper Takutu-Upper Essequibo"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-72.67777568	19.67189777	"Gros Morne, Artibonite"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-72.33640709	18.53927003	"Port-au-Prince, Ouest"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-87.21669957	14.08330023	Tegucigalpa	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+93.9481989	24.80630125	"Imphal, Manipur"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+112.6265048	-7.981889583	"Malang, Jawa Timur"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-8.486313167	51.89689461	Cork	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-6.260308061	53.34980616	Dublin	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-76.48595153	44.23117334	Kingston	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-90.06562666	30.35825145	Mandeville	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-77.07371147	18.40410345	Ocho Rios	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+37.05656113	-0.596874085	"Muthuthiini, Central"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+37.45034116	-0.532675505	"Embu, Eastern"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+37.37712345	-2.018133894	"Sultan Hamud, Eastern"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+36.82194673	-1.292064376	"Nairobi, Nairobi"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+34.59762953	-0.988103648	"Kisii, Nyanza"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+34.68895723	-0.429093086	"Kosele, Nyanza"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+34.36605646	-0.728396479	"Ndhiwa, Nyanza"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+36.07502679	-0.283027542	"Nakuru, Rift Valley"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+27.49160384	-29.30831711	Maseru	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+101.6840631	3.131920516	"Kuala Lumpur, Federal Territory"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+102.3875982	2.804584953	"Bahau, Negeri Sembilan"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-61.0725583	14.60937557	Fort-de-France	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-117.0044722	32.46838249	"La Paz, BC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-103.4067827	25.5428489	"Torreon, COAH"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-99.13320682	19.43260951	"Mexico City, DF"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-103.3496209	20.65965204	"Guadalajara, JAL"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-100.3091969	25.67321387	"Monterrey, NL"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-100.3898872	20.58879439	"Queretaro, QRO"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+94.05000396	23.18333569	"Kalaymyo, Sagain"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+5.716668363	51.20000022	Stramproy	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+174.7633323	-36.84845885	Auckland	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+172.6362265	-43.53205167	Christchurch	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+168.3537769	-46.41318403	Invercargill	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+175.608219	-40.35230157	Palmerston North	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+176.1651297	-37.68779583	Tauranga	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+174.3237111	-35.72511057	Whangarei	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-8.67292043	37.10280818	Lagos	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+143.6474863	-3.579521634	"Wewak, ESP"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-76.19999565	-10.13333314	"Ambo, Huanuco"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-77.06220234	-12.04781547	"Lima, Lima"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-76.26249541	-10.68638606	"Cerro de Pasco, Pasco"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+120.6138908	17.60000043	"Bangued, Abra"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+120.5790043	14.61869461	"Orion, Bataan"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+120.5960115	16.40233469	"Baguio City, Benguet"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+124.4641893	11.58331714	"Naval, Biliran"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+124.9907996	7.679895719	"Don Carlos, Bukidnon"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+124.8789698	7.63812168	"Kiara, Bukidnon"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+124.8375829	7.68094419	"Mauswagon, Bukidnon"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+125.3466273	7.846371158	"San Fernando, Bukidnon"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+121.6500025	17.90000273	"Alcala, Cagayan"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+123.8854411	10.31569988	"Cebu, Cebu"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+126.0846976	7.665969245	"Compostela, Compostela Valley"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+126.0500006	7.816671058	"Monkayo, Compostela Valley"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+125.9666694	7.600001645	"Nabunturan, Compostela Valley"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+125.4553419	7.190712122	"Davao City, Davao del Sur"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+125.4328505	11.60799282	"Borongan, Eastern Samar"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+121.5877807	16.88305698	"San Mateo, Isabela"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+120.3884763	16.38879546	"Aringay, La Union"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+124.2452463	8.228021981	"Iligan City, Lanao Del Norte"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+123.7771024	7.924972754	"Maranding, Lanao Del Norte"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+125.0000002	11.2500048	"Tacloban, Leyte"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+123.2470001	12.90300308	"Claveria, Masbate"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+121.0437013	14.67604577	"Quezon City, Metro Manila"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+124.6319018	8.4542364	"Cagayan de Oro, Misamis Oriental"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+125.0911382	7.010610214	"Kidapawan, North Cotabato"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+124.2500027	7.216668432	"Macebolig, North Cotabato"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+118.7855105	9.967217853	"Puerto Princesa City, Palawan"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+119.8500014	16.20000199	"Bani, Pangasinan"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+120.5432005	16.10841404	"Pozorrubio, Pangasinan"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+121.6234481	13.9413991	"Lucena, Quezon"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+125.0666691	6.21666822	"Polomolok, South Cotabato"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+125.170876	10.33462127	"Lilo-An, Southern Leyte"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+124.8437004	10.14483159	"Maasin City, Southern Leyte"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+123.0076982	8.231363398	"Sindangan, Zamboanga del Norte"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-9.150036042	38.72530308	Lisbon	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+103.8198395	1.352083989	Singapore	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-63.02999878	18.03666917	Upper Prince’s Quarter	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+25.56995342	-33.93263688	"Port Elizabeth, EC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+28.21837173	-25.73133509	"Pretoria, GP"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+31.02758108	-29.85787244	"Durban, KZN"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+24.75404346	-28.7292897	"Kimberley, NC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+18.42405712	-33.92486532	"Cape Town, SWC"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-16.62912818	28.29156616	Canary Islands	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+79.86124786	6.927079977	Colombo	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+31.25000298	-25.96666263	Piggs Peak	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+6.142296891	46.19839279	Geneva	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+33.80000293	-1.499995487	Musoma	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+33.08734386	-2.105359312	"Nansio, Ukerewe"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+100.4847237	13.67722699	Chom Thong	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+98.22500122	17.22666921	Tha Song Yang	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+98.70407967	16.77518346	"Mae Sot, Tak"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-61.41144429	10.51683919	"Chaguanas, Trinidad"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+30.27500399	0.66000182	Fort Portal	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-2.587909691	51.45451423	"Bristol, Bristol"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-2.13249725	49.21666835	"Jersey, Channel Islands"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-2.893072752	53.19339226	"Chester, Cheshire"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-4.836451062	50.51665474	"Wadebridge, Cornwall"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+0.008781585	50.87387434	"Lewes, East Sussex"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-2.247921359	53.47925137	"Manchester, Greater Manchester"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-0.119823525	51.51121418	"Croydon, London"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-0.119820481	51.51121604	"North London, London"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-5.930115786	54.5972873	"Belfast, Northern Ireland"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-4.251805629	55.86423843	"Glasgow, Scotland"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-3.106848042	51.01534749	"Taunton, Somerset"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-0.679236259	51.34960927	"Lightwater, Surrey"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-3.179089062	51.48158498	"Cardiff, Wales"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-3.827604459	53.32406352	"Llandudno, Wales"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-1.890397861	52.48624363	"Birmingham, West Midlands"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-4.690724474	51.84113313	"Llanfallteg, West Wales"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-1.308646351	53.69168931	"Pontefract, West Yorkshire"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-149.9002756	61.21805733	"Anchorage, AK"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-86.97167269	34.8028709	"Athens, AL"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-86.8024861	33.52066298	"Birmingham, AL"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-86.29996712	32.36680926	"Montgomery, AL"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-92.66626281	33.2076301	"El Dorado, AR"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-94.15742223	36.06258106	"Fayetteville, AR"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-94.39854403	35.38592653	"Fort Smith, AR"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-93.10767447	36.2297952	"Harrison, AR"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-92.28959386	34.74648536	"Little Rock, AR"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-93.13378146	35.27841979	"Russellville, AR"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-112.0740344	33.44838133	"Phoenix, AZ"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-112.3157166	34.61002882	"Prescott Valley, AZ"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-110.9264759	32.2217459	"Tucson, AZ"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-120.5907204	35.1185914	"Arroyo Grande, CA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-122.03107	37.97797908	"Concord, CA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-124.1636707	40.80207509	"Eureka, CA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-119.7725858	36.74684551	"Fresno, CA"	Living Church of God	http://silenced.co/wp-content/uploads/2011/05/living.jpg
+-97.339996	35.52	"Edmond, OK 73083"	Philadelphia Church of God	http://silenced.co/wp-content/uploads/2012/03/pcg-150x150.png
+-97.457169	35.729752	Herbert W. Armstrong College	Philadelphia Church of God	http://silenced.co/wp-content/uploads/2012/03/pcg-150x150.png
+-97.416504	35.708565	Imperial Academu	Philadelphia Church of God	http://silenced.co/wp-content/uploads/2012/03/pcg-150x150.png
+-81.694633	41.044209	"Wadsworth, OH"	Restored Church of God	http://silenced.co/wp-content/uploads/2011/04/rcg.png
+-79.245514	43.156944	"St. Catharine's, ON"	Restored Church of God	http://silenced.co/wp-content/uploads/2011/04/rcg.png
+-92.279999	34.75	"Little Rock, AR 72260"	Sabbath	http://silenced.co/wp-content/uploads/2012/03/sidebar-1.jpg
+-151.0583316	60.48777928	"Soldotna, AK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-86.80248818	33.52066208	"Birmingham, AL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-84.9877053	32.46097758	"Columbus, GA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-86.11521418	30.72102434	"DeFuniak Springs, FL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-86.00663503	34.01426789	"Gadsden, AL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-86.58609982	34.73036918	"Huntsville, AL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-88.04305372	30.6943605	"Mobile, AL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-90.70427566	35.84229737	"Jonesboro, AR"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-92.28959278	34.74648579	"Little Rock, AR"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-94.03768333	33.44179226	"Texarkana, AR"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-112.0740341	33.44837966	"Northwest Phoenix, AZ"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-112.0740346	33.44838105	"Phoenix East, AZ"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-77.99534347	44.0184322	Telephone: 480-380-2311	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-110.0298326	34.25421283	"Show Low, AZ"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-110.2772824	31.54550087	"Sierra Vista, AZ"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-110.9264753	32.22174527	"Tucson, AZ"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-114.6276894	32.69265125	"Yuma, AZ"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-119.0187124	35.37329309	"Bakersfield, CA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-124.1636694	40.80207466	"Eureka, CA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-117.9414435	33.77390826	"Garden Grove, CA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-118.243681	34.05223446	"Los Angeles, CA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-122.2711135	37.80436654	"Oakland, CA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-117.1825335	34.0555699	"Redlands, CA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-121.4943978	38.58157471	"Sacramento, CA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-117.1572502	32.71532983	"San Diego, CA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-121.8949534	37.33938777	"San Jose, CA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-122.714429	38.44046913	Santa Rosa	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-121.2907795	37.95770271	"Stockton, CA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-104.8213631	38.83388457	"Colorado Springs, CO"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-104.9847146	39.73757178	"Denver, CO"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-106.0975179	39.57443281	"Frisco, CO"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-105.0749753	40.39776136	"Loveland, CO"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-71.80229276	42.26259457	"Worcester, MA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-71.38243448	42.40721286	"Delmarva, MA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-86.11521442	30.7210234	"DeFuniak Springs, FL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-80.14337713	26.12231228	"Ft. Lauderdale, FL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-81.87230409	26.64062944	"Ft. Myers, FL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-81.65564711	30.33218382	"Jacksonville, FL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-82.14008843	29.18719986	"Ocala, FL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-81.37923391	28.53833908	"Orlando, FL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-82.6399952	27.7730595	"St. Petersburg, FL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-84.28072984	30.43825896	"Tallahassee, FL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-82.45717384	27.95057587	"Tampa, FL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-80.39727162	27.63864755	"Vero Beach, FL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-84.38797852	33.74899578	"Atlanta, GA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-84.00434803	34.12065748	"Buford, GA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-85.30967804	35.04563349	"Chattanooga, TN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-84.98770796	32.46098091	"Columbus, GA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-83.63239818	32.84069714	"Macon, GA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-85.16466787	34.25703964	"Rome, GA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-81.09983147	32.08354355	"Savannah, GA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-157.8583293	21.30694572	"Honolulu, HI"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-91.66562293	41.97788061	"Cedar Rapids, IA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-93.60910487	41.60054745	"Des Moines, IA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-95.99798545	41.2523679	"Omaha, NE"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-92.54938408	47.50562802	Southern Minnesota	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-116.2146028	43.61871036	"Boise, ID"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-112.0339604	43.49165168	"Idaho Falls, ID"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-117.0011883	46.40040928	"Lewiston, ID"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-114.4608689	42.56296939	"Twin Falls, ID"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-89.03177242	42.50834848	"Beloit, WI"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-88.9936861	40.48420458	"Bloomington, IL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-90.03511474	40.55809545	"Canton, IL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-87.62979441	41.87811502	"Chicago, IL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-87.51253992	41.56448215	"Munster, IN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-89.65014667	39.78172195	"Springfield, IL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-87.41390795	39.46670372	"Terre Haute, IN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-89.88315285	38.72921631	"Troy, IL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-85.97666559	41.68199816	"Elkhart, IN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-85.13934814	41.07927598	"Ft. Wayne, IN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-87.59001183	37.83615847	"Henderson, KY"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-86.15806662	39.76840517	"Indianapolis, IN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-86.87528649	40.41670692	"Lafayette, IN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-87.51254091	41.56448294	"Munster, IN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-87.4139065	39.46670386	"Terre Haute, IN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-94.62745881	39.1140567	"Kansas City, KS"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-100.3401442	37.28558276	"Meade, KS"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-97.61142304	38.84028107	"Salina, KS"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-94.83654	39.75794522	"St. Joseph, MO"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-95.68901637	39.0558244	"Topeka, KS"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-97.33610861	37.68889214	"Wichita, KS"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-86.44359956	36.99032078	"Bowling Green, KY"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-84.51201616	39.10311907	"Cincinnati East, OH"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-87.59001337	37.83615605	"Henderson, KY"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-84.08326063	37.12897719	"London, KY"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-84.50371367	38.04058436	"Lexington, KY"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-88.60004542	37.08339259	"Paducah, KY"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-82.77154598	37.66565708	"Prestonsburg, KY"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-90.07152941	29.95106829	"New Orleans, LA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-92.63792439	32.52320832	"Ruston, LA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-71.80229202	42.26259767	"Worcester, MA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-76.86104307	39.2037157	"Columbia, MD"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-72.53329661	-36.28329574	"Quirihue, Chile"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-70.64199395	-33.46911985	"Santiago, Chile"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-71.65728826	-35.43064222	"Talca, Chile"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-72.58449294	-38.73382995	"Temuco, Chile"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-73.24520574	-39.81958217	"Valdivia, Chile"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+9.706376664	4.047490106	"Douala, Cameroon"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+15.24055604	10.34278271	"Yagoua, Cameroon"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-74.07583095	4.598056681	"Bogotá, Colombia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-72.50388735	7.894168862	"Cúcuta, Colombia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-74.04999769	7.966671459	"Santa Rosa del Sur, Colombia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+8.530299595	52.02130051	"Bielefeld, Germany"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+8.65176545	49.87765225	"Darmstadt, Germany"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+6.773460002	51.22774183	"Dusseldorf, Germany"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+9.993684652	53.55108604	"Hamburg, Germany"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+11.57708994	48.13660872	"Munich, Germany"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+9.18176357	48.77541942	"Stuttgart, Germany"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-61.3709759	15.41500235	Dominica	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+26.72501744	58.38068565	"Tartu, Estonia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+178.0650341	-17.7133707	Fiji	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-0.579175883	44.83779046	"Bordeaux, France"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-0.196302471	5.555721628	"Accra, Ghana"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-90.53281351	14.62479602	"Guatemala City, Guatemala"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-91.52195814	14.83615628	"Quetzaltenango, Guatemala"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-91.90992047	14.93095942	"San Marcos, Guatemala"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-59.24999904	2.51666778	"Aishalton, Guyana"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-88.02773984	15.50167053	"San Pedro Sula, Honduras"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+106.8451725	-6.211543077	"Jakarta, Indonesia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-6.850366195	52.71897722	"Carlow, Republic of Ireland"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+78.00807605	27.17667043	"Agra, India"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+15.0828556	37.50804297	"Catania, Italy"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+9.186518675	45.465457	"Milan, Italy"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+14.26812516	40.85177734	"Naples, Italy"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-76.79200685	17.99273522	"Kingston, Jamaica"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-77.07371081	18.40410156	"Ocho Rios, Jamaica"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+36.0405227	-0.490526338	"Bagaria, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+35.81666884	-0.299999121	"Elburgon, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+34.13333797	-0.966662914	"Got Kachola, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+34.33590248	0.308367281	"Inungo, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+35.1177712	-0.718754413	"Kipajit, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+34.66629602	-0.074871014	"Kisian, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+35.00230584	1.0190933	"Kitale, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+34.82547542	-0.336049049	"Kong'ou, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+34.32132131	-0.28450172	"Madiany, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+35.09111517	1.25443398	"Makutano, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+37.54745755	-1.145975703	"Matuu, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+37.64560864	0.051475936	"Meru, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+39.66820697	-4.04347547	"Mombasa, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+36.82194658	-1.292064146	"Nairobi, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+35.09489942	-0.839505747	"Ndanai, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+36.8219465	-1.292062471	"Nyafari, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+34.72573537	-0.800296454	"Ogembo, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+34.45864555	-1.066938733	"Oruba, Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+34.74257322	-0.917724736	"Senta , Kenya"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-60.97888963	13.90944587	St. Lucia	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+80.77179713	7.873055445	Sri Lanka	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+79.8612447	6.927080909	Colombo	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+46.86910982	-18.7669438	Madagascar	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+57.55215527	-20.34840183	Mauritius	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+34.30152669	-13.25430592	Malawi	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+35.00583457	-15.78610881	Blantyre	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+33.78333613	-13.98332964	Lilongwe	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-99.13320521	19.43260944	México D.F.	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-100.3091987	25.67321437	"Monterrey, Mexico"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-102.9166647	21.86666737	"Tabasco, Mexico"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-104.8945851	21.50416985	"Tepic Nayarit, Mexico"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+101.6868557	3.139005127	"Kuala Lumpur, Malaysia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+118.5318468	4.436336837	"Semporna, Sabah, Malaysia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+5.626484892	6.339084063	"Benin City, Nigeria"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+3.41797801	6.441162466	"Lagos, Nigeria"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+7.033335364	5.483335017	"Owerri, Nigeria"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+5.291268774	52.13263793	"Holland, Netherlands"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+174.7633336	-36.84845657	"Auckland, New Zealand"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+174.1646179	-35.18436599	"Bay of Islands, New Zealand"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+175.2792534	-37.78699881	"Hamilton, New Zealand"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-80.78212322	8.537982237	Panama	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-77.06220038	-12.04781492	"Lima, Peru"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-79.02879514	-8.111998497	"Trujillo, Peru"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+125.0451748	10.66875258	"Abuyog, Leyte, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+122.9689603	10.64074187	"Bacolod City, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+121.7740174	12.8797217	"Bagaobawan, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+124.7240024	7.49100402	"Banisilan, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+124.8525675	10.65214216	"Baybay, Leyte, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+125.9984973	8.178774837	"Bunawan, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+125.5406234	8.947540434	"Butuan City, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+124.631899	8.454238906	"Cagayan de Oro City, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+125.4553416	7.190708209	"Davao City, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+121.7740181	12.87972558	"Diatagon, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+124.4473563	10.91795373	"Isabel, Leyte, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+125.5529447	9.329360242	"Jabonga, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+125.6278394	7.619500072	"Kapalong, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+124.8789721	7.638120414	"Kiara, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+125.0911343	7.010610991	"Kidapawan City, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+120.9842244	14.59951606	"Manila, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+125.0042061	7.766233672	"Maramag, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+126.2467533	6.94376398	"Mati, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+126.1562064	7.255225653	"Pantukan, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+125.8996967	8.583314518	"Prosperidad, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+120.3488899	15.92805885	"San Carlos City, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+120.5768369	15.86714073	"Sto. Tomas, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+125.0000013	11.25000072	"Tacloban City, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+126.150005	8.96667139	"Tago, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+125.8094275	7.448212463	"Tagum, Philippines"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-8.224453902	39.39987246	Portugal	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+30.1863541	-1.755762753	"Giti, Rwanda"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+29.63333597	-1.499997581	"Musanze, Rwanda"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+30.12140167	-1.95557377	"Remera, Rwanda"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+15.13353671	58.32269531	"Mjolby, Sweden"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+103.8198393	1.35208465	Singapore	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-89.20180697	13.70688285	"San Salvador, El Salvador"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+1.212504001	6.137778117	"Lomé, Togo, El Salvador"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-175.1999996	-21.13332888	"Nuku'alofa, Tonga"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-61.22250141	10.69180529	"Trinidad, Trinidad and Tobago"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+32.58111142	0.313613665	"Kampala, Uganda"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-6.280375029	54.86538249	"Ballymena, Northern Ireland, UK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-0.362441058	51.70506456	"Bricketwood, St. Albans, Hertfordshire, UK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-1.519692604	52.40682438	"Coventry, West Midlands, UK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-2.238153049	51.86424953	"Gloucester, Gloucestershire, UK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-4.382648664	54.31738797	"Isle of Man: Ramsey, UK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-0.133897164	51.52814138	"London, Euston, UK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-1.147616779	52.967817	"Nottingham, East Midlands, UK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-2.703088968	53.76320139	"Preston, Lancashire, UK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-1.470084468	53.38113109	"Sheffield, South Yorkshire, UK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-3.942226095	56.11698729	"Stirling, Scotland, UK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+0.275684694	51.19504504	"Tonbridge, Kent, UK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-56.18194042	-34.88360853	"Montevideo, Uruguay"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-172.1046248	-13.75902649	Samoa	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+18.42405773	-33.92486739	"Cape Town, South Africa"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+30.98260059	-29.89764735	"Durban/KZN South Coast, South Africa"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+27.86666789	-32.9833312	"East London, South Africa"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+27.97176243	-26.17043775	"Johannesburg/Pretoria, South Africa"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+32.63622333	-10.15350643	"Isoka, Zambia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+26.23046252	-13.71458311	"Kasumpa, Zambia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+28.2871705	-15.40819296	"Lusaka, Zambia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+26.608167	-15.03687454	"Mapoko, Mumbwa, Zambia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+28.25266527	-12.51780872	"Mufulira, Zambia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+24.80000469	-13.68333052	"Mufumbwe, Zambia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+26.60816742	-15.036875	"Nalubanda North, Mumbwa, Zambia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+31.05396232	-17.82921664	"Harare, Zimbabwe"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-70.87333081	42.89361362	"Seabrook, NH"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-83.74303353	42.28082802	"Ann Arbor, MI"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-83.04575128	42.33142913	"Detroit, MI"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-83.68745124	43.01252769	"Flint, MI"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-85.6680859	42.96336018	"Grand Rapids, MI"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-85.58722368	42.29170946	"Kalamazoo, MI"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-84.55553258	42.73253831	"Lansing, MI"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-84.95532934	45.3733462	"Petoskey, MI"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-83.95080409	43.41947363	"Saginaw, MI"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-85.62062973	44.76305816	"Traverse City, MI"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-92.10048459	46.78667569	"Duluth, MN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-96.78980076	46.87718703	"Fargo, ND"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-94.36249907	45.97639286	"Little Falls, MN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-93.08995504	44.95370375	"St. Paul, MN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-89.51814659	37.30588764	"Cape Girardeau, MO"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-92.22368829	38.92526892	"Columbia/Fulton, MO"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-90.39288315	36.75700047	"Poplar Bluff, MO"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-93.29229445	37.2089578	"Springfield, MO"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-94.83653863	39.75794519	"St. Joseph, MO"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-90.1994021	38.62700491	"St. Louis, MO"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-89.13060835	31.69405583	"Laurel, MS"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-88.70338391	34.257611	"Tupelo, MS"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-108.5006898	45.78329029	"Billings, MT"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-111.0504949	45.68346009	"Bozeman, MT"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-112.0270303	46.59580863	"Helena, MT"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-114.3151012	48.20053324	"Kalispell, MT"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-114.0194964	46.86052308	"Missoula, MT"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-80.84312279	35.22708841	"Charlotte, NC"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-79.79197273	36.07263901	"Greensboro, NC"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-81.34119633	35.73319083	"Hickory, NC"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-77.43023649	34.75405723	"Jacksonville, NC"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-78.63861103	35.77209698	"Raleigh, NC"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-100.7837358	46.80833086	"Bismarck, ND"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-96.7898028	46.87719008	"Fargo, ND"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-101.2962691	48.23251084	"Minot, ND"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-95.99798548	41.2523664	"Omaha, NE"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-70.87332836	42.893613	"Seabrook, NH"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-75.37045726	40.62593292	"Bethlehem, PA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-74.00597303	40.71435337	"New York City, NY"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-75.16378746	39.95233511	"Philadelphia, PA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-106.60999	35.11070491	"Albuquerque, NM"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-106.4869279	31.75872348	"El Paso, TX"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-104.5230225	33.39426846	"Roswell, NM"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-115.1728136	36.11464814	"Las Vegas, NV"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-119.8138014	39.52963351	"Reno, NV"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-78.87836751	42.88644977	"Buffalo, NY"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-76.80773083	42.0898014	"Elmira, NY"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-74.00597152	40.71435707	"New York City, NY"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-82.10125356	39.32924238	"Athens, OH"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-81.5884552	40.03118618	"Cambridge, OH"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-84.51201464	39.10311906	"Cincinnati East, OH"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-84.51201755	39.10312144	"Cincinnati North, OH"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-81.69540606	41.49950018	"Cleveland, OH"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-82.99879262	39.96117801	"Columbus, OH"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-84.19160438	39.75895196	"Dayton, OH"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-82.51544252	40.75839203	"Mansfield, OH"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-81.40233246	40.87589516	"North Canton, OH"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-82.99767291	38.73174732	"Portsmouth, OH"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-80.64951798	41.09978316	"Youngstown, OH"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-98.39592631	34.60356693	"Lawton, OK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-97.51642739	35.46756171	"Oklahoma City, OK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-95.99277201	36.15398439	"Tulsa, OK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-117.8343801	44.77487893	"Baker City, OR"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-121.3153084	44.05817636	"Bend, OR"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-123.0867512	44.05207207	"Eugene, OR"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-121.52146	45.70540135	"Hood River, OR"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-122.875594	42.3265179	"Medford, OR"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-122.6762028	45.52345295	"Portland, OR"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-123.3417341	43.21650504	"Roseburg, OR"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-123.0350924	44.94290242	"Salem, OR"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-75.37045588	40.62593513	"Bethlehem, PA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-76.80773258	42.08979907	"Elmira, NY"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-77.57138031	40.59924228	"Lewistown, PA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-75.16378524	39.95233972	"Philadelphia, PA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-79.99588601	40.44062871	"Pittsburgh, PA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-76.72774335	39.96260266	"York, PA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-80.64951823	41.09978512	"Youngstown, OH"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-66.59014405	18.22083698	Puerto Rico	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-80.84312532	35.22708983	"Charlotte, NC"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-81.03481371	34.00071418	"Columbia, SC"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-81.09982991	32.08354544	"Savannah, GA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-96.70032699	43.5499789	"Sioux Falls, SD"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-97.11507005	44.89941259	"Watertown, SD"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-85.30967944	35.04563219	"Chattanooga, TN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-88.81394404	35.61452027	"Jackson, TN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-82.5618142	36.54843422	"Kingsport, TN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-83.92073467	35.96064078	"Knoxville, TN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-90.04897777	35.14953511	"Memphis, TN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-86.39026629	35.84562594	"Murfreesboro, TN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-86.78332929	36.16666781	"Nashville, TN"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-97.74306063	30.26715448	"Austin, TX"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-99.42644925	31.82737076	"Coleman, TX"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-97.39638082	27.80058678	"Corpus Christi, TX"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-96.80044738	32.78014121	"Dallas/Ft. Worth, TX"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-99.90180841	31.96860191	East Texas	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-106.4869303	31.75872309	"El Paso, TX"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-95.36938909	29.76019647	"Houston, TX"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-101.8551664	33.57786748	"Lubbock, TX"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-102.3676422	31.84568387	"Odessa, TX"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-98.49362415	29.42412544	"San Antonio, TX"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-96.60888008	33.63566232	"Sherman, TX"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-94.04768635	33.42512621	"Texarkana, TX"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-97.14666885	31.54933317	"Waco, TX"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-111.8910473	40.76078321	"Salt Lake City, UT"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-76.86104446	39.20371871	"Columbia, MD"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-77.43604591	37.54072691	"Richmond, VA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-79.94142549	37.27097154	"Roanoke, VA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-119.1372323	46.2112459	"Kennewick, WA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-118.0558209	48.61073627	"Kettle Falls, WA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-122.9006902	47.03787854	"Olympia, WA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-122.3320668	47.60621292	"Seattle, WA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-122.2361055	48.50389237	"Sedro Woolley, WA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-123.1018434	48.07953882	"Sequim, WA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-117.4260463	47.65878332	"Spokane, WA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-122.4442887	47.25287753	"Tacoma, WA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-89.03177325	42.50835169	"Beloit, WI"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-91.49849229	44.81135019	"Eau Claire, WI"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-91.23957891	43.80135917	"La Crosse, WI"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-87.90646949	43.03890638	"Milwaukee, WI"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-88.54261222	44.02471081	"Oshkosh, WI"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-89.77095704	43.62747962	"Wisconsin Dells, WI"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-80.72091086	40.06396577	"Wheeling, WV"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-109.6304293	43.53356794	"Dubois, WY"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-62.26807598	-38.7116743	"Bahia Blanca, Argentina"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-58.39183353	-34.582505	"Buenos Aire, Argentina"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-68.06413846	-38.95244027	"Neuquén, Argentina"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+138.5999624	-34.92861902	"Adelaide, SA"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+146.9164723	-36.08077741	"Albury, Australia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+144.438838	-37.67599166	"Bacchus Marsh, VIC"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+149.5810315	-33.41765208	"Bathurst, NSW"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+153.0234532	-27.47100856	"Brisbane, QLD"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+149.1242288	-35.30823081	Canberra ACT	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+151.1911035	-33.30013223	"Central Coast, NSW"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+147.6402904	-22.8247824	"Clermont, QLD"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+146.6588103	-41.52474663	"Deloraine, TAS"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+146.3609559	-41.17835116	"Devonport, TAS"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+148.6094997	-32.24381049	"Dubbo, NSW"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+152.9597091	-26.85367993	"Glasshouse Mountains, QLD"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+153.4257007	-28.01725697	"Gold Coast, QLD"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+149.7186514	-34.7548337	"Goulburn, NSW"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+147.323817	-42.88190128	"Hobart, Tas"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+149.1856295	-21.14120553	"Mackay, QLD"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+144.9859207	-37.81128639	"Melbourne East, VIC"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+151.7696769	-32.9327316	"Newcastle, NSW"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+115.8574707	-31.95300042	"Perth, WA, Australia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+152.9081355	-31.43126556	"Port Macquarie, NSW"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+151.2069917	-33.86748672	"Sydney, NSW"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+151.9539894	-27.56432737	"Toowoomba, Qld"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+152.3296895	-26.0960842	"Wide Bay, Qld"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+150.8931271	-34.42497998	"Wollongong, NSW"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-59.54319602	13.19388964	Barbados	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+2.433337978	6.366668113	"Cotonou, Benin"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-68.14624673	-16.4990098	"La Paz, Bolivia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-62.99999651	-17.8666618	"Santa Cruz, Bolivia"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-62.07509937	2.7376005	"Maloca de Moscow, RR, Brasil"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-43.86524237	-16.73686469	"Montes Claros, MG, Brasil"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-78.69658004	26.52847563	"Freeport, Bahamas"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-88.76694163	17.25139138	"Belmopan, Belize"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-114.0580994	51.04532546	"Calgary, AB"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-113.4909241	53.54438941	"Edmonton, AB"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-118.7986134	55.16994342	"Grande Prairie, AB"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-79.86608905	43.25002387	"Hamilton, ON"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-80.4777461	43.43431122	"Kitchener, ON"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-112.8327748	49.69416853	"Lethbridge, AB"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-81.2431726	42.98695406	"London, ON"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-73.5539909	45.50867055	"Montreal, QC"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-108.2974509	52.77647844	"North Battleford, SK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-119.3500988	50.36669096	"Okanagan, BC"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-75.69719027	45.42153368	"Ottawa, ON"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-122.7496692	53.91706801	"Prince George, BC"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-113.8112356	52.26811657	"Red Deer, AB"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-104.606662	50.45472602	"Regina, SK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-65.07589306	46.7247063	"Saint-Louis, NB"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-106.6476522	52.13437216	"Saskatoon, SK"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-52.71282746	47.56054525	"St. Johns, NL"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-65.51087133	45.72362316	"Sussex, NB"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-79.38318024	43.65322839	"Toronto, ON"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-125.6171457	49.82530382	"Vancouver Island, BC"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-123.1139242	49.26122646	"Vancouver, BC"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-97.13749137	49.89975612	"Winnipeg, MB"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+15.25278161	-4.348886735	"Binza, Congo"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+15.96999163	-4.387058844	"Kinshasa, Congo"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+6.142297743	46.19839487	"Geneva, Switzerland"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+8.737565808	47.49995035	"Winterthur, Switzerland"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-7.549997769	7.400003885	"Man, Ivory Coast"	United Church of God	http://silenced.co/wp-content/uploads/2011/05/ucg.jpg
+-118.156883	34.142696	Worldwide Church of God & Ambassador College Historical Site	Worldwide Church of God	http://silenced.co/wp-content/uploads/2011/04/wcg.jpg
+-95.069305	32.58897	Ambassador College Reservoir	Worldwide Church of God	http://silenced.co/wp-content/uploads/2011/04/wcg.jpg
+-0.362443	51.705063	"Bricket Wood, Hertfordshire AL2"	Worldwide Church of God	http://silenced.co/wp-content/uploads/2011/04/wcg.jpg
+-79.9414221	37.2709713	"Roanoke, VA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-76.7074556	37.27070692	"Williamsburg, VA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-122.3320663	47.60621187	"Seattle, WA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-81.6326207	38.34982367	"Charleston, WV"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-79.95589609	39.62952666	"Morgantown, WV"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-81.5615093	39.26674396	"Parkersburg, WV"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-81.10258826	37.36622952	"Princeton, WV"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-80.72091259	40.06396513	"Wheeling, WV"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-89.03177327	42.50835063	"Beloit, WI"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-91.49849065	44.81135289	"Eau Claire, WI"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-87.90646894	43.03890742	"Milwaukee, WI"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+5.579671038	50.63255816	"Liege, Belgiumzx"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-0.119820564	51.51121577	"London, UK"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+0.275683959	51.19504528	"Tonbridge, UK"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+6.142300125	46.19839528	"Geneva, Switzerland"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-62.26807576	-38.71167699	"Bahia Blanca, Argentina"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-58.38158943	-34.6037232	"Buenos Aires, Argentina"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-65.97604801	-26.07307661	"Cafayate, Argentina"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-64.18212524	-31.39892497	"Cordoba, Argentina"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-64.65931257	-24.30776993	"Santa Clara, Argentina"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-68.14624474	-16.4990098	"La Paz, Bolivia"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-62.99999519	-17.86666199	"Santa Cruz, Bolivia"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-53.80748603	-29.68580298	"Santa Maria, Brasil"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-73.05031746	-36.81893599	"Concepcion, Chile"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-73.13191356	-40.57450505	"Osorno, Chile"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-71.97083204	-36.42614923	"San Carlos, Chile"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-70.64199276	-33.4691185	"Santiago, Chile"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-71.65728792	-35.43064509	"Talca, Chile"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-72.58449448	-38.73382917	"Temuco, Chile"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-74.07583057	4.59805659	"Bogota, Colombia"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-76.52222192	3.420557912	"Cali, Colombia"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-75.57513579	6.235928831	"Medillin, Colombia"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-78.98332914	-2.8999969	"Cuenca, Ecuador"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-78.51666516	-0.216664187	"Quito, Ecuador"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-88.81909582	13.72322039	"San Sabastian, El Salvador"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-89.2018094	13.70688154	"San Salvador, El Salvador"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-91.31469247	15.80710431	"Barillas, Guatemala"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-89.34999823	15.53333518	"El Estor, Guatemala"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-90.53281369	14.62479997	"Guatemala City, Guatemala"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-89.89249709	14.28277888	"Jutiapa, Guatemala"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-91.52195592	14.83615725	"Quetzaltenango, Guatemala"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-89.90760648	16.91364388	"San Benito, Guatemala"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-99.88161335	16.86379826	"Acapulco, Mexico"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-106.073698	28.63058141	"Chihuahua, Mexico"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-99.49999765	17.5500007	"Chilpancingo, Mexico"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-99.13320756	19.43261155	"Ciudad, Mexico"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-100.8813287	22.15366485	"Gómez, Mexico"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-103.3496205	20.65965028	"Guadalajara, Mexico"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-93.062386	18.17602799	"Jalpa de Méndez, Mexico"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-100.2250369	25.65332736	"León Adán, Mexico"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-99.13320767	19.43260977	"Mexico City, Mexico"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-100.3091986	25.67321182	"Monterrey, Mexico"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-109.4378055	27.0658005	"Navojoa, Mexico"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-98.29736045	26.07122565	"Reynosa, Mexico"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-100.9855408	22.15646999	"San Luis, Mexico"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-104.8945862	21.50416581	"Tepic, Mexico"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-71.5368851	-16.39882171	"Arequipa, Peru"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-77.53332965	-9.533331566	"Huaraz, Peru"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-77.06219795	-12.04781253	"Lima, Peru"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-79.02879656	-8.111997646	"Trujillo, Peru"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-56.18194034	-34.8836077	"Montevideo, Uruguay"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-69.33471764	10.06361599	"Barquisimeto, Venezuela"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-78.69658308	26.52847406	"Freeport, Bahamas"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-77.34499793	25.06000065	"Nassau, Bahamas"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-59.61335045	13.09893821	"Bridgetown, Barbados"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-61.37097339	15.41500063	Dominica	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-61.6789982	12.11650404	Grenada	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-58.15482649	6.804614197	"Georgetown, Guyana"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-59.00399431	4.805303335	"Rupununi, Guyana"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-76.79200788	17.99273185	"Kingston, Jamaica"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-77.07371031	18.40410544	"Ocho Rios, Jamaica"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-60.9749995	14.5750036	"Ducos, Martinique"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-62.78299301	17.35782521	St. Kitts & Nevis	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-61.22250044	10.69180585	Trinidad & Tobago	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+153.023452	-27.47100654	"Brisbane, Australia"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+144.9632833	-37.81410205	"Melbourne, Australia"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+151.2069904	-33.86748579	"Sydney, Australia"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+177.41667	-17.79999943	"Nadi, Fiji"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+178.4419006	-18.14159646	"Suva, Fiji"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+78.9628838	20.59368577	India	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+104.0304552	1.082829619	"Batam, Indonesia"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+106.8451765	-6.211541232	"Jakarta, Indonesia"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+101.6840601	3.131922834	"Kuala, Malaysia"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+174.7633326	-36.84845505	"Auckland, New Zealand"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+172.6362299	-43.53205101	"Christchurch, New Zealand"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+170.5027988	-45.87875579	"Dunedin, New Zealand"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+175.2792558	-37.78699628	"Hamilton, New Zealand"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+176.9120206	-39.49284141	"Napier, New Zealand"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+174.7762385	-41.28645769	"Wellington, New Zealand"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+120.5960114	16.40233361	"Baguio City, Philippines"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+120.333336	16.05000171	"Dagupan, Philippines"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+120.9842203	14.59951302	"Manila, Philippines"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+123.2805507	13.63910108	"Naga, Philippines"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+125.5406238	8.947542255	"Butuan City, Philippines"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+121.7740189	12.87972139	"Diatagon, Philippines"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+125.5529437	9.329364012	"Jabonga, Philippines"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+121.553719	16.71498727	"Santiago, Philippines"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+122.9145353	10.60007197	"Bacolod City, Visayas"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+103.8198385	1.352083508	Singapore	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+79.87583367	6.839723187	"Mt. Lavinia, Sri Lanka"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+100.9925424	15.87003551	Thailand	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-175.1999969	-21.13332856	"Nuku'alofa, Tonga"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+29.41667115	-2.916665601	"Masango, Burundi"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+29.10111168	-2.714999545	"Ruziba, Burundi"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-4.027748231	5.336322548	"Abdijan, Cote d'Ivoire"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+15.3138915	-4.331661858	"Kinshasa, Democratic Republic of the Congo"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-0.985830407	5.925281104	"Akim-Oda, Ghana"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-1.349995024	5.083333359	"Elmina, Ghana"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-1.621965966	6.68712136	"Kumasi, Ghana"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-1.473895871	6.533584327	"Kuntanase, Ghana"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-1.658213145	6.193470466	"Obuasi, Ghana"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-2.503891877	6.317130579	"Sefwi, Ghana"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-1.76666251	4.900004116	"Takoradi, Ghana"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-0.6228357	5.338718291	"Winneba, Ghana"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-0.649999866	8.216669943	"Yeji, Ghana"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+34.46666907	-1.066664765	"Migori, Kenya"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+34.10000008	-0.78333324	"Ochuna, Kenya"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+35.00583747	-15.78610694	"Blantyre, Malawi"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+57.49638301	-20.1652786	"Port Louis, Mauritius"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+55.53638766	-21.1151371	Reunion	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+30.18635395	-1.755764848	"Giti, Rwanda"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+30.12140105	-1.955570927	"Remera, Rwanda"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+18.42405688	-33.92486666	"Cape Town, South Africa"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+31.02758503	-29.85787205	"Durban, South Africa"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+27.86666941	-32.9833314	"East London, South Africa"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+28.04730842	-26.20410279	"Johannesburg, South Africa"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+1.212503819	6.137781717	"Lomé, Togo"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+26.23046501	-13.71458192	"Kasumpa, Zambia"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+28.28717079	-15.40819291	"Lusaka, Zambia"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+28.2526636	-12.51780735	"Mufulira, Zambia"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+25.8499616	-17.83553899	"Nalubanda, Zambia"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+28.58116156	-20.17218663	"Bulawayo, Zimbabwe"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+31.05396486	-17.82921643	"Harare, Zimbabwe"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-113.4909245	53.54439254	"Edmonton, CA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-52.71282688	47.56054442	"St. John's, CA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-79.38318343	43.65322626	"Toronto, CA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-86.80248908	33.52066379	"Birmingham, AL"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-88.04305074	30.69436081	"Mobile, AL"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-112.074036	33.44837752	"Phoenix, AZ"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-110.9264782	32.22174476	"Tucson, AZ"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-93.10767221	36.22979793	"Harrison, AR"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-92.2895939	34.7464809	"Little Rock, AR"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-94.23965148	34.58621909	"Mena, AR"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-90.86400162	35.97785153	"Sedgwick, AR"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-94.12881223	36.18674869	"Springdale, AR"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-94.34826652	35.43675816	"Van Buren, AR"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-119.4179283	36.77826337	California	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-119.0187116	35.37329436	"Bakersfield, CA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-118.2436815	34.05223735	"Los Angeles, CA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-122.3916738	40.58654394	"Redding, CA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-121.4943954	38.58157638	"Sacramento, CA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-121.2907764	37.95770573	"Stockton, CA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-105.0810905	40.30831869	"Berthoud, CO"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-104.8560892	39.37221567	"Castle Rock, CO"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-108.5506475	39.06387075	"Grand Junction, CO"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-75.57714612	38.45650557	"Delmar, DE"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-86.1152139	30.72102288	"DeFuniak Springs, FL"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-81.87230538	26.64062976	"Fort Myers, FL"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-81.65564837	30.33218512	"Jacksonville, FL"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-81.94980361	28.03947023	"Lakeland, FL"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-80.22643505	25.78897282	"Miami, FL"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-82.14008845	29.18719974	"Ocala, FL"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-81.37923564	28.53833754	"Orlando, FL"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-82.63999687	27.77305608	"St. Petersburg, FL"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-84.28073123	30.43825722	"Tallahassee, FL"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-80.05337063	26.71534607	"West Palm Beach, FL"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-84.38797768	33.74899757	"Atlanta, GA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-82.01051423	33.47349819	"Augusta, GA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-83.57238603	34.11705619	"Jefferson, GA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-83.63240005	32.84069574	"Macon, GA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-85.50912897	34.87202321	"Trenton, GA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-89.58898488	40.69365367	"Peoria, IL"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-86.15806766	39.76840535	"Indianapolis, IN"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-94.62746053	39.11405622	"Kansas City, KS"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-97.61141922	38.84028133	"Salina, KS"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-97.33610731	37.68889124	"Wichita, KS"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-87.59001101	37.83615568	"Hendersone, KY"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-84.08326378	37.12898094	"Londone, KY"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-85.75845173	38.25266915	"Louisville, KY"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-90.07152854	29.95106667	"New Orleans, LA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-92.6379246	32.52320738	"Ruston, LA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-76.94556511	39.20620039	"Clarksville, MD"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-71.80229054	42.262594	"Worcester, MA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-85.66808485	42.96336218	"Grand Rapids, MI"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-85.58722477	42.29171062	"Kalamazoo, MI"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-94.163239	45.55794923	"St. Cloud, MN"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-93.26666663	44.98333652	"Minneapolis, MN"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-89.13061082	31.6940535	"Laurel, MS"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-92.33407049	38.95170977	"Columbia, MO"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-94.51327702	37.08422824	"Joplin, MO"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-91.77152583	37.94854488	"Rolla, MO"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-93.29229449	37.2089617	"Springfield, MO"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-90.19940211	38.62700362	"St. Louis, MO"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-70.76255043	43.07175817	"Portsmouth, NH"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-74.97895687	39.82972964	"Central New Jersey, NJ"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-78.87836558	42.88644865	"Buffalo, NY"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-73.9705646	40.75958166	"Central New York, NY"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-73.79484944	40.72822501	"Queens, NY"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-82.55148502	35.59505858	"Asheville, NC"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-79.79197401	36.07263824	"Greensboro, NC"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-81.34119397	35.73318947	"Hickory, NC"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-78.63861244	35.77209819	"Raleigh, NC"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-96.81724595	46.83207937	"Fargo, ND"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-81.5190006	41.08144562	"Akron, OH"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-82.1012548	39.32924381	"Athens, OH"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-84.51201755	39.10312042	"Cincinnati, OH"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-81.69540648	41.49949835	"Cleveland, OH"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-82.99879362	39.96117741	"Columbus, OH"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-80.64951779	41.09978445	"Youngstown, OH"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-97.5164249	35.46756152	"Oklahoma City, OK"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-95.99277031	36.15398649	"Tulsa, OK"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-122.6762057	45.52345568	"Portland, OR"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-78.50390364	40.01869472	"Bedford, PA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-80.15144566	41.64144653	"Meadville, PA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-79.99588318	40.4406298	"Pittsburgh, PA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-75.34156424	40.44177217	"Quakertown, PA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-76.72774493	39.96260147	"York, PA"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-81.03481329	34.00071519	"Columbia, SC"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-79.76256035	34.19543744	"Florence, SC"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-88.81394402	35.61451704	"Jackson, TN"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-83.9207373	35.96064298	"Knoxville, TN"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-90.04897652	35.14953551	"Memphis, TN"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-86.78332923	36.16667159	"Nashville, TN"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-97.75062347	30.2842079	"Austin David, TX"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-97.39637972	27.80058573	"Corpus Christi, TX"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-96.80044791	32.78014338	"Dallas, TX"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-99.90180933	31.9686001	"East Texas, TX"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-97.32084863	32.72541275	"Fort Worth, TX"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-97.69609944	26.19063282	"Harlingen, TX"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-95.36938923	29.76019478	"Houston, TX"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-98.49362772	29.42412344	"San Antonio, TX"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-96.60887845	33.63566429	"Sherman, TX"	"Church of God, a Worldwide Association"	http://silenced.co/wp-content/uploads/2012/03/cogwa-150x150.png
+-99.732292	32.45203	"Abilene, TX 79604"	The House of Yahweh	http://silenced.co/wp-content/uploads/2012/03/hoy-150x150.png
+-121.401604	36.852455	"Hollister, CA"	Christian Biblical Church of God	http://silenced.co/wp-content/uploads/2011/04/bsg_earthfire_130.jpg
+151.206985	-33.867489	Sydney NSW	Christian Biblical Church of God	http://silenced.co/wp-content/uploads/2011/04/bsg_earthfire_130.jpg
+-75.684288	44.589523	"Brockville, ON"	Christian Biblical Church of God	http://silenced.co/wp-content/uploads/2011/04/bsg_earthfire_130.jpg
+174.763336	-36.848461	Auckland	Christian Biblical Church of God	http://silenced.co/wp-content/uploads/2011/04/bsg_earthfire_130.jpg
+28.516666	-27.283333	Frankfort	Christian Biblical Church of God	http://silenced.co/wp-content/uploads/2011/04/bsg_earthfire_130.jpg
+0.641918	51.800564	"Witham, Essex"	Christian Biblical Church of God	http://silenced.co/wp-content/uploads/2011/04/bsg_earthfire_130.jpg

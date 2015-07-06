@@ -1,0 +1,3 @@
+X	Y	Location	Cult	Image
+-81.694633	41.044209	"Wadsworth, OH"	Restored Church of God	http://silenced.co/wp-content/uploads/2011/04/rcg.png
+-79.245514	43.156944	"St. Catharine's, ON"	Restored Church of God	http://silenced.co/wp-content/uploads/2011/04/rcg.png

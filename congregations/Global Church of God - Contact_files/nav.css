@@ -1,0 +1,227 @@
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+*  first nav
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+div#row1{
+	line-height: 1.16;	
+	float: left;
+	width: 100%;
+	background-color:#FFDD33;
+	clear:both;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 105%;
+	font-weight:bold;
+	color:#000000;
+	text-align:left;
+	z-index:3;
+	position:relative;
+	
+}
+div#row1 li a {
+	display: block; 
+	padding: .25em 1.75em .25em 1.75em;
+	text-decoration: none; 
+	width: auto;
+	color: #000000;
+}
+
+div#row1 li a:hover{
+	color: #FFFFFF;
+	background: #AA2023;
+}
+
+div#row1 ul{
+	margin: 0;
+	padding: 0 0 0 0px;
+	width:100%;
+}
+div#row1 li {
+	position: relative; 
+	list-style: none; 
+	margin: 0;
+ 	float: left; 
+	width: auto; 
+	text-transform:uppercase;
+	line-height: 1.1em;
+}
+div#row1 li.international{ float:right;}
+div#row1 img{
+    padding:0px; margin: 0px; width:2em; height:1.1em; border:0px;
+}
+
+
+div#row1>ul a {
+	width: auto;
+}
+
+div#row1 ul ul {
+	position: absolute; 
+	width: 12em;
+	padding: 0;
+	display: none;
+	background: #87DFA5;
+}
+div#row1 ul ul li {
+	text-transform: none;
+	border-top: 1px solid #FFFFFF;
+	width:12em;
+}
+div#row1 ul.primarynav li.submenu:hover ul.secondarynav{
+	display:block;
+}
+div#row1 ul.secondarynav {
+	top: 1.6em; 
+}
+/*
+*/
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+*  second nav
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+div#row2{
+	clear:both;
+	width: 100%;
+	text-align:left;
+	z-index:2;
+	position:relative;
+	float: left;
+	background:#AA2023;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 105%;
+	font-weight:bold;
+	color:#FFF;
+	list-style: disc;
+}
+div#row2 li a{
+	color: #FFF;
+	text-decoration: none;
+}
+
+div#row2 li a:hover{
+	color: #000000;
+	background: #FFDD33;
+}
+div#row2 li:hover {
+	color: #000000;
+	background: #FFDD33;
+}
+
+div#row2 ul{
+	margin: 0;
+	padding: 0 0 0 0px;
+	background:#AA2023;
+	width:63em;
+}
+div#row2 li#search{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	font-weight:bold;
+	color:#FFF;
+	position: relative; 
+	list-style: none; 
+ 	float: left; 
+	width: auto; 
+	text-transform:uppercase;
+	line-height: 1.1em;
+	margin: 0 0 0 0;
+	padding:0;
+	border:0px solid white;
+	}
+div#row2 li#search a {
+	float:left;
+	display: block;
+	padding: 0.5em 1em 0.5em 1em;
+	text-decoration: none; 
+	width: 5em;
+}
+div#row2 li#search input{
+	margin: 6px 6px 0px 4px;
+	display:block;
+	float:left;
+	position: relative; 
+	width: 13em;
+	height: 1em;
+}
+div#row2 li#search .button {
+	
+	font-size: 100%;
+	margin:0;
+	float:left;
+	display: block;
+	padding: 0;
+	padding: 0.45em 1em 0.35em 1em;
+	text-decoration: none; 
+	width: 6em;
+	height:auto;
+	border:0 solid black;
+	background:#AA2023;
+    color:#FFF;
+    font-weight:bold;
+    font-family:Arial, Helvetica, sans-serif;
+	line-height: 1.1em;
+}
+div#row2 li#search input.button:hover {
+	cursor:pointer;
+	color: #FFED8F;
+}
+div#row2 li {
+	position: relative; 
+	list-style: none; 
+	margin: 0;
+ 	float: left; 
+	width: auto; 
+	text-transform:uppercase;
+	line-height: 1.1em;
+}
+div#row2 li a {
+	display: block; 
+	padding: 0.5em 1.55em;/* 0.5em 1.75em;*/
+	text-decoration: none; 
+	width: auto;
+}
+div#row2>ul a {
+	width: auto;
+}
+div#row2 ul ul {
+	position: absolute; 
+	width: 12em;
+	padding: 0;
+	display: none;
+	background: #FFED8F;
+	
+
+}
+div#row2 ul ul li {
+    padding:0;
+	text-transform: none;
+	border-top: 1px solid #FFFFFF;
+	width:12em;
+}
+div#row2 ul ul li a{
+    padding:.5em;
+	text-transform: none;
+	border-top: 1px solid #FFFFFF;
+	width:auto;
+	color:#AA2023;
+}
+
+div#row2 ul ul li a:hover{
+	color: #AA2023;
+	background: #C5D8FC;
+}
+div#row2 ul ul li:hover {
+	color: #AA2023;
+	background: #C5D8FC;
+}
+
+div#row2 li.submenu li.submenu {
+/*
+	background: url(submenu.gif) 95% 50% no-repeat;
+*/
+}
+div#row2 ul.primarynav li.submenu:hover ul.secondarynav{
+	display:block;
+	
+}
+div#row2 ul.secondarynav {
+	top: 2em; 
+}

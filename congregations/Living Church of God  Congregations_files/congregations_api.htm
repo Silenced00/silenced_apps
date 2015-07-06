@@ -1,0 +1,622 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0053)http://www.lcg.org/cgi-bin/maps/congregations_api.cgi -->
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title></title>
+    <script src="maps" type="text/javascript"></script><script src="main.js" type="text/javascript"></script><style type="text/css">@media print{.gmnoprint{display:none}}@media screen{.gmnoscreen{display:none}}</style>
+    <script type="text/javascript">
+    function initialize() {
+      if (GBrowserIsCompatible()) {
+        var map = new GMap2(document.getElementById("map_canvas"));
+        map.setCenter(new GLatLng(38.272688,-97.382812), 3);
+				map.enableScrollWheelZoom();
+				GEvent.addListener(map, "zoomend", function(){
+					var maxzoom = 9;
+					currzoom = map.getZoom();
+   				if(map.getZoom() > maxzoom){
+     				map.setZoom(maxzoom);
+   				}
+				});
+        map.addControl(new GSmallMapControl());
+        map.addControl(new GMapTypeControl());
+        var baseIcon = new GIcon();
+        function createMarker(point, bubble, a) {
+          if (a == "small"){
+          	baseIcon.iconSize = new GSize(7, 7);
+        		baseIcon.shadow = "/images/lcg_pin_small_shadow.png";
+        		baseIcon.shadowSize = new GSize(9, 9);
+        		baseIcon.iconAnchor = new GPoint(0, 0);
+        		baseIcon.infoWindowAnchor = new GPoint(9, 2);
+        		baseIcon.infoShadowAnchor = new GPoint(2, 2);
+          }else{
+          	baseIcon.iconSize = new GSize(35, 35);
+        		baseIcon.shadow = "/images/lcg_pin_large_shadow.png";
+        		baseIcon.shadowSize = new GSize(40, 40);
+        		baseIcon.iconAnchor = new GPoint(10, 10);
+        		baseIcon.infoWindowAnchor = new GPoint(22, 8);
+        		baseIcon.infoShadowAnchor = new GPoint(2, 2);
+          }
+          var churchIcon = new GIcon(baseIcon);
+          churchIcon.image = "/images/lcg_pin_" + a + ".png"; 
+          markerOptions = { icon:churchIcon };
+          var marker = new GMarker(point, markerOptions);
+          GEvent.addListener(marker, "click", function() {
+            marker.openInfoWindowHtml(bubble);
+          });
+          return marker;
+        }
+				function newOverlay(a){
+				function createbubble(a,bc,d,e,f){
+					var tmpBubble = "<table border='0' cellpadding='0' cellspacing='0' height='122'><tr><td><table border='0' cellpadding='0' cellspacing='0' class='bubble_header'><tr><td width='9' class='bubble_corner_tl base'></td><td width='197' class='base region_label'>" + a + " Congregations</td><td width='9' class='bubble_corner_tr base'></td></tr></table><table border='0' cellpadding='0' cellspacing='0' class='bubble_body'><tr><td width='62' class='bubble_label'>Location:</td><td width='156' class='bubble_body_td'>" + bc + "</td></tr><tr><td class='bubble_label'>Minister:</td><td class='bubble_body_td'>" + d + " " + e + "</td></tr><tr><td class='bubble_label'>Contact:</td><td class='bubble_body_td'><a href='http://www.lcg.org/cgi-bin/lcg/congregations/lcg-cong-contact.cgi?action=emailcontactform&item=" + f + "' target='_blank'>" + d + " " + e + "</a></td></tr></table><table border='0' cellpadding='0' cellspacing='0' class='bubble_footer'><tr><td width='9' height='15' class='bubble_corner_bl'></td><td width='197' class='base'></td><td width='9' class='bubble_corner_br'></td></tr></table></td></tr></table>";
+					return tmpBubble;
+				}
+				function createbubble_noemail(a,bc,d,e,f){
+					var tmpBubble = "<table border='0' cellpadding='0' cellspacing='0' height='122'><tr><td><table border='0' cellpadding='0' cellspacing='0' class='bubble_header'><tr><td width='9' class='bubble_corner_tl base'></td><td width='197' class='base region_label'>" + a + " Congregations</td><td width='9' class='bubble_corner_tr base'></td></tr></table><table border='0' cellpadding='0' cellspacing='0' class='bubble_body'><tr><td width='62' class='bubble_label'>Location:</td><td width='156' class='bubble_body_td'>" + bc + "</td></tr><tr><td class='bubble_label'>Minister:</td><td class='bubble_body_td'>" + d + " " + e + "</td></tr><tr><td class='bubble_label'>Contact:</td><td class='bubble_body_td'>" + d + " " + e + "</td></tr></table><table border='0' cellpadding='0' cellspacing='0' class='bubble_footer'><tr><td width='9' height='15' class='bubble_corner_bl'></td><td width='197' class='base'></td><td width='9' class='bubble_corner_br'></td></tr></table></td></tr></table>";
+					return tmpBubble;
+				}
+          var latlng = new GLatLng(32.818000,-117.197000);
+					var bubbletext = createbubble('USA','San Diego, CA','Darrell','Lovelady','7001');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(33.778000,-117.950000);
+					var bubbletext = createbubble('USA','Garden Grove, CA','Darrell','Lovelady','7002');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(34.575000,-112.492000);
+					var bubbletext = createbubble('USA','Prescott Valley, AZ','Rodger','Bardo','7003');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.060000,-106.806000);
+					var bubbletext = createbubble('USA','Albuquerque, NM','Rodger','Bardo','7004');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(33.277000,-112.187000);
+					var bubbletext = createbubble('USA','Phoenix, AZ','Rodger','Bardo','7006');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(32.395000,-111.100000);
+					var bubbletext = createbubble('USA','Tucson, AZ','Rodger','Bardo','7007');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(33.842567,-116.527996);
+					var bubbletext = createbubble('USA','Palm Springs, CA','Darrell','Lovelady','7008');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(34.224171,-118.240075);
+					var bubbletext = createbubble('USA','Los Angeles, CA','Darrell','Lovelady','7009');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(36.726349,-119.759875);
+					var bubbletext = createbubble('USA','Fresno, CA','Harold','Way','7010');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.292432,-120.655743);
+					var bubbletext = createbubble('USA','Arroyo Grande, CA','Jeffrey','Fall','7011');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(38.736500,-121.252500);
+					var bubbletext = createbubble('USA','Sacramento, CA','Jeffrey','Fall','7012');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(37.915000,-122.054000);
+					var bubbletext = createbubble('USA','Concord, CA','Harold','Way','7013');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(40.675738,-122.456982);
+					var bubbletext = createbubble('USA','Redding, CA','Harold','Way','7016');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(47.128000,-122.374000);
+					var bubbletext = createbubble('USA','Seattle/Tacoma, WA','Glen','Gilchrist','7019');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(45.437000,-122.615000);
+					var bubbletext = createbubble('USA','Portland, OR','Glen','Gilchrist','7021');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(40.826600,-124.055200);
+					var bubbletext = createbubble('USA','Eureka, CA','Jeffrey','Fall','7022');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(46.212000,-119.156000);
+					var bubbletext = createbubble('USA','Richland, WA','Glen','Gilchrist','7023');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(40.039169,-119.640601);
+					var bubbletext = createbubble('USA','Reno, NV','Jeffrey','Fall','7024');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(43.630795,-116.717598);
+					var bubbletext = createbubble('USA','Boise, ID','Glen','Gilchrist','7026');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(41.497994,-106.753979);
+					var bubbletext = createbubble('USA','Saratoga, WY','Ben','Whitfield','7028');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(42.899000,-106.175000);
+					var bubbletext = createbubble('USA','Casper, WY','Ben','Whitfield','7031');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(41.171000,-111.969000);
+					var bubbletext = createbubble('USA','Layton, UT','Ben','Whitfield','7035');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(42.013984,-104.967405);
+					var bubbletext = createbubble('USA','Wheatland, WY','Ben','Whitfield','7036');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(47.258392,-111.341975);
+					var bubbletext = createbubble('USA','Great Falls, MT','Jeffrey','Fall','7038');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(46.709340,-112.197616);
+					var bubbletext = createbubble('USA','Helena, MT','Jeffrey','Fall','7043');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(61.394000,-149.425000);
+					var bubbletext = createbubble('USA','Anchorage, AK','Glen','Gilchrist','7044');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(39.838000,-104.999000);
+					var bubbletext = createbubble('USA','Denver, CO','Ben','Whitfield','7046');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(38.965000,-104.756000);
+					var bubbletext = createbubble('USA','Colorado Springs, CO','Ben','Whitfield','7047');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(32.791000,-96.636000);
+					var bubbletext = createbubble('USA','Dallas, TX','Daniel','Hall','7048');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(31.276000,-94.508000);
+					var bubbletext = createbubble('USA','Lufkin, TX','Daniel','Hall','7049');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(34.880689,-92.230285);
+					var bubbletext = createbubble('USA','Little Rock, AR','David','Stiffler','7050');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.135730,-90.002079);
+					var bubbletext = createbubble('USA','Memphis, TN','David','Stiffler','7051');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(32.347000,-93.925000);
+					var bubbletext = createbubble('USA','Shreveport, LA','Daniel','Friz','7052');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(36.295000,-93.093000);
+					var bubbletext = createbubble('USA','Harrison, AR','Karl','Beyersdorfer','7053');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.306683,-93.071219);
+					var bubbletext = createbubble('USA','Russellville, AR','David','Stiffler','7055');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(32.344457,-99.802130);
+					var bubbletext = createbubble('USA','Abilene, TX','Daniel','Hall','7056');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.113890,-101.847324);
+					var bubbletext = createbubble('USA','Amarillo, TX','Daniel','Hall','7057');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(32.853300,-107.319000);
+					var bubbletext = createbubble('USA','El Paso/Las Cruces, NM','Rodger','Bardo','7058');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(31.869000,-102.032000);
+					var bubbletext = createbubble('USA','Midland, TX','Daniel','Hall','7059');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(32.648000,-95.234000);
+					var bubbletext = createbubble('USA','Hawkins, TX','Daniel','Hall','7060');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.460511,-97.397441);
+					var bubbletext = createbubble('USA','Oklahoma City, OK','Gene','Hilgenberg','7061');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(29.238672,-82.169401);
+					var bubbletext = createbubble('USA','Ocala, FL','Joseph','Brown','7062');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(26.240000,-80.140000);
+					var bubbletext = createbubble('USA','Ft Lauderdale, FL','John','Strain','7063');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(28.013000,-82.134000);
+					var bubbletext = createbubble('USA','Tampa, FL','John','Strain','7064');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(18.174300,-66.158100);
+					var bubbletext = createbubble('USA','San Juan, PR','Raul','Colon','7065');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(32.370000,-90.170000);
+					var bubbletext = createbubble('USA','Jackson, MS','Eddie','Breaux','7066');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(31.686952,-89.121296);
+					var bubbletext = createbubble('USA','Laurel, MS','Eddie','Breaux','7067');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(30.510988,-88.968080);
+					var bubbletext = createbubble('USA','Ocean Springs, MS','Eddie','Breaux','7068');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(33.551000,-88.487000);
+					var bubbletext = createbubble('USA','Columbus, MS','Anthony','Stroud','7069');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(30.457046,-87.257722);
+					var bubbletext = createbubble('USA','Pensacola, FL','Eddie','Breaux','7071');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(32.925196,-80.703213);
+					var bubbletext = createbubble('USA','Walterboro, SC','Bill','Whitaker','7072');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(30.358000,-81.674000);
+					var bubbletext = createbubble('USA','Jacksonville, FL','Joseph','Brown','7073');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(30.331499,-82.957199);
+					var bubbletext = createbubble('USA','Lake City, FL','Joseph','Brown','7074');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(30.854000,-83.888000);
+					var bubbletext = createbubble('USA','Thomasville, GA','Joseph','Brown','7075');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(32.827949,-83.595066);
+					var bubbletext = createbubble('USA','Macon, GA','Jack','Lowe','7076');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(32.502833,-92.094583);
+					var bubbletext = createbubble('USA','Monroe, LA','Daniel','Friz','7077');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(33.194725,-92.523809);
+					var bubbletext = createbubble('USA','El Dorado, AR','Daniel','Friz','7078');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(31.686000,-91.868000);
+					var bubbletext = createbubble('USA','Ferriday, LA','Daniel','Friz','7079');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(30.494882,-91.309262);
+					var bubbletext = createbubble('USA','Baton Rouge, LA','Glen','Harrison','7080');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(30.182000,-92.027000);
+					var bubbletext = createbubble('USA','Lafayette, LA','Glen','Harrison','7081');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(29.999000,-90.134000);
+					var bubbletext = createbubble('USA','New Orleans, LA','Glen','Harrison','7082');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(27.824370,-97.584067);
+					var bubbletext = createbubble('USA','Corpus Christi, TX','Phil','Sena','7083');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(30.452151,-97.694784);
+					var bubbletext = createbubble('USA','Austin, TX','Phil','Sena','7084');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(31.068306,-97.304700);
+					var bubbletext = createbubble('USA','Temple, TX','Phil','Sena','7085');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(29.438000,-98.462000);
+					var bubbletext = createbubble('USA','San Antonio, TX','Phil','Sena','7086');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(29.834000,-95.434000);
+					var bubbletext = createbubble('USA','Houston, TX','Rick','Stafford','7087');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(40.033000,-82.910000);
+					var bubbletext = createbubble('USA','Columbus, OH','Wallace','Smith','7088');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(39.974000,-86.083000);
+					var bubbletext = createbubble('USA','Indianapolis, IN','Lambert','Greer','7089');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(37.592589,-84.235247);
+					var bubbletext = createbubble('USA','Berea, KY','Lambert','Greer','7090');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(38.293355,-85.837911);
+					var bubbletext = createbubble('USA','Louisville, KY','Lambert','Greer','7091');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(39.153000,-84.891000);
+					var bubbletext = createbubble('USA','Cincinnati, OH','Wallace','Smith','7093');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(39.467536,-87.392019);
+					var bubbletext = createbubble('USA','Terre Haute, IN','Lambert','Greer','7095');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(41.096656,-81.428883);
+					var bubbletext = createbubble('USA','Akron, OH','Wallace','Smith','7096');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(36.621571,-82.167633);
+					var bubbletext = createbubble('USA','Bristol, VA','Paul','Shumway','7097');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(38.791845,-81.728065);
+					var bubbletext = createbubble('USA','Ripley, WV','Paul','Shumway','7098');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(37.332725,-81.160066);
+					var bubbletext = createbubble('USA','Bluefield, WV','Paul','Shumway','7099');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(37.865036,-82.025158);
+					var bubbletext = createbubble('USA','Logan, WV','Paul','Shumway','7101');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(41.057000,-85.239000);
+					var bubbletext = createbubble('USA','Fort Wayne, IN','Jason','Fritts','7102');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(41.281000,-86.608000);
+					var bubbletext = createbubble('USA','Knox, IN','Jason','Fritts','7103');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(42.265000,-84.949000);
+					var bubbletext = createbubble('USA','Kalamazoo, MI','Jason','Fritts','7104');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(42.737000,-84.504000);
+					var bubbletext = createbubble('USA','Lansing, MI','Jason','Fritts','7105');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(45.851343,-87.057049);
+					var bubbletext = createbubble('USA','McMillan, MI','Jason','Fritts','7107');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.937391,-84.042240);
+					var bubbletext = createbubble('USA','Knoxville, TN','Martin','Fannin','7108');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.131000,-84.039000);
+					var bubbletext = createbubble('USA','Blairsville, GA','Martin','Fannin','7109');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.570357,-82.605913);
+					var bubbletext = createbubble('USA','Asheville, NC','Ron','Poole','7110');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(34.832000,-86.887000);
+					var bubbletext = createbubble('USA','Athens, AL','James','Sweat','7111');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.050000,-85.341000);
+					var bubbletext = createbubble('USA','Chattanooga, TN','James','Sweat','7112');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(37.122000,-93.313000);
+					var bubbletext = createbubble('USA','Springfield, MO','Karl','Beyersdorfer','7278');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.962348,-85.051431);
+					var bubbletext = createbubble('USA','Crossville, TN','Martin','Fannin','7113');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(36.107000,-86.663000);
+					var bubbletext = createbubble('USA','Nashville, TN','James','Sweat','7114');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(33.602000,-86.826000);
+					var bubbletext = createbubble('USA','Birmingham, AL','Anthony','Stroud','7115');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(32.380587,-86.280718);
+					var bubbletext = createbubble('USA','Montgomery, AL','Anthony','Stroud','7116');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(33.827000,-84.325000);
+					var bubbletext = createbubble('USA','Atlanta, GA','Jack','Lowe','7117');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.136591,-80.711197);
+					var bubbletext = createbubble('USA','Charlotte, NC','Roderick','Meredith','7118');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(34.493000,-82.638000);
+					var bubbletext = createbubble('USA','Anderson, SC','Ron','Poole','7119');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(40.147598,-74.661499);
+					var bubbletext = createbubble('USA','Cranford, NJ','Dennis','Chornomaz','7120');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(39.839000,-74.965000);
+					var bubbletext = createbubble('USA','Hammonton, NJ','Dennis','Chornomaz','7121');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(40.986761,-75.194625);
+					var bubbletext = createbubble('USA','Stroudsburg, PA','Jonathan','Mcnair','7122');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(42.185000,-71.947000);
+					var bubbletext = createbubble('USA','Auburn, MA','Jonathan','Mcnair','7126');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(44.554300,-69.617800);
+					var bubbletext = createbubble('USA','Freeport, ME','James','Arnaldo','7127');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(40.732000,-73.100000);
+					var bubbletext = createbubble('USA','Melville, NY','Jonathan','Mcnair','7129');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(43.154784,-77.615557);
+					var bubbletext = createbubble('USA','Rochester, NY','Jonathan','Mcnair','7130');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(42.160000,-77.382000);
+					var bubbletext = createbubble('USA','Corning, NY','Jonathan','Mcnair','7131');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(38.217824,-75.326618);
+					var bubbletext = createbubble('USA','Salisbury, MD','Kenneth','Frank','7132');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.708376,-79.852130);
+					var bubbletext = createbubble('USA','Asheboro, NC','Gary','Ehman','7133');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(39.170000,-78.169000);
+					var bubbletext = createbubble('USA','Winchester, VA','Sheldon','Monson','7134');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(37.348000,-76.774000);
+					var bubbletext = createbubble('USA','Williamsburg, VA','Kenneth','Frank','7135');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(39.155266,-76.813394);
+					var bubbletext = createbubble('USA','Baltimore, MD','Sheldon','Monson','7136');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.714000,-78.663000);
+					var bubbletext = createbubble('USA','Raleigh, NC','Carl','Derstine','7137');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(41.653027,-93.747073);
+					var bubbletext = createbubble('USA','Des Moines, IA','Rand','Millich','7138');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(37.706000,-97.320000);
+					var bubbletext = createbubble('USA','Wichita, KS','Rand','Millich','7140');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(41.133000,-95.904000);
+					var bubbletext = createbubble('USA','Omaha, NE','Rand','Millich','7142');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(39.107798,-94.409828);
+					var bubbletext = createbubble('USA','Kansas City, MO','Rand','Millich','7143');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(39.836488,-94.815260);
+					var bubbletext = createbubble('USA','St Joseph, MO','Rand','Millich','7144');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(37.963208,-91.817936);
+					var bubbletext = createbubble('USA','Rolla, MO','Rod','Reynolds','7145');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(38.723951,-90.447418);
+					var bubbletext = createbubble('USA','St Louis, MO','Rod','Reynolds','7146');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(38.894165,-92.274145);
+					var bubbletext = createbubble('USA','Columbia, MO','Rod','Reynolds','7147');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(37.099000,-94.374000);
+					var bubbletext = createbubble('USA','Joplin, MO','Karl','Beyersdorfer','7148');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.975000,-94.191000);
+					var bubbletext = createbubble('USA','Fayetteville, AR','Gene','Hilgenberg','7149');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(37.609218,-95.416422);
+					var bubbletext = createbubble('USA','Chanute, KS','Karl','Beyersdorfer','7150');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(36.148000,-95.797000);
+					var bubbletext = createbubble('USA','Tulsa, OK','Gene','Hilgenberg','7151');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(42.995000,-88.242000);
+					var bubbletext = createbubble('USA','Milwaukee, WI','Phillip','West','7152');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(40.591322,-89.425339);
+					var bubbletext = createbubble('USA','Peoria, IL','Phillip','West','7153');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(42.015000,-87.869000);
+					var bubbletext = createbubble('USA','Chicago, IL','Phillip','West','7154');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(44.171000,-88.658000);
+					var bubbletext = createbubble('USA','Appleton, WI','Phillip','West','7155');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(46.888700,-100.681855);
+					var bubbletext = createbubble('USA','Bismarck, ND','Michael','Elertson','7156');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(45.123064,-93.352439);
+					var bubbletext = createbubble('USA','Minneapolis, MN','Rand','Millich','7157');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(45.217518,-89.713291);
+					var bubbletext = createbubble('USA','Merrill, WI','Rand','Millich','7158');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(43.447000,-89.864000);
+					var bubbletext = createbubble('USA','Wisconsin Dells, WI','Phillip','West','7159');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(48.502603,-119.542935);
+					var bubbletext = createbubble('USA','Tonasket, WA','Glen','Gilchrist','7160');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(42.532000,-90.772000);
+					var bubbletext = createbubble('USA','Dubuque, IA','Phillip','West','7267');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(43.672200,-72.381300);
+					var bubbletext = createbubble('USA','Lebanon, NH','James','Arnaldo','7310');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(36.220000,-115.064000);
+					var bubbletext = createbubble('USA','Las Vegas, NV','Darrell','Lovelady','7336');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.773000,-80.901000);
+					var bubbletext = createbubble('USA','Statesville, NC','Gary','Ehman','7341');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(42.506000,-83.348000);
+					var bubbletext = createbubble('USA','Detroit, MI','Jason','Fritts','7348');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(44.784919,-85.490673);
+					var bubbletext = createbubble('USA','Traverse City, MI','Jason','Fritts','7351');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(39.967864,-108.043592);
+					var bubbletext = createbubble('USA','Meeker, CO','Ben','Whitfield','7357');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.496000,-94.299000);
+					var bubbletext = createbubble('USA','Fort Smith, AR','Gene','Hilgenberg','7366');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(40.415000,-80.043000);
+					var bubbletext = createbubble('USA','Pittsburgh, PA','Wallace','Smith','7383');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(34.185000,-77.836000);
+					var bubbletext = createbubble('USA','Wilmington, NC','Carl','Derstine','7385');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(41.872873,-71.390713);
+					var bubbletext = createbubble('USA','Providence, RI','Jonathan','Mcnair','7387');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(47.217000,-92.118000);
+					var bubbletext = createbubble('USA','Duluth, MN','Rand','Millich','7388');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(35.534000,-105.926000);
+					var bubbletext = createbubble('USA','Santa Fe, NM','Rodger','Bardo','7415');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(30.086046,-94.101846);
+					var bubbletext = createbubble('USA','Beaumont, TX','Rick','Stafford','7422');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(34.109100,-83.762680);
+					var bubbletext = createbubble('USA','Braselton, GA','Ron','Poole','7419');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(40.730000,-73.989000);
+					var bubbletext = createbubble('USA','New York City, NY','Jonathan','Mcnair','7405');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(42.674000,-73.764000);
+					var bubbletext = createbubble('USA','Albany, NY','Jonathan','Mcnair','7434');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(38.891000,-77.059000);
+					var bubbletext = createbubble('USA','Washington, DC','Sheldon','Monson','7440');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(36.537000,-87.361000);
+					var bubbletext = createbubble('USA','Clarksville, TN','James','Sweat','7448');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(40.749600,-84.105000);
+					var bubbletext = createbubble('USA','Lima, OH','Jason','Fritts','7452');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(32.460976,-84.987709);
+					var bubbletext = createbubble('USA','Columbus, GA','Jack','Lowe','7458');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(38.043417,-83.438795);
+					var bubbletext = createbubble('USA','Bangor, ME','James','Arnaldo','7459');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(42.439007,-123.328393);
+					var bubbletext = createbubble('USA','Grants Pass, OR','Jeffrey','Fall','7460');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(29.800208,-90.017293);
+					var bubbletext = createbubble('USA','Augusta, GA','Bill','Whitaker','7466');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(34.231265,-79.967286);
+					var bubbletext = createbubble('USA','Syracuse, NY','Jonathan','Mcnair','7468');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(36.873000,-76.284000);
+					var bubbletext = createbubble('USA','Norfolk, VA','Kenneth','Frank','7437');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(37.555500,-77.468000);
+					var bubbletext = createbubble('USA','Richmond, VA','Kenneth','Frank','7438');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+          var latlng = new GLatLng(40.278200,-76.709400);
+					var bubbletext = createbubble('USA','Harrisburg, PA','Sheldon','Monson','7457');
+          map.addOverlay(createMarker(latlng, bubbletext, a));
+				}
+				newOverlay("small");
+				GEvent.addListener(map, "zoomend", function(){
+				map.clearOverlays()
+				if (map.getZoom() > 4){
+					newOverlay("large");
+				}else{
+					newOverlay("small");
+				}
+				});
+      }
+    }
+    </script>
+		<link href="congregations_api.css" rel="stylesheet" type="text/css">
+  <script type="text/javascript" charset="UTF-8" src="{mod_drag,mod_ctrapi,mod_scrwh}.js"></script><script type="text/javascript" charset="UTF-8" src="vp"></script><script type="text/javascript" charset="UTF-8" src="mod_apiiw.js"></script><script type="text/javascript" charset="UTF-8" src="mod_exdom.js"></script></head>
+  <body onload="initialize()" onunload="GUnload()">
+<form action="congregations_api.htm" method="post" id="frmCountry">
+	<div id="map_content">
+<div id="nav">
+		<div class="navrow_c1">Display by Country:</div>
+	  <div class="navrow_c2">
+		<input type="submit" value="Submit" class="button">
+			<select name="selCountry" id="selCountry">
+				<option>Select a Country</option>
+				<option value="ALL">ALL</option>
+				<option value="Argentina">Argentina</option>
+				<option value="Australia">Australia</option>
+				<option value="Barbados">Barbados</option>
+				<option value="Belgium">Belgium</option>
+				<option value="Brazil">Brazil</option>
+				<option value="Canada">Canada</option>
+				<option value="Chile">Chile</option>
+				<option value="Colombia">Colombia</option>
+				<option value="Costa Rica">Costa Rica</option>
+				<option value="El Salvador">El Salvador</option>
+				<option value="France">France</option>
+				<option value="Germany">Germany</option>
+				<option value="Guadeloupe">Guadeloupe</option>
+				<option value="Guatemala">Guatemala</option>
+				<option value="Guyana">Guyana</option>
+				<option value="Haiti">Haiti</option>
+				<option value="Honduras">Honduras</option>
+				<option value="India">India</option>
+				<option value="Indonesia">Indonesia</option>
+				<option value="Ireland">Ireland</option>
+				<option value="Jamaica">Jamaica</option>
+				<option value="Kenya">Kenya</option>
+				<option value="Lesotho">Lesotho</option>
+				<option value="Malaysia">Malaysia</option>
+				<option value="Martinique">Martinique</option>
+				<option value="Mexico">Mexico</option>
+				<option value="Myanmar">Myanmar</option>
+				<option value="Netherlands">Netherlands</option>
+				<option value="New Zealand">New Zealand</option>
+				<option value="Nigeria">Nigeria</option>
+				<option value="Papua New Guinea">Papua New Guinea</option>
+				<option value="Peru">Peru</option>
+				<option value="Philippines">Philippines</option>
+				<option value="Portugal">Portugal</option>
+				<option value="Singapore">Singapore</option>
+				<option value="Sint Maarten">Sint Maarten</option>
+				<option value="South Africa">South Africa</option>
+				<option value="Spain">Spain</option>
+				<option value="Sri Lanka">Sri Lanka</option>
+				<option value="Swaziland">Swaziland</option>
+				<option value="Switzerland">Switzerland</option>
+				<option value="Tanzania">Tanzania</option>
+				<option value="Thailand">Thailand</option>
+				<option value="Trinidad and Tobago">Trinidad and Tobago</option>
+				<option value="Uganda">Uganda</option>
+				<option value="United Kingdom">United Kingdom</option>
+				<option value="USA" selected="">USA</option>
+				<option value="Vanuatu">Vanuatu</option>
+				<option value="Zimbabwe">Zimbabwe</option>
+			</select>
+		</div>
+</div>
+		<div id="map_wrapper">
+    	<div id="map_canvas" style="width: 509px; height: 398px; border: 1px solid rgb(153, 153, 153); position: relative; background-color: rgb(229, 227, 223);"><div style="position: absolute; left: 0px; top: 0px; overflow: hidden; width: 100%; height: 100%;"><div style="position: absolute; left: 64px; top: 88px; z-index: 0; cursor: url(http://maps.gstatic.com/intl/en_us/mapfiles/openhand_8_8.cur) 8 8, default;"><div style="position: absolute; left: 0px; top: 0px; display: none;"><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="transparent.png"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="transparent.png"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="transparent.png"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="transparent.png"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="transparent.png"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="transparent.png"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="transparent.png"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="transparent.png"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="transparent.png"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="transparent.png"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="transparent.png"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="transparent.png"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="transparent.png"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="transparent.png"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="transparent.png"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="transparent.png"></div></div><div style="position: absolute; left: 0px; top: 0px;"><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><img style="position: absolute; left: -181px; top: -90px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="lyrs=m@212000000&hl=en&src=api&x=2&y=5&z=4&s=Gal"><img style="position: absolute; left: -181px; top: 166px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="lyrs=m@212000000&hl=en&src=api&x=2&y=6&z=4&s=Gali"><img style="position: absolute; left: -181px; top: 422px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="lyrs=m@212000000&hl=en&src=api&x=2&y=7&z=4&s=Galil"><img style="position: absolute; left: -181px; top: -346px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="lyrs=m@212000000&hl=en&src=api&x=2&y=4&z=4&s=Ga"><img style="position: absolute; left: 75px; top: -90px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="lyrs=m@212000000&hl=en&src=api&x=3&y=5&z=4&s=Galile"><img style="position: absolute; left: 75px; top: 166px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="lyrs=m@212000000&hl=en&src=api&x=3&y=6&z=4&s=Galileo"><img style="position: absolute; left: 75px; top: 422px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="lyrs=m@212000000&hl=en&src=api&x=3&y=7&z=4&s="><img style="position: absolute; left: 75px; top: -346px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="lyrs=m@212000000&hl=en&src=api&x=3&y=4&z=4&s=Galil"><img style="position: absolute; left: 331px; top: -90px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="lyrs=m@212000000&hl=en&src=api&x=4&y=5&z=4&s=G"><img style="position: absolute; left: 331px; top: 166px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="lyrs=m@212000000&hl=en&src=api&x=4&y=6&z=4&s=Ga"><img style="position: absolute; left: 331px; top: 422px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="lyrs=m@212000000&hl=en&src=api&x=4&y=7&z=4&s=Gal"><img style="position: absolute; left: 331px; top: -346px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="lyrs=m@212000000&hl=en&src=api&x=4&y=4&z=4&s="><img style="position: absolute; left: 587px; top: -90px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="lyrs=m@212000000&hl=en&src=api&x=5&y=5&z=4&s=Gali"><img style="position: absolute; left: 587px; top: 166px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="lyrs=m@212000000&hl=en&src=api&x=5&y=6&z=4&s=Galil"><img style="position: absolute; left: 587px; top: 422px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="lyrs=m@212000000&hl=en&src=api&x=5&y=7&z=4&s=Galile"><img style="position: absolute; left: 587px; top: -346px; width: 256px; height: 256px; border: 0px; padding: 0px; margin: 0px;" src="lyrs=m@212000000&hl=en&src=api&x=5&y=4&z=4&s=Gal"></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 100;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 101;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 102;"><img style="position: absolute; left: 22px; top: 282px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -105017600;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 13px; top: 269px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -108089600;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 75px; top: 258px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -110640000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 140px; top: 252px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -112192000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 79px; top: 276px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -106486400;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 91px; top: 288px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -103664000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 29px; top: 268px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -108296224;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 10px; top: 263px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -109517344;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: -8px; top: 228px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -117524320;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: -18px; top: 248px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -112935776;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: -25px; top: 199px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -123956800;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: -34px; top: 211px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -121328000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: -38px; top: 171px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -130162368;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: -37px; top: 69px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -150809600;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: -40px; top: 96px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -145398400;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: -56px; top: 168px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -130645120;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: -1px; top: 84px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -147878400;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: -6px; top: 180px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -128125344;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 27px; top: 125px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -139618528;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 140px; top: 158px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -132793568;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 147px; top: 137px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -137276800;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 81px; top: 163px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -131747200;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 161px; top: 150px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -134444736;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 88px; top: 66px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -151226848;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 78px; top: 76px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -149469888;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: -345px; top: -213px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -196460800;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 160px; top: 183px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -127481600;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 163px; top: 196px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -124688000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 255px; top: 283px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -104931200;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 280px; top: 303px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -100083200;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 306px; top: 254px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -111618208;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 331px; top: 251px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -112434336;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 286px; top: 289px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -103510400;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 296px; top: 234px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -116144000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 296px; top: 248px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -112981376;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 219px; top: 289px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -103502272;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 196px; top: 251px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -112364448;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 134px; top: 282px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -105130560;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 194px; top: 295px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -101980800;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 271px; top: 285px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -104473600;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 247px; top: 246px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -113473632;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 420px; top: 330px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -93563744;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 443px; top: 368px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -83968000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 420px; top: 346px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -89641600;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 602px; top: 468px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -58157760;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 329px; top: 288px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -103584000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 341px; top: 298px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -101398240;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 343px; top: 313px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -97635168;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 348px; top: 272px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -107363200;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 362px; top: 314px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -97462560;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 437px; top: 281px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -105360640;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 426px; top: 315px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -97145600;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 411px; top: 316px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -97060800;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 401px; top: 309px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -98732800;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 404px; top: 282px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -105049440;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 307px; top: 287px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -104009056;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 302px; top: 277px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -106223104;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 310px; top: 298px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -101395200;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 316px; top: 313px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -97583616;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 308px; top: 318px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -96582400;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 329px; top: 320px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -95996800;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 245px; top: 348px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -89037984;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 243px; top: 314px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -97446880;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 248px; top: 306px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -99418592;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 235px; top: 327px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -94201600;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 269px; top: 322px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -95468800;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 412px; top: 180px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -128105600;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 376px; top: 181px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -127916800;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 397px; top: 216px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -120296288;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 378px; top: 206px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -122538720;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 389px; top: 193px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -125289600;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 361px; top: 189px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -126296128;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 429px; top: 164px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -131509312;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 420px; top: 230px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -117189024;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 425px; top: 198px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -124133888;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 432px; top: 220px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -119464736;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 422px; top: 212px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -121168128;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 385px; top: 165px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -131382400;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 370px; top: 161px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -132099200;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 388px; top: 146px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -135248000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 394px; top: 139px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -136758400;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 364px; top: 90px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -146724288;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 399px; top: 239px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -114999648;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 399px; top: 251px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -112419200;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 415px; top: 244px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -113825152;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 366px; top: 255px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -111462400;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 384px; top: 252px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -112160000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 293px; top: 223px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -118790400;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 387px; top: 239px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -115079520;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 369px; top: 237px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -115542400;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 367px; top: 272px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -107526400;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 373px; top: 288px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -103617888;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 396px; top: 269px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -108246400;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 437px; top: 251px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -112437088;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 415px; top: 259px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -110377600;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 506px; top: 178px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -128472320;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 502px; top: 183px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -127484800;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 499px; top: 166px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -131157632;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 536px; top: 148px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -134992000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 563px; top: 111px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -142573760;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 523px; top: 170px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -130342400;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 472px; top: 133px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -138095296;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 475px; top: 148px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -134912000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 498px; top: 207px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -122297024;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 446px; top: 243px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -114266816;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 466px; top: 193px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -125344000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 481px; top: 219px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -119513600;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 481px; top: 193px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -125296864;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 460px; top: 242px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -114284800;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 288px; top: 156px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -133289696;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 248px; top: 214px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -120659200;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 264px; top: 164px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -131625600;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 281px; top: 194px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -125144960;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 276px; top: 183px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -127476768;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 310px; top: 210px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -121482272;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 326px; top: 199px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -123916640;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 305px; top: 197px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -124461312;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 281px; top: 223px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -118716800;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 283px; top: 239px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -115120000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 269px; top: 216px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -120349504;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 265px; top: 236px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -115673600;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 351px; top: 135px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -137584000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 338px; top: 172px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -129892224;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 355px; top: 150px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -134448000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 346px; top: 117px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -141347200;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 209px; top: 73px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -150043840;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 293px; top: 101px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -144393792;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 334px; top: 100px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -144696064;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 333px; top: 128px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -139030400;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: -5px; top: 45px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -155208320;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 322px; top: 142px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -136102400;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 531px; top: 125px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -139751040;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 46px; top: 235px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -115904000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 435px; top: 242px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -114473600;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 407px; top: 143px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -136019200;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 382px; top: 107px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -143311744;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 126px; top: 181px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -127897152;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 282px; top: 246px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -113587200;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 444px; top: 174px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -129328000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 469px; top: 264px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -109392000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 543px; top: 152px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -133993184;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 307px; top: 67px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -151094400;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 150px; top: 245px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -113708800;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 284px; top: 319px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -96275360;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 402px; top: 265px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -109149120;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 513px; top: 170px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -130336000;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 516px; top: 140px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -136556800;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 478px; top: 197px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -124451200;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 361px; top: 231px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -116918400;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 398px; top: 169px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -130398720;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 388px; top: 287px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -103875136;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 406px; top: 209px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -121738944;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: -48px; top: 144px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -135804832;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 331px; top: 323px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -95360672;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 445px; top: 263px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -109540032;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 487px; top: 226px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -117993600;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 474px; top: 216px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -120177600;" src="lcg_pin_small_shadow.png" class="gmnoprint"><img style="position: absolute; left: 482px; top: 177px; width: 9px; height: 9px; border: 0px; padding: 0px; margin: 0px; z-index: -128890240;" src="lcg_pin_small_shadow.png" class="gmnoprint"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 103;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 104; cursor: default;"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 22px; top: 282px; z-index: -105017600; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_158"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 13px; top: 269px; z-index: -108089600; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_159"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 75px; top: 258px; z-index: -110640000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_160"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 140px; top: 252px; z-index: -112192000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_161"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 79px; top: 276px; z-index: -106486400; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_162"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 91px; top: 288px; z-index: -103664000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_163"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 29px; top: 268px; z-index: -108296224; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_164"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 10px; top: 263px; z-index: -109517344; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_165"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: -8px; top: 228px; z-index: -117524320; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_166"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: -18px; top: 248px; z-index: -112935776; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_167"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: -25px; top: 199px; z-index: -123956800; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_168"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: -34px; top: 211px; z-index: -121328000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_169"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: -38px; top: 171px; z-index: -130162368; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_170"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: -37px; top: 69px; z-index: -150809600; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_171"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: -40px; top: 96px; z-index: -145398400; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_172"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: -56px; top: 168px; z-index: -130645120; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_173"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: -1px; top: 84px; z-index: -147878400; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_174"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: -6px; top: 180px; z-index: -128125344; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_175"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 27px; top: 125px; z-index: -139618528; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_176"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 140px; top: 158px; z-index: -132793568; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_177"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 147px; top: 137px; z-index: -137276800; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_178"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 81px; top: 163px; z-index: -131747200; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_179"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 161px; top: 150px; z-index: -134444736; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_180"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 88px; top: 66px; z-index: -151226848; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_181"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 78px; top: 76px; z-index: -149469888; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_182"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: -345px; top: -213px; z-index: -196460800; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_183"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 160px; top: 183px; z-index: -127481600; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_184"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 163px; top: 196px; z-index: -124688000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_185"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 255px; top: 283px; z-index: -104931200; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_186"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 280px; top: 303px; z-index: -100083200; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_187"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 306px; top: 254px; z-index: -111618208; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_188"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 331px; top: 251px; z-index: -112434336; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_189"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 286px; top: 289px; z-index: -103510400; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_190"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 296px; top: 234px; z-index: -116144000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_191"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 296px; top: 248px; z-index: -112981376; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_192"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 219px; top: 289px; z-index: -103502272; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_193"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 196px; top: 251px; z-index: -112364448; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_194"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 134px; top: 282px; z-index: -105130560; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_195"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 194px; top: 295px; z-index: -101980800; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_196"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 271px; top: 285px; z-index: -104473600; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_197"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 247px; top: 246px; z-index: -113473632; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_198"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 420px; top: 330px; z-index: -93563744; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_199"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 443px; top: 368px; z-index: -83968000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_200"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 420px; top: 346px; z-index: -89641600; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_201"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 602px; top: 468px; z-index: -58157760; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_202"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 329px; top: 288px; z-index: -103584000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_203"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 341px; top: 298px; z-index: -101398240; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_204"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 343px; top: 313px; z-index: -97635168; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_205"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 348px; top: 272px; z-index: -107363200; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_206"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 362px; top: 314px; z-index: -97462560; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_207"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 437px; top: 281px; z-index: -105360640; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_208"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 426px; top: 315px; z-index: -97145600; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_209"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 411px; top: 316px; z-index: -97060800; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_210"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 401px; top: 309px; z-index: -98732800; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_211"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 404px; top: 282px; z-index: -105049440; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_212"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 307px; top: 287px; z-index: -104009056; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_213"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 302px; top: 277px; z-index: -106223104; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_214"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 310px; top: 298px; z-index: -101395200; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_215"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 316px; top: 313px; z-index: -97583616; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_216"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 308px; top: 318px; z-index: -96582400; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_217"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 329px; top: 320px; z-index: -95996800; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_218"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 245px; top: 348px; z-index: -89037984; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_219"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 243px; top: 314px; z-index: -97446880; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_220"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 248px; top: 306px; z-index: -99418592; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_221"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 235px; top: 327px; z-index: -94201600; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_222"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 269px; top: 322px; z-index: -95468800; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_223"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 412px; top: 180px; z-index: -128105600; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_224"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 376px; top: 181px; z-index: -127916800; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_225"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 397px; top: 216px; z-index: -120296288; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_226"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 378px; top: 206px; z-index: -122538720; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_227"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 389px; top: 193px; z-index: -125289600; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_228"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 361px; top: 189px; z-index: -126296128; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_229"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 429px; top: 164px; z-index: -131509312; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_230"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 420px; top: 230px; z-index: -117189024; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_231"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 425px; top: 198px; z-index: -124133888; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_232"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 432px; top: 220px; z-index: -119464736; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_233"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 422px; top: 212px; z-index: -121168128; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_234"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 385px; top: 165px; z-index: -131382400; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_235"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 370px; top: 161px; z-index: -132099200; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_236"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 388px; top: 146px; z-index: -135248000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_237"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 394px; top: 139px; z-index: -136758400; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_238"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 364px; top: 90px; z-index: -146724288; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_239"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 399px; top: 239px; z-index: -114999648; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_240"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 399px; top: 251px; z-index: -112419200; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_241"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 415px; top: 244px; z-index: -113825152; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_242"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 366px; top: 255px; z-index: -111462400; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_243"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 384px; top: 252px; z-index: -112160000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_244"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 293px; top: 223px; z-index: -118790400; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_245"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 387px; top: 239px; z-index: -115079520; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_246"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 369px; top: 237px; z-index: -115542400; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_247"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 367px; top: 272px; z-index: -107526400; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_248"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 373px; top: 288px; z-index: -103617888; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_249"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 396px; top: 269px; z-index: -108246400; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_250"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 437px; top: 251px; z-index: -112437088; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_251"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 415px; top: 259px; z-index: -110377600; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_252"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 506px; top: 178px; z-index: -128472320; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_253"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 502px; top: 183px; z-index: -127484800; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_254"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 499px; top: 166px; z-index: -131157632; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_255"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 536px; top: 148px; z-index: -134992000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_256"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 563px; top: 111px; z-index: -142573760; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_257"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 523px; top: 170px; z-index: -130342400; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_258"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 472px; top: 133px; z-index: -138095296; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_259"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 475px; top: 148px; z-index: -134912000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_260"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 498px; top: 207px; z-index: -122297024; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_261"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 446px; top: 243px; z-index: -114266816; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_262"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 466px; top: 193px; z-index: -125344000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_263"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 481px; top: 219px; z-index: -119513600; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_264"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 481px; top: 193px; z-index: -125296864; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_265"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 460px; top: 242px; z-index: -114284800; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_266"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 288px; top: 156px; z-index: -133289696; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_267"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 248px; top: 214px; z-index: -120659200; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_268"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 264px; top: 164px; z-index: -131625600; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_269"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 281px; top: 194px; z-index: -125144960; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_270"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 276px; top: 183px; z-index: -127476768; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_271"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 310px; top: 210px; z-index: -121482272; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_272"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 326px; top: 199px; z-index: -123916640; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_273"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 305px; top: 197px; z-index: -124461312; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_274"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 281px; top: 223px; z-index: -118716800; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_275"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 283px; top: 239px; z-index: -115120000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_276"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 269px; top: 216px; z-index: -120349504; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_277"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 265px; top: 236px; z-index: -115673600; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_278"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 351px; top: 135px; z-index: -137584000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_279"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 338px; top: 172px; z-index: -129892224; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_280"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 355px; top: 150px; z-index: -134448000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_281"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 346px; top: 117px; z-index: -141347200; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_282"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 209px; top: 73px; z-index: -150043840; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_283"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 293px; top: 101px; z-index: -144393792; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_284"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 334px; top: 100px; z-index: -144696064; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_285"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 333px; top: 128px; z-index: -139030400; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_286"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: -5px; top: 45px; z-index: -155208320; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_287"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 322px; top: 142px; z-index: -136102400; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_288"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 531px; top: 125px; z-index: -139751040; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_289"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 46px; top: 235px; z-index: -115904000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_290"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 435px; top: 242px; z-index: -114473600; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_291"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 407px; top: 143px; z-index: -136019200; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_292"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 382px; top: 107px; z-index: -143311744; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_293"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 126px; top: 181px; z-index: -127897152; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_294"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 282px; top: 246px; z-index: -113587200; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_295"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 444px; top: 174px; z-index: -129328000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_296"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 469px; top: 264px; z-index: -109392000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_297"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 543px; top: 152px; z-index: -133993184; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_298"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 307px; top: 67px; z-index: -151094400; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_299"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 150px; top: 245px; z-index: -113708800; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_300"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 284px; top: 319px; z-index: -96275360; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_301"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 402px; top: 265px; z-index: -109149120; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_302"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 513px; top: 170px; z-index: -130336000; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_303"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 516px; top: 140px; z-index: -136556800; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_304"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 478px; top: 197px; z-index: -124451200; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_305"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 361px; top: 231px; z-index: -116918400; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_306"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 398px; top: 169px; z-index: -130398720; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_307"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 388px; top: 287px; z-index: -103875136; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_308"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 406px; top: 209px; z-index: -121738944; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_309"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: -48px; top: 144px; z-index: -135804832; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_310"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 331px; top: 323px; z-index: -95360672; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_311"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 445px; top: 263px; z-index: -109540032; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_312"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 487px; top: 226px; z-index: -117993600; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_313"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 474px; top: 216px; z-index: -120177600; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_314"><img style="width: 7px; height: 7px; border: 0px; padding: 0px; margin: 0px; position: absolute; left: 482px; top: 177px; z-index: -128890240; cursor: pointer;" src="lcg_pin_small.png" id="mtgt_unnamed_315"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 105;"><div style="position: absolute; left: 200px; top: 42px;" class="gmnoprint"><div style="width: 70px; height: 30px; overflow: hidden; z-index: 1; position: absolute; left: 61px; top: 0px;"><img style="position: absolute; left: -323px; top: 0px; width: 1144px; height: 370px; border: 0px; padding: 0px; margin: 0px;" src="iws3.png"></div><div style="width: 70px; height: 30px; overflow: hidden; z-index: 1; position: absolute; left: 291px; top: 0px;"><img style="position: absolute; left: -1033px; top: 0px; width: 1144px; height: 370px; border: 0px; padding: 0px; margin: 0px;" src="iws3.png"></div><div style="width: 70px; height: 60px; overflow: hidden; z-index: 1; position: absolute; left: 0px; top: 62px;"><img style="position: absolute; left: -14px; top: -310px; width: 1144px; height: 370px; border: 0px; padding: 0px; margin: 0px;" src="iws3.png"></div><div style="width: 70px; height: 60px; overflow: hidden; z-index: 1; position: absolute; left: 260px; top: 62px;"><img style="position: absolute; left: -754px; top: -310px; width: 1144px; height: 370px; border: 0px; padding: 0px; margin: 0px;" src="iws3.png"></div><div style="width: 140px; height: 60px; overflow: hidden; z-index: 1; position: absolute; left: 70px; top: 62px;"><img style="position: absolute; left: -119px; top: -310px; width: 1144px; height: 370px; border: 0px; padding: 0px; margin: 0px;" src="iws3.png"></div><div style="position: absolute; left: 131px; top: 0px; width: 160px; height: 30px; overflow: hidden;"><div style="width: 640px; height: 30px; overflow: hidden;"><img style="position: absolute; left: -393px; top: 0px; width: 1144px; height: 370px; border: 0px; padding: 0px; margin: 0px;" src="iws3.png"></div></div><div style="width: 102px; height: 32px; overflow: hidden; bottom: -1px; position: absolute; left: 29px; top: 30px;"><img style="position: absolute; left: -291px; top: -30px; border: 0px; padding: 0px; margin: 0px;" src="iws3.png"></div><div style="width: 102px; height: 32px; overflow: hidden; bottom: -1px; position: absolute; left: 289px; top: 30px;"><img style="position: absolute; left: -1031px; top: -30px; border: 0px; padding: 0px; margin: 0px;" src="iws3.png"></div><div style="position: absolute; left: 70px; top: 62px; width: 0px; height: 60px; overflow: hidden;"><div style="width: 320px; height: 60px; overflow: hidden;"><img style="position: absolute; left: -345px; top: -310px; width: 1144px; height: 370px; border: 0px; padding: 0px; margin: 0px;" src="iws3.png"></div></div><div style="position: absolute; left: 210px; top: 62px; width: 50px; height: 60px; overflow: hidden;"><div style="width: 320px; height: 60px; overflow: hidden;"><img style="position: absolute; left: -345px; top: -310px; width: 1144px; height: 370px; border: 0px; padding: 0px; margin: 0px;" src="iws3.png"></div></div><div style="position: absolute; left: 131px; top: 30px; width: 158px; height: 32px; overflow: hidden;"><div style="width: 640px; height: 598px; overflow: hidden;"><img style="position: absolute; left: -360px; top: -30px; width: 1144px; height: 370px; border: 0px; padding: 0px; margin: 0px;" src="iws3.png"></div></div></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 106;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 107; cursor: default;"><div style="position: absolute; left: 192px; top: -59px;" class="gmnoprint"><div style="position: relative; left: 0px; top: 0px; z-index: 10; width: 250px; height: 154px;" class="gmnoprint"><img style="position: absolute; left: 226px; top: 11px; width: 12px; height: 12px; border: 0px; padding: 0px; margin: 0px; cursor: pointer; z-index: 10000;" src="iw_close.gif"><img style="position: absolute; left: 0px; top: 0px; width: 12px; height: 12px; border: 0px; padding: 0px; margin: 0px; cursor: pointer; z-index: 10000; display: none;" src="iw_plus.gif"><a style="position: absolute; left: 0px; top: 0px; text-decoration: none; white-space: nowrap; display: none;" href="javascript:void(0)"><img style="position: relative; left: 0px; top: 0px; width: 15px; height: 12px; border: 0px; padding: 0px; margin: 0px; cursor: pointer; z-index: 10000; display: none; vertical-align: top;" src="iw_fullscreen.gif"><span style="font-size: small; text-decoration: underline; padding-left: 5px; overflow: hidden; position: relative; top: -6px;">Full-screen</span></a><img style="position: absolute; left: 0px; top: 0px; width: 12px; height: 12px; border: 0px; padding: 0px; margin: 0px; cursor: pointer; z-index: 10000; display: none;" src="iw_minus.gif"><div style="position: absolute; left: 16px; top: 16px; width: 218px; height: 122px; z-index: 10;"><div><table border="0" cellpadding="0" cellspacing="0" height="122"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" class="bubble_header"><tbody><tr><td width="9" class="bubble_corner_tl base"></td><td width="197" class="base region_label">USA Congregations</td><td width="9" class="bubble_corner_tr base"></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" class="bubble_body"><tbody><tr><td width="62" class="bubble_label">Location:</td><td width="156" class="bubble_body_td">Omaha, NE</td></tr><tr><td class="bubble_label">Minister:</td><td class="bubble_body_td">Rand Millich</td></tr><tr><td class="bubble_label">Contact:</td><td class="bubble_body_td"><a href="http://www.lcg.org/cgi-bin/lcg/congregations/lcg-cong-contact.cgi?action=emailcontactform&item=7142" target="_blank">Rand Millich</a></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" class="bubble_footer"><tbody><tr><td width="9" height="15" class="bubble_corner_bl"></td><td width="197" class="base"></td><td width="9" class="bubble_corner_br"></td></tr></tbody></table></td></tr></tbody></table></div></div></div><div style="width: 25px; height: 25px; overflow: hidden; z-index: 1; position: absolute; left: 0px; top: 0px;"><img style="position: absolute; left: 0px; top: 0px; width: 690px; height: 786px; border: 0px; padding: 0px; margin: 0px;" src="iw3.png"></div><div style="width: 25px; height: 25px; overflow: hidden; z-index: 1; position: absolute; left: 225px; top: 0px;"><img style="position: absolute; left: -665px; top: 0px; width: 690px; height: 786px; border: 0px; padding: 0px; margin: 0px;" src="iw3.png"></div><div style="width: 97px; height: 96px; overflow: hidden; z-index: 1; position: absolute; left: 76px; top: 129px;"><img style="position: absolute; left: 0px; top: -691px; width: 690px; height: 786px; border: 0px; padding: 0px; margin: 0px;" src="iw3.png"></div><div style="width: 25px; height: 25px; overflow: hidden; z-index: 1; position: absolute; left: 0px; top: 129px;"><img style="position: absolute; left: 0px; top: -665px; width: 690px; height: 786px; border: 0px; padding: 0px; margin: 0px;" src="iw3.png"></div><div style="width: 25px; height: 25px; overflow: hidden; z-index: 1; position: absolute; left: 225px; top: 129px;"><img style="position: absolute; left: -665px; top: -665px; width: 690px; height: 786px; border: 0px; padding: 0px; margin: 0px;" src="iw3.png"></div><div style="position: absolute; left: 25px; top: 0px; width: 200px; height: 25px; background-color: white; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(171, 171, 171);"></div><div style="position: absolute; left: 0px; top: 25px; width: 248px; height: 104px; background-color: white; border-left-width: 1px; border-left-style: solid; border-left-color: rgb(171, 171, 171); border-right-width: 1px; border-right-style: solid; border-right-color: rgb(171, 171, 171);"></div><div style="position: absolute; left: 25px; top: 129px; width: 200px; height: 24px; background-color: white; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(171, 171, 171);"></div></div></div></div></div><div class="gmnoprint" style="z-index: 0; position: absolute; left: 2px; bottom: 2px;"><a title="Click to see this area on Google Maps" target="_blank" href="http://maps.google.com/maps?ll=44.465151,-102.216797&spn=25.077491,44.912109&z=4&key=ABQIAAAAgG824yB2uXdzQT1Xn0hMphQT0OoMT1XJQlKnONEGs5kDH14CVBSI9V8j2uMDWZUGe9LOQz-nc-5xIQ&mapclient=jsapi&oi=map_misc&ct=api_logo"><img style="width: 62px; height: 30px; border: 0px; padding: 0px; margin: 0px; cursor: pointer;" src="poweredby.png"></a></div><div style="z-index: 0; position: absolute; right: 3px; bottom: 2px; color: black; font-family: Arial, sans-serif; font-size: 11px; white-space: nowrap; text-align: right;" dir="ltr"><span>Map data ©2013  Google, INEGI - </span><a href="http://www.google.com/intl/en_us/help/terms_maps.html" target="_blank" class="gmnoprint terms-of-use-link" style="color: rgb(119, 119, 204);">Terms of Use</a></div><div style="width: 37px; height: 94px; z-index: 0; position: absolute; left: 7px; top: 7px;" class="gmnoprint"><img style="position: absolute; left: 0px; top: 0px; width: 37px; height: 94px; border: 0px; padding: 0px; margin: 0px;" src="smc.png"><div style="position: absolute; left: 9px; top: 0px; width: 18px; height: 18px; cursor: pointer;" title="Pan up"></div><div style="position: absolute; left: 0px; top: 18px; width: 18px; height: 18px; cursor: pointer;" title="Pan left"></div><div style="position: absolute; left: 18px; top: 18px; width: 18px; height: 18px; cursor: pointer;" title="Pan right"></div><div style="position: absolute; left: 9px; top: 36px; width: 18px; height: 18px; cursor: pointer;" title="Pan down"></div><div style="position: absolute; left: 9px; top: 57px; width: 18px; height: 18px; cursor: pointer;" title="Zoom In"></div><div style="position: absolute; left: 9px; top: 75px; width: 18px; height: 18px; cursor: pointer;" title="Zoom Out"></div></div><div class="gmnoprint" style="z-index: 0; position: absolute; right: 7px; top: 7px; color: black; font-family: Arial, sans-serif; font-size: small; width: 200px; height: 19px;"><div style="position: absolute; background-color: white; border: 1px solid black; text-align: center; width: 5em; right: 10.2em; cursor: pointer;" title="Show street map"><div style="font-size: 12px; font-weight: bold; border-width: 1px; border-style: solid; border-color: rgb(52, 86, 132) rgb(108, 157, 223) rgb(108, 157, 223) rgb(52, 86, 132);">Map</div></div><div style="position: absolute; background-color: white; border: 1px solid black; text-align: center; width: 5em; right: 5.1em; cursor: pointer;" title="Show satellite imagery"><div style="font-size: 12px; border-width: 1px; border-style: solid; border-color: white rgb(176, 176, 176) rgb(176, 176, 176) white;">Satellite</div></div><div style="position: absolute; background-color: white; border: 1px solid black; text-align: center; width: 5em; right: 0em; cursor: pointer;" title="Show imagery with street names"><div style="font-size: 12px; border-width: 1px; border-style: solid; border-color: white rgb(176, 176, 176) rgb(176, 176, 176) white;">Hybrid</div></div></div><div style="width: 60px; height: 40px; visibility: hidden; border: none; z-index: 0;" class="gmnoprint"><div style="width: 6px; height: 4px; line-height: 1px; font-size: 1px; border-width: 2px 0px 0px 2px; border-top-style: solid; border-top-color: rgb(255, 0, 0); border-left-style: solid; border-left-color: rgb(255, 0, 0);"></div><div style="width: 6px; height: 4px; line-height: 1px; font-size: 1px; border-width: 2px 2px 0px 0px; border-top-style: solid; border-top-color: rgb(255, 0, 0); border-right-style: solid; border-right-color: rgb(255, 0, 0);"></div><div style="width: 6px; height: 4px; line-height: 1px; font-size: 1px; border-width: 0px 2px 2px 0px; border-right-style: solid; border-right-color: rgb(255, 0, 0); border-bottom-style: solid; border-bottom-color: rgb(255, 0, 0);"></div><div style="width: 6px; height: 4px; line-height: 1px; font-size: 1px; border-width: 0px 0px 2px 2px; border-bottom-style: solid; border-bottom-color: rgb(255, 0, 0); border-left-style: solid; border-left-color: rgb(255, 0, 0);"></div></div></div>
+		</div>
+	</div>
+</form>
+  
+
+<script>
+if (document.getElementById("selCountry")){
+	document.getElementById("selCountry").onchange = function(){
+		document.getElementById("frmCountry").submit();
+	}
+}
+</script>
+</body></html>

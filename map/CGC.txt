@@ -1,0 +1,38 @@
+X	Y	Location	Cult	Image
+115.8742311	-31.82750385	"Melbourne, Victoria  "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-78.74075396	44.35657893	"Alexander Heights, Western Australia  "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+0.771782212	49.48231908	"Lindsay, ON  "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+17.08248153	-22.55890075	"La Maillerraye sur Seine, Normandy  "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+121.1281905	14.74886014	"Windhoek, Namibia"	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+121.2019514	14.75981936	"Amityville, Philippines"	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+121.3944494	14.10916726	"Rodriquez, Philippines"	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-61.51666652	10.66667049	"Rizal, Philippines   "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+18.42405799	-33.92486752	"Port of Spain, Trinidad and Tobago"	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+25.56995371	-33.93263829	"Cape Town, South Africa"	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+28.28716938	-15.40819246	"Port Elizabeth, South Africa"	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-111.9260511	33.49417519	"Lusaka, Zambia"	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-121.6169085	39.14044984	"Scottsdale, AZ    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-117.7523023	34.05522883	"Yuba City, CA    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-122.4194122	37.77493382	"Pomona, CA    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-104.9847172	39.73756752	"San Francisco, CA    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-105.9394554	40.08610085	"Denver, CO    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-81.65564907	30.33218495	"Granby, CO    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-82.45717395	27.9505796	"Jacksonville, FL    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-84.38798234	33.7489975	"Tampa, FL    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-82.97625687	33.27570279	"Atlanta, GA    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-87.78449394	41.57337068	"Sparta, GA    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-77.15470165	39.37621656	"Tinley Park, IL    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-86.36112373	41.82727216	"Baltimore/Mt. Airy, MD    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-93.8185368	37.10367037	"Buchanan, MI    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-93.13935468	37.75781588	"Mount Vernon, MO    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-88.55612352	30.36575859	"Springfield/Louisburg, MO    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-80.94507236	35.00737212	"Pascagoula, MS    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-80.07365245	36.11986067	"Fort Mill, SC, NC    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-122.6762036	45.52345209	"Kernersville, NC    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-76.30551196	40.03787695	"Portland, OR    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-81.03481323	34.00071215	"Lancaster, PA    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-101.8312952	35.22200167	"Columbia, SC    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-97.73677485	30.48357346	"Amarillo, TX    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-94.94271582	32.53653571	"Austin/Round Rock, TX    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-97.38668066	32.34764855	"Gladewater, TX    "	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png
+-97.386681	32.347645	"Cleburne, TX"	Church of the Great God	http://silenced.co/wp-content/uploads/2011/04/cgc.png

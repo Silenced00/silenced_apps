@@ -1,0 +1,2 @@
+X	Y	Location	Cult	Image
+-122.238892	40.563763	"Palo Cedro, CA"	"Church of God, In Training for the Kingdom"	http://silenced.co/wp-content/uploads/2012/03/3155047yb6bcWtd-150x150.png

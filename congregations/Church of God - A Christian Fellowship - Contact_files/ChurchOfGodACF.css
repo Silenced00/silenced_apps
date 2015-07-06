@@ -1,0 +1,205 @@
+/**************************************************************************************
++---- #HEADER  ------------------------------------------------------------------------+
+|                                                                                      |
+|                                                                                      |
+|                                                                                      |
+|                                                                                      |
++--------------------------------------------------------------------------------------+
+
++----  #MIDDLE  -----------------------------------------------------------------------+
+|   +-- LEFTCOL --+   +--- CENTER------------------------------+    +-- RIGHTCOL -+    |
+|   | +- .BOX --+ |   | +- CONTENTS -------------------------+ |    | +- .BOX --+ |    |
+|   | |         | |   | |                                    | |    | |         | |    |
+|   | |         | |   | |                                    | |    | |         | |    |
+|   | |         | |   | |                                    | |    | |         | |    |
+|   | |         | |   | |                                    | |    | |         | |    |
+|   | +---------+ |   | +------------------------------------+ |    | +---------+ |    |
+|   | +- .BOX --+ |   | +- BODY -----------------------------+ |    | +- .BOX --+ |    |
+|   | |         | |   | |                                    | |    | |         | |    |
+|   | |         | |   | |                                    | |    | |         | |    |
+|   | |         | |   | |                                    | |    | |         | |    |
+|   | |         | |   | |                                    | |    | |         | |    |
+|   | +---------+ |   | +------------------------------------+ |    | +---------+ |    |
+|   +-------------+   +----------------------------------------+    +-------------+    |
++--------------------------------------------------------------------------------------+
+
++---- FOOTER  -------------------------------------------------------------------------+
+|                                                                                      |
+|                                                                                      |
+|                                                                                      |
+|                                                                                      |
++--------------------------------------------------------------------------------------+
+
+***************************************************************************************/
+/* CSS Document */
+body{margin:0px;  padding:0px; background: #30499D ;  
+     /* WinIE behavior call.We need this for the rollovers for the dropdown menu. It causes invalid css though */
+    behavior: url(/lib/csshover.htc); }
+
+/* Site-wide Text Formatting */
+div{font-family: Arial,sans-serif; color: #000000; font-size: small; line-height: 1.4;	  margin:0;width:100% /*56em*/}
+
+h1 { font-family: Arial,sans-serif; font-size: large;  margin:.25em 0; padding:.25em; font-weight:bold; color:#6633C2; background:#DDF0FF; text-align:center; }
+h1 a{text-decoration:none;}
+h1 a:hover{}
+
+h2 { font-family: Arial,sans-serif; font-size: medium; margin:0; padding:0;  color: #AA2023; font-weight:bold;}
+h2.reverse { color:white; background: #6633C2; padding: 0 .25em;}
+h2.lightblue { color:#6633C2; background:#DDF0FF;  padding: 0 .25em;}
+h2 a{color: #AA2023; }
+
+h3 { font-family:Georgia, "Times New Roman", Times, serif; font-weight:bold; font-size: small;  margin:0; padding:0;color: #000; text-align:left; line-height:1.3;  }
+h3.block{font-family: Arial,sans-serif; background:#DDF0FF; padding:.25em .5em; margin:.25em; text-align:center; color:#6633C2; }
+h3.reverse{ color:white; background: #6633C2; padding: 0 .25em;}
+
+h4 { margin:.25em; font-size:small; color:#6633C2; }
+h4.center{text-align:center;}
+h5 { margin:.25em; font-size:small;}
+p, #body li{ font-family:Georgia, "Times New Roman", Times, serif; font-size: small; line-height: 1.4;	 }
+span.pages{font-size: 105%; font-family: Arial,sans-serif; margin:.5em; font-weight:bold;color:#AA2023;}
+span.pages a{color:#6633C2;}
+span.pages a:hover{color:#AA2023;}
+ol {list-style-position:outside; padding:0 0 0 1.5em; }
+
+.highlight{background:#FFFF00;}
+
+a{color: #6633C2; text-decoration:underline;  font-weight:bold;}
+a:hover{color: #AA2023;}
+
+
+#all{width:100%; text-align:center;}
+
+#header{line-height: 1.16;	 }
+#header div{width:auto;}
+#header h1{ text-indent:-9999px; background:url("../images/Church_of_the_God_ACF.jpg")  no-repeat -12px -10px; height:90px; padding:0px; margin:0px; }
+
+
+#navigation{ }
+
+
+/*
+* #middle is the container for the left column, central column, and the right column
+*/
+#middle{ clear:both; border:0; background:#FCE8B6; 	position: relative;}
+#middle #center{ margin:0 165px; width:auto; background:#fff; padding:6px; position:relative; text-align:left; min-height:60em;}
+#middle #center div{ width:auto;}
+#middle #center #contents span{font-family: Arial,sans-serif; font-weight:bold; font-size:105%;}
+#middle #center #contents *{vertical-align:top;}
+
+#middle #center #body{ margin:.5em;  position:relative;}
+#middle #center #body div{  border-bottom: 2px solid #6633C2; text-decoration:none;}
+#middle #center #body a{ text-decoration:none; }
+#middle #center #body .backtotop {text-align:right; font-size:.85em; font-weight:bold; border:0;}
+#updatecopyright{clear:both; font-size:75%;  margin:0;padding:.25em; border-bottom:0px solid white; text-align:center;}
+#middle #center #body div.noborder{border:0px solid black;}
+
+
+/*
+* #left column
+*/
+#middle #leftcol{ position:absolute; top:0px; left:0px; text-align:left; width:155px;}
+/* create rollover effect with crazy negative indentation and background images */
+#middle #leftcol #netservices h2 a{overflow:hidden; display:block; background:url("../images/netservices.gif")  no-repeat;text-indent:-9999px; text-decoration:none;}
+#middle #leftcol #netservices h2 a:hover{ display:block; background:url("../images/netservices.gif")  no-repeat 0 -27px;}
+#middle #leftcol #standingwatch h2 a{overflow:hidden; display:block; background:url("../images/standingwatch.gif")  no-repeat;text-indent:-9999px;}
+#middle #leftcol #standingwatch h2 a:hover{ display:block; background:url("../images/standingwatch.gif")  no-repeat 0 -27px;;}
+
+/*
+* #right is the container for the right column only
+*/
+#middle #rightcol{position:absolute; top:0px;right:0px; width:155px; text-align:center; }
+#middle #rightcol div.box, #middle #rightcol div.noborderbox {margin:1.25em 0 0.5em 0;}
+#middle #rightcol #whatsnew h2 a{display:block; background:url("../images/whatsnew.gif")  no-repeat; text-indent:-9999px;}
+#middle #rightcol #whatsnew h2 a:hover{display:block; background:url("../images/whatsnew.gif")  no-repeat 0 -27px;}
+#middle #rightcol #whatsnew ol{padding-top:1em;}
+
+
+
+/* BOX BORDER WITH DROP SHADDOW */
+div.box{ width: 155px;  background:#FCE8B6 url("../images/box_middle.gif") repeat-y; margin:1.25em 0 0.5em 0.5em;}
+div.box div{width:auto;  padding:0 14px 0 8px; margin:0px 0 0 0;}
+div.box div.top{width: 155px; height:14px; background:#DDF0FF url(../images/box_top.gif) no-repeat 0 0; padding:0px; font-size:0px; line-height:0px; margin:0px; padding:0px;}
+div.box div.bottom{width:155px;height:20px; background:#DDF0FF url(../images/box_bottom.gif) no-repeat; background-position:bottom; padding:0px 0px 0px 0px; font-size:1px; line-height:1px;}
+div.box img{ width:134px; }
+
+/* Box text formatting */
+div.box a {font-family: Arial,sans-serif; font-size:12px; font-weight:bold; margin:3px;}
+div.box h2 a {font-family: Arial,sans-serif; font-size:13px; font-weight:bold; margin:3px; text-decoration:none;}
+div.box p, div.box ol{font-family: Arial,sans-serif; color: #000000; font-size:12px; margin:3px; text-align:left;}
+
+
+/* BOX WITHOUT BORDER */
+div.noborderbox{ margin: 10px 10px; width:142px; border:0px solid black;}
+div.noborderbox img{ width:142px; }
+div.noborderbox p{ color:#6633C2; font-weight:bold; text-align:left; padding:4px; font-size:10px; margin:0; }
+div.noborderbox .credit{ color:#6633C2; font-weight:bold; text-align:right; padding:0 4px; font-size:10px;  margin:0; display:block; font-family:Georgia, "Times New Roman", Times, serif; }
+
+/*
+* #footer
+*/
+#footer{clear:none; background:#6633C2; margin:0px; text-align:center; position:relative;}
+#footer ul{display:none; position:relative; text-align:center; border:1px solid black;}
+#footer ul li{display:block; clear:none; position:relative;text-align:center;}
+#footer ul li a{text-align:center; float:left;text-align:center;}
+#footer #copyright{clear:both; background:#6633C2; font-size:100%; color:#ffffff;  margin:0;padding:.25em; }
+
+/*
+* Audio page, search form styling
+*/
+#audiosearch form{margin:0; padding:.75em ; background:#96A7FA;}
+#audiosearch{color:white; background: #6633C2; text-align:center; padding:0em 0; }
+#audiosearch input{ margin:0;}
+#audiosearchterms{width:16em; margin:.5em; }
+div#audiosearch input.button{ width:10em;    margin:0 .5em;    padding: .25em;	text-decoration: none; 	height:auto;	border:0 solid black;	background:#6633C2;    color:#FFF;    font-weight:bold;    font-family:Arial, Helvetica, sans-serif;	line-height: 1.1em;	text-transform:uppercase; }
+div#audiosearch input.button:hover {	cursor:pointer;	color: #FFED8F; }
+
+/*
+* QA page, search form styling
+*/
+#qasearch form{margin:0; padding:.75em ; background:#96A7FA;}
+#qasearch{color:white; background: #6633C2; text-align:center; padding:0em 0; }
+#qasearch input{ margin:0;}
+#qasearchterms{width:16em; margin:.5em; }
+div#qasearch input.button{ width:10em;    margin:0 .5em;    padding: .25em;	text-decoration: none; 	height:auto;	border:0 solid black;	background:#6633C2;    color:#FFF;    font-weight:bold;    font-family:Arial, Helvetica, sans-serif;	line-height: 1.1em;	text-transform:uppercase; }
+div#qasearch input.button:hover {	cursor:pointer;	color: #FFED8F; }
+
+
+/* Site-wide layout formatting */
+
+/* CSS for google sermon video links */
+#middle #center #body div#googleSermons,
+#middle #center #body div#googleSermonLists{
+	border-bottom-width: 0px;
+}
+#middle #center div#googleSermons{
+	position: relative;
+	width: 200px;
+	float:right;
+}
+#googleSermons{
+	background:  #fff;
+	padding: 10px 0px 0px 10px;
+}
+#googleSermonLists{
+	padding: 0px 0px 0px 4px;
+}
+#googleSermonLists ul{
+	list-style: none;
+	margin: 0; padding: 10px 0 0 0;
+}
+#googleSermonLists ul li{
+	margin: 1px;
+	background: #fff;
+}
+#googleSermonLists ul li a{
+	margin: 3px 1px;
+	background: #fff;
+	border: 1px solid #cde;
+	display: block;
+	padding: 4px;
+	font-weight: normal;
+}
+#googleSermonLists ul li a:hover{
+		background:  #ffffee;
+}
+

@@ -1,0 +1,2 @@
+X	Y	Location	Cult	Image
+-82.997673	38.731743	"Portsmouth, OH"	Independent Church of God	http://silenced.co/wp-content/uploads/2011/04/icog.png

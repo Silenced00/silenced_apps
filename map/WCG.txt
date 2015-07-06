@@ -1,0 +1,4 @@
+X	Y	Location	Cult	Image
+-118.156883	34.142696	Worldwide Church of God & Ambassador College Historical Site	Worldwide Church of God	http://silenced.co/wp-content/uploads/2011/04/wcg.jpg
+-95.069305	32.58897	Ambassador College Reservoir	Worldwide Church of God	http://silenced.co/wp-content/uploads/2011/04/wcg.jpg
+-0.362443	51.705063	"Bricket Wood, Hertfordshire AL2"	Worldwide Church of God	http://silenced.co/wp-content/uploads/2011/04/wcg.jpg

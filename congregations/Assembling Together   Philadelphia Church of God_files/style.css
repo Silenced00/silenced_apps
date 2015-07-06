@@ -1,0 +1,416 @@
+@import url("/Styles/wordpress.css");
+
+	``@charset "UTF-8";
+/* CSS Document */
+
+html {
+	overflow-y: scroll;
+}
+
+p      {
+	font-family: Verdana, Georgia, "Times New Roman", Times, Serif;
+}
+p.par1right {
+	font-family: Verdana, Georgia, "Times New Roman", Times, Serif;
+	margin-left: 0px;
+	margin-top: 15px;
+	margin-bottom: 0px;
+	font-size: 12px;
+	line-height: 16px;
+}
+p.par1      {
+	font-family: Verdana, Georgia, "Times New Roman", Times, Serif;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 6px;
+	margin-bottom: 5px;
+	font-size: 9pt;
+}
+p.small      {
+	font-family: Verdana, Georgia, "Times New Roman", Times, Serif;
+	margin-left: 5px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	font-size: 8pt;
+	line-height: 13px;
+}
+p.smallnm      {
+	font-family: Verdana, Georgia, "Times New Roman", Times, Serif;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 2px;
+	margin-bottom: 0px;
+	font-size: 8pt;
+	line-height: 13px;
+}
+p.date      {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 3px;
+	margin-bottom: -3px;
+	font-size: 9pt;
+	line-height: 13px;
+}
+p.par2right {
+	font-family: Verdana, Georgia, "Times New Roman", Times, Serif;
+	margin-left: 5px;
+	margin-top: 5px;
+	font-size: 12px;
+}
+p.newstitle {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	font-weight: bold;
+	color: #AD803e;
+	margin-left: 0px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	font-size: 18pt;
+}
+p.newstitlea {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	font-weight: normal;
+	color: #000000;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 16pt;
+}
+p.newstitleb {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	font-weight: normal;
+	color: #000000;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 24pt;
+}
+a.newstitle {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	font-weight: bold;
+	color: #AD803e;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 20pt;
+	text-decoration: none;
+}
+a.newstitle:hover    {
+color: #003bcb;
+}
+a.linkstitle {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	font-weight: bold;
+	color: #006bfb;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 15pt;
+	text-decoration: none;
+}
+a.linkstitle:hover    {
+text-decoration:none;
+	color: #003bcb;
+}
+a.movielinks {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	font-weight: bold;
+	color: #990000;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 12pt;
+	text-decoration: none;
+}
+a.movielinks:hover    {
+text-decoration:none;
+	color: #c59129;
+}
+p.newssubtitle {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	font-weight: bold;
+	color: #AD803e;
+	margin-left: 0px;
+	margin-top: 5px;
+	margin-bottom: 0px;
+	font-size: 12pt;
+}
+a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+a.newssubtitle {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	font-weight: bold;
+	color: #AD803e;
+	margin-left: 0px;
+	margin-top: 5px;
+	margin-bottom: 0px;
+	font-size: 12pt;
+	text-decoration: none;
+}
+a.newssubtitle:hover    {
+color: #003bcb;
+}
+a.stdlink   {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	text-decoration:none;
+	font-size: 10pt;
+	font-weight:bold;
+	color: #000000;
+}
+a.stdlink:hover   {
+	color:#004bdb;
+}
+p.indent    {
+	font-family: Verdana, Georgia, "Times New Roman", Times, Serif;
+	margin-left: 15px;
+	margin-top: -3px;
+	margin-right: 5px;
+	font-size: 11px;
+}
+a.intextlink  {
+	font-family: Verdana, Georgia, "Times New Roman", Times, Serif;
+	color: #417abe;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.intextlink:hover {
+	text-decoration:none;
+	color: #003bcb;
+}
+p.numbers   {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	margin-left: 5px;
+	font-size: 22px;
+	margin-top: 10px;
+	margin-bottom: -5px;
+	font-weight:bold;
+}
+p.bluesub   {
+	font-family: Verdana, Georgia, "Times New Roman", Times, Serif;
+	margin-left: 5px;
+	font-size: 14px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+p.newslinks      {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	margin-left: 0px;
+	margin-right: 5px;
+	margin-top: 2px;
+	margin-bottom: 0px;
+	font-size: 10pt;
+}
+a.newslinks   {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	font-weight: bold;
+	text-decoration:none;
+	font-size: 10pt;
+	color: #000000;
+	margin-top: 0px;
+}
+p.moreright      {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	text-align: right;
+	margin-left: 0px;
+	margin-right: 5px;
+	margin-top: 2px;
+	margin-bottom: 0px;
+	font-size: 10pt;
+}
+a.moreright   {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	font-weight: bold;
+	text-decoration:none;
+	font-size: 10pt;
+	color: #8D601e;
+	margin-top: 0px;
+}
+a.moreright:hover  {
+	color: #003bcb;
+}
+a.newslinks:hover   {
+	color:#003bcb;
+}
+a.brownlink  {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	color: #8D601e;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.brownlink:hover  {
+	color: #003bcb;
+}
+a.bluelink     {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	color: #006bfb;
+	text-decoration: none;
+	}
+a.bluelink:hover    {
+color: #003bcb;
+}
+a.contact {
+font:serif;
+font-size:12px;
+font-weight:bold;
+color:#E6A000;
+text-decoration:none;
+}
+a.contact:hover {
+color:#ffddaa;
+}
+.samepagelinks   {
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	font-weight: bold;
+	text-decoration:none;
+	font-size: 10pt;
+	color: #f6f6ff;
+	margin-top: 0px;
+}
+li {
+	font-family: Verdana, Georgia, "Times New Roman", Times, Serif;
+	font-size: 12px;
+	margin-top: 3px;
+}
+ul {
+	font-family: Verdana, Georgia, "Times New Roman", Times, Serif;
+	font-size: 12px;
+}
+
+
+.Caption {
+font-family: Verdana, Georgia, "Times New Roman", Times, Serif;
+font-weight: normal;
+font-size:  10pt;
+color:      #000000; }
+
+A.Controls:link    { color:#666666;
+                     text-decoration:none;
+                     font-family: Arial;
+                     font-size:   14pt;
+                     font-weight: bold; }
+A.Controls:visited { color:#666666; text-decoration:none; 
+                     font-family: Arial;
+                     font-size:   14pt;
+                     font-weight: bold; }
+A.Controls:active  { color:#666666; text-decoration:none;
+                     font-family: Arial;
+                     font-size:   14pt;
+                     font-weight: bold; }
+A.Controls:hover   { color:#00FF00; text-decoration:none;
+                     font-family: Arial;
+                     font-size:   14pt;
+                     font-weight: bold; }
+.article{
+font-family:verdana, sans-serif;
+font-size:12px;
+line-height:16px;
+}
+img.imgover{
+	position:relative;top:-1px;
+}
+img.imgout{
+	position:relative;top:0px;left:0px;
+}
+.submenu{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:bolder;
+	color:black;
+}
+a.submenu{
+	color:black;
+	text-decoration:none;
+}
+a.submenu:hover{
+	color: #888;
+}
+#search_box{
+  background-image:url('pics/search.gif');
+  background-repeat:no-repeat;
+  border: none;
+  width: 166px;
+  height: 27px;
+}
+#search_form{
+  width:150px;
+  background: none;
+  border: 0;
+  padding: 0;
+  font-size: 11pt;
+  margin: 6px 0 0 6px;
+}
+span.search_term{
+  background: #fff87d;
+  color: maroon;
+}
+a:hover .search_term { color: #B84B1C; }
+dt.odd{
+background: #F3EDE9;
+padding: 5px;
+}
+dt.even{
+background: #FFFFFF;
+padding: 5px;
+}
+.flt{
+border:none;
+}
+.flt2{
+  border-style: none;
+  border-bottom: thin solid #ffffff;
+}
+
+#sidebar
+{
+	border-spacing: 0;
+	border: none;
+	margin-top: 15px;
+}
+
+#sidebar.ourmission
+{
+	margin-left: 10px;
+}
+
+#sidebar.ourbeliefs
+{
+	margin-left: 15px;
+}
+
+#sidebar.ourpeople
+{
+	margin-left: 10px;
+}
+
+.sidebar-nav ul
+{
+	list-style-type: none;
+	padding: 5px 0 5px 5px;
+	margin: -1px 0 10px -5px;
+	width: 176px;
+}
+
+/*.ourpeople, .ourbeliefs
+{
+	background-color: #8BBDE6;
+}
+
+.ourmission
+{
+	background-color: #C59129;
+}*/
+
+#access ul {
+	font-size: 13px;
+	list-style: none;
+	margin: 0;
+	padding-left: 0;
+}
+#access li {
+	float: left;
+	position: relative;
+	margin: 0;
+}

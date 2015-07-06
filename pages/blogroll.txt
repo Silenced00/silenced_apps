@@ -1,0 +1,26 @@
+<li class="menu-item"><a href="http://gavinru.tripod.com/index.htm">Ambassador Files</a></li>
+<li class="menu-item"><a href="http://ambassadorwatch.blogspot.com/">Ambassador Watch</a></li>
+<li class="menu-item"><a href="http://armstrongdelusion.com/">Armstrong Delusion</a></li>
+<li class="menu-item"><a href="http://www.allen-armstrong.org/">Armstrong Plagiarism Research</a></li>
+<li class="menu-item"><a href="http://armstrongism-ultimate-guide.blogspot.com/">Armstrongism – The Ultimate Guide</a></li>
+<li class="menu-item"><a href="http://asbereansdid.blogspot.com/">As Bereans Did</a></li>
+<li class="menu-item"><a href="http://armstrongismlibrary.blogspot.com/">Banned by HWA!</a></li>
+<li class="menu-item"><a href="http://www.batteredsheep.com/about.html">Battered Sheep</a></li>
+<li class="menu-item"><a href="http://benjamingrantmitchell.wordpress.com/">Benjamin Grant Mitchell</a></li>
+<li class="menu-item"><a href="http://deargodwhatnow.blogspot.com">Dear God, What Now?</a></li>
+<li class="menu-item"><a href="http://www.didacticministries.org/COGRM.html">Didactic Ministries</a></li>
+<li class="menu-item"><a href="http://xhwa.blogspot.com/">Escaping Armstrongism</a></li>
+<li class="menu-item"><a href="http://www.exitsupportnetwork.com/">Exit and Support Network</a></li>
+<li class="menu-item"><a href="http://www.church-of-god.info/">The Gun Lap!</a></li>
+<li class="menu-item"><a href="http://ronaldweinland.info/falseprophet">False Prophet Ronald Weinland</a></li>
+<li class="menu-item"><a href="http://ironwolf.dangerousgames.com/exwcg/" target="_blank">Former Members of WCG</a></li>
+<li class="menu-item"><a href="http://lifeafterwcg2.wordpress.com/">Life After the WCG</a></li>
+<li class="menu-item"><a href="http://livingarmstrongism.blogspot.com/">Living Armstrongism</a></li>
+<li class="menu-item"><a href="http://www.pcog.info/">Malachi's Message and That Prophet</a></li>
+<li class="menu-item"><a href="http://nolongerquivering.com">No Longer Quivering</a></li>
+<li class="menu-item"><a href="http://www.hwarmstrong.com/" target="_blank">The Painful Truth</a></li>
+<li class="menu-item"><a href="http://thetruedoctrineofchrist.blogspot.co.uk/" target="_blank">Refuting Armstrongism</a></li>
+<li class="menu-item"><a href="http://www.rickross.com/" target="_blank">Rick Ross</a></li>
+<li class="menu-item"><a href="http://tscult.com/" target="_blank">The Supreme Cult</a></li>
+<li class="menu-item"><a href="http://www.facebook.com/home.php?sk=group_2244088720">WCG Survivors (Facebook)</a></li>
+<li class="menu-item"><a href="http://weinlandwatch.wordpress.com/">Weinland Watch</a></li>

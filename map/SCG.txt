@@ -1,0 +1,2 @@
+x	y	Location	Cult	Image
+-92.279999	34.75	"Little Rock, AR 72260"	Sabbath	http://silenced.co/wp-content/uploads/2012/03/sidebar-1.jpg

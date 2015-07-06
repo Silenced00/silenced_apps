@@ -1,0 +1,34 @@
+.noprint {
+
+display: none;
+
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+
+p {
+	text-align: justify;
+	
+	font: normal 100%/120% "Times New Roman", Times, serif;
+}
+
+h1,h2,h3,h4 {
+
+	text-align: center;
+}
+
+
+.centered {
+	text-align:center;
+}
+
+.internal_bordernav {
+display: none;
+}
+.logotitle {
+	display: none;
+}

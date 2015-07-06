@@ -1,0 +1,4 @@
+X	Y	Location	Cult	Image
+-97.339996	35.52	"Edmond, OK 73083"	Philadelphia Church of God	http://silenced.co/wp-content/uploads/2012/03/pcg-150x150.png
+-97.457169	35.729752	Herbert W. Armstrong College	Philadelphia Church of God	http://silenced.co/wp-content/uploads/2012/03/pcg-150x150.png
+-97.416504	35.708565	Imperial Academu	Philadelphia Church of God	http://silenced.co/wp-content/uploads/2012/03/pcg-150x150.png

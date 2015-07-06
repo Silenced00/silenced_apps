@@ -1,0 +1,1939 @@
+<img class="alignleft" alt="" src="http://silenced.co/wp-content/uploads/2011/12/denison-library-150x150.jpg" width="150" height="150" /><strong><a href="http://silenced.co/library">Database</a> | <strong><a class="dynamicLoad" href="http://silenced.co/resources-2/">Web Resources</a></strong> | <strong><a class="dynamicLoad" href="http://silenced.co/hate-mail/">Hate Mail</a></strong></strong>
+
+We are making a concerted effort to keep track of any and all relevant documents, articles, letters and internal leaks related to the COG and it's history, both distant and recent, to better provide a resource for people looking to learn the truth about the damaging past of the COG. We also encourage people to step forward with any internal information and submit it us, completely anonymously and without fear of reprisal from the cult.
+
+<a href="http://silenced.co/subdo/">Submit sensitive documents here.</a>
+<div id="myDiv">
+<div class="filter-links hide"><a href="#letter" data-col="3" data-filter="AR ">Ambassador Report</a> | <a href="#book" data-col="3" data-filter="Book">Book</a> | <a href="#letter" data-col="3" data-filter="Letter">Letter</a> | <a href="#news" data-col="3" data-filter="News Article">News Article</a> | <a href="#leak" data-col="3" data-filter="Leak">Leak</a> | <a href="#tv" data-col="3" data-filter="News (TV)">News (TV)</a> | <a href="#paper" data-col="3" data-filter="Paper">Paper</a> | <a href="#legal" data-col="3" data-filter="Legal Document">Legal Document</a> | <a href="#story" data-col="3" data-filter="Member Story">Member Story</a> | <a href="#video" data-col="3" data-filter="Video">Video</a> | <a class="filter-link filter-clear" href="#clear">Show all</a></div>
+<div class="table-container">
+<table id="ambassador-report">
+<thead>
+<tr>
+<th>Year</th>
+<th>Title</th>
+<th>Subjects</th>
+<th>Designation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/ARintro.html" target="_blank">Ambassador Review Introductory Letter</a></td>
+<td valign="top">Secrecy, AICF, Corruption</td>
+<td valign="top">AR 0</td>
+</tr>
+<tr>
+<td valign="top">1975</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Gerringer.html" target="_blank">The Gerringer Letter</a></td>
+<td valign="top">Doctrine, HWA</td>
+<td valign="top">Gerringer</td>
+</tr>
+<tr>
+<td valign="top">1939</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Reorganize.html" target="_blank">The 1939 Article: "Did Christ Reorganize the Church?"</a></td>
+<td valign="top">HWA, Doctrine</td>
+<td valign="top">Reorganize</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR1intro.html" target="_blank"><em>Ambassador Review</em>, June '76</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Innocence.html" target="_blank">THE END OF INNOCENCE?</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Exodus.html" target="_blank">EXECUTIVE EXODUS</a></td>
+<td valign="top">Schism</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Prophecies.html" target="_blank">A TREASURY OF FAMOUS PROPHECIES</a></td>
+<td valign="top">HWA, Prophecy</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AICF.html" target="_blank">FROM THOSE WONDERFUL PEOPLE WHO BROUGHT YOU " 1972", We Present ... A.I.C.F.</a></td>
+<td valign="top">AICF</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Legend.html" target="_blank">HERBERT W. ARMSTRONG-A Legend In His Own Mind</a></td>
+<td valign="top">HWA</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Catholic.html" target="_blank">AMBASSADOR COLLEGE RESEAR CH "PROVES" THE CATHOLIC CHURCH IS GOD'S TRUE CHURCH!</a></td>
+<td valign="top">Doctrine</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Tithe.html" target="_blank">TITHE SPY</a></td>
+<td valign="top">Doctrine, Corruption, Tithing</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Executive.html" target="_blank">EXECUTIVE ACTION</a></td>
+<td valign="top">Secrecy, Censorship, Tithing</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Accreditation.html" target="_blank">ACCREDITATION OR BUST! (The Wooing of W.A.S.C.)</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Mail.html" target="_blank">MAIL CENSORSHIP SPAR KS STUDENT PROTEST</a></td>
+<td valign="top">Censorship, Ambassador</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Where.html" target="_blank">WHERE WOULD YOU GO?</a></td>
+<td valign="top"></td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Tithing.html" target="_blank">THE TITHING PAPERS</a></td>
+<td valign="top">Tithing</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/LettersAR1.html" target="_blank">LETTERS</a></td>
+<td valign="top"></td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Read.html" target="_blank">HAVE YOU READ... ?</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Whispers.html" target="_blank">AMBASSADOR WHISPERS</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Survive.html" target="_blank">WILL AMBASSADOR COLLEGE SURVIVE THE '70's?</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/SayThat.html" target="_blank">DID I SAY THAT?</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Profile.html" target="_blank">PROFILE OF A CULT</a></td>
+<td valign="top">Corruption, Cults</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Articles.html" target="_blank">AR TICLES OF INCORPORATION</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Unholy.html" target="_blank">THE CREED OF THE UNHOLY TRINITY</a></td>
+<td valign="top">Doctrine</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Late.html" target="_blank">LATE NEWS</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Responsible.html" target="_blank">RESPONSIBLE GIVING: Which Agencies Should You Support?</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Talmud.html" target="_blank">THE W.C.G. TALMUD</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Ripoff.html" target="_blank">AR MSTRONGISM-RELIGION OR RIP-OFF? (Advertisement)</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1976</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/ARevback.html" target="_blank">BACK COVER</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 1</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR2intro.html" target="_blank"><em>Ambassador Report,</em> 1977 (AR 2)</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR2About.html" target="_blank">About This Issue</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR2mail.html" target="_blank">Letters</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR2mail.html" target="_blank">Letters</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR2Exodus.html" target="_blank">Executive Exodus</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Missing.html" target="_blank">The Missing Dimension in Ambassador College-Accreditation</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Booklets.html" target="_blank">The Booklets Nobody Wants to Talk About</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Churches.html" target="_blank">What the Armstrongs Say About Other Churches</a></td>
+<td valign="top">Cults</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Twisted.html" target="_blank">Twisted Teachings on Tithing</a></td>
+<td valign="top">Tithing</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Separation.html" target="_blank">Separation of Church and State? $2.5 Million Federal Handout to Armstrong Cult</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Snooper.html" target="_blank">Computer Snooper</a></td>
+<td valign="top">Corruption</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Financing.html" target="_blank">Financing the Church - An Insider's View</a></td>
+<td valign="top">Corruption</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Intimidation.html" target="_blank">Intimidation at A.C.-A Case History</a></td>
+<td valign="top">Corruption</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Excerpts.html" target="_blank">Excerpts From the Tithing Papers</a></td>
+<td valign="top">Tithing</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://silenced.co/2011/11/the-manpower-papers/" target="_new">The Manpower Papers</a></td>
+<td valign="top">Ambassador, Corruption</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Move.html" target="_blank">Herbert Armstrong - Man on the Move</a></td>
+<td valign="top">HWA</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Gotoh.html" target="_blank">The Incredible Story of Mr. Mission Impossible-Ambassador College's Illustrious "Professor" Gotoh</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Southern.html" target="_blank">Southern Exposure</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/SonOf.html" target="_blank">Garner Ted Armstrong - Son of the Legend</a></td>
+<td valign="top">GTA</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/InBed.html" target="_blank">In Bed With Garner Ted</a></td>
+<td valign="top">GTA</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Disproves.html" target="_blank">Herbert Armstrong "Disproves" the Bible</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/PaysOff.html" target="_blank">Tithing Pays Off!</a></td>
+<td valign="top">Tithing</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Profligate.html" target="_blank">The Profligate Son</a></td>
+<td valign="top">GTA</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Dig.html" target="_blank">Ambassador College's Participation in Jerusalem Dig Ends</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Homebreak.html" target="_blank">Home-breaking - Armstrong Style</a></td>
+<td valign="top">GTA, HWA</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Prophecy.html" target="_blank">The Prophecy Game</a></td>
+<td valign="top">Prophecy</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Fischer.html" target="_blank">Bobby Fischer Speaks Out!</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Fleecing.html" target="_blank">Fleecing the Flock</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Spying.html" target="_blank">Spying in the Name of God</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Roots.html" target="_blank">Herbert Armstrong's Religious Roots</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Edifice.html" target="_blank">The Edifice Complex</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Moloch.html" target="_blank">Modern Moloch - Human Sacrifice in the Armstrong Church</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Ten.html" target="_blank">The Ten Commandments Revised at Ambassador College</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 2</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR3intro.html" target="_blank"><em>Ambassador Report</em>, March '78</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 3</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Press.html" target="_blank">Press Reactions</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 3</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Reactions.html" target="_blank">Ambassador Reactions</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 3</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Cornwall.html" target="_blank">Cornwall's Cynical Comfort</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 3</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Power.html" target="_blank">The Power Struggle</a></td>
+<td valign="top">Corruption, Secrecy</td>
+<td valign="top">AR 3</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Picketer.html" target="_blank">Ambassador Picketer Arrested</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 3</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Pawn.html" target="_blank">Chess Champion Becomes Pawn</a></td>
+<td valign="top">Fischer, WCG</td>
+<td valign="top">AR 3</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Barrel.html" target="_blank">Bottom of the Barrel</a></td>
+<td valign="top"></td>
+<td valign="top">AR 3</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/OrElse.html" target="_blank">Tithe or Else!</a></td>
+<td valign="top">Tithing</td>
+<td valign="top">AR 3</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Myrmidons.html" target="_blank">Myrmidons Meet</a></td>
+<td valign="top"></td>
+<td valign="top">AR 3</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Manure.html" target="_blank">College Administrator to Shovel Manure?</a></td>
+<td valign="top">Ambassadpr</td>
+<td valign="top">AR 3</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Update.html" target="_blank">Vista del Arroyo Update</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 3</td>
+</tr>
+<tr>
+<td valign="top"></td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Grassroots.html" target="_blank">Grassroots Efforts Effective</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 3</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/Next.html" target="_blank">What's Next?</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 3</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR4.html" target="_blank">AMBASSADOR REPORT, June '78</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 4</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR6.html" target="_blank">AMBASSADOR REPORT, Sept. '78</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 6</td>
+</tr>
+<tr>
+<td valign="top">1979</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR7.html" target="_blank">AMBASSADOR REPORT, Jan. '79</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 7</td>
+</tr>
+<tr>
+<td valign="top">1979</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR8.html" target="_blank">AMBASSADOR REPORT, March '79</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 8</td>
+</tr>
+<tr>
+<td valign="top">1979</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR9.html" target="_blank">AMBASSADOR REPORT, June '79</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 9</td>
+</tr>
+<tr>
+<td valign="top">1979</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR10.html" target="_blank">AMBASSADOR REPORT, Nov. '79</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 10</td>
+</tr>
+<tr>
+<td valign="top">1980</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR11.html" target="_blank">AMBASSADOR REPORT, March '80</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 11</td>
+</tr>
+<tr>
+<td valign="top">1980</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR12.html" target="_blank">AMBASSADOR REPORT, June '80</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 12</td>
+</tr>
+<tr>
+<td valign="top">1980</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR13.html" target="_blank">AMBASSADOR REPORT, Sept. '80</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 13</td>
+</tr>
+<tr>
+<td valign="top">1980</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR14.html" target="_blank">AMBASSADOR REPORT, Dec. '80</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 14</td>
+</tr>
+<tr>
+<td valign="top">1981</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR15.html" target="_blank">AMBASSADOR REPORT, March '81</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 15</td>
+</tr>
+<tr>
+<td valign="top">1981</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR16.html" target="_blank">AMBASSADOR REPORT, July '81</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 16</td>
+</tr>
+<tr>
+<td valign="top">1981</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR17.html" target="_blank">AMBASSADOR REPORT, Oct.'81</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 17</td>
+</tr>
+<tr>
+<td valign="top">1981</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR18.html" target="_blank">AMBASSADOR REPORT, Dec. '81</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 18</td>
+</tr>
+<tr>
+<td valign="top">1982</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR19.html" target="_blank">AMBASSADOR REPORT, March '82</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 19</td>
+</tr>
+<tr>
+<td valign="top">1982</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR20.html" target="_blank">AMBASSADOR REPORT, June '82</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 20</td>
+</tr>
+<tr>
+<td valign="top">1982</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR21.html" target="_blank">AMBASSADOR REPORT, Sept. '82</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 21</td>
+</tr>
+<tr>
+<td valign="top">1982</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR22.html" target="_blank">AMBASSADOR REPORT, Dec. '82</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 22</td>
+</tr>
+<tr>
+<td valign="top">1983</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR23.html" target="_blank">AMBASSADOR REPORT, Jan. '83</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 23</td>
+</tr>
+<tr>
+<td valign="top">1983</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR24.html" target="_blank">AMBASSADOR REPORT, April '83</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 24</td>
+</tr>
+<tr>
+<td valign="top">1983</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR25.html" target="_blank">AMBASSADOR REPORT, July '83</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 25</td>
+</tr>
+<tr>
+<td valign="top">1983</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR26.html" target="_blank">AMBASSADOR REPORT, Oct. '83</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 26</td>
+</tr>
+<tr>
+<td valign="top">1984</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR27.html" target="_blank">AMBASSADOR REPORT, April '84</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 27</td>
+</tr>
+<tr>
+<td valign="top">1984</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR28.html" target="_blank">AMBASSADOR REPORT, July '84</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 28</td>
+</tr>
+<tr>
+<td valign="top">1984</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR29.html" target="_blank">AMBASSADOR REPORT, Oct. '84</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 29</td>
+</tr>
+<tr>
+<td valign="top">1984</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR30.html" target="_blank">AMBASSADOR REPORT, Dec. '84</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 30</td>
+</tr>
+<tr>
+<td valign="top">1985</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR31.html" target="_blank">AMBASSADOR REPORT, March '85</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 31</td>
+</tr>
+<tr>
+<td valign="top">1985</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR32.html" target="_blank">AMBASSADOR REPORT, June '85</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 32</td>
+</tr>
+<tr>
+<td valign="top">1985</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR33.html" target="_blank">AMBASSADOR REPORT, Oct. '85</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 33</td>
+</tr>
+<tr>
+<td valign="top">1986</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR34.html" target="_blank">AMBASSADOR REPORT, Jan. '86</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 34</td>
+</tr>
+<tr>
+<td valign="top">1986</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR35.html" target="_blank">AMBASSADOR REPORT, April '86</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 35</td>
+</tr>
+<tr>
+<td valign="top">1986</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR36.html" target="_blank">AMBASSADOR REPORT, Aug. '86</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 36</td>
+</tr>
+<tr>
+<td valign="top">1987</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR37.html" target="_blank">AMBASSADOR REPORT, Jan. '87</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 37</td>
+</tr>
+<tr>
+<td valign="top">1987</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR38.html" target="_blank">AMBASSADOR REPORT, April '87</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 28</td>
+</tr>
+<tr>
+<td valign="top">1987</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR39.html" target="_blank">AMBASSADOR REPORT, Sept. '87</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 39</td>
+</tr>
+<tr>
+<td valign="top">1988</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR40.html" target="_blank">AMBASSADOR REPORT, March '88</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 40</td>
+</tr>
+<tr>
+<td valign="top">1989</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR41.html" target="_blank">AMBASSADOR REPORT, March '89</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 41</td>
+</tr>
+<tr>
+<td valign="top">1989</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR42.html" target="_blank">AMBASSADOR REPORT, Sept. '89</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 42</td>
+</tr>
+<tr>
+<td valign="top">1989</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR43.html" target="_blank">AMBASSADOR REPORT, Dec. '89</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 43</td>
+</tr>
+<tr>
+<td valign="top">1990</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR44.html" target="_blank">AMBASSADOR REPORT, June '90</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 44</td>
+</tr>
+<tr>
+<td valign="top">1990</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR45.html" target="_blank">AMBASSADOR REPORT, Sept. '90</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 45</td>
+</tr>
+<tr>
+<td valign="top">1991</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR46.html" target="_blank">AMBASSADOR REPORT, Jan. '91</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 46</td>
+</tr>
+<tr>
+<td valign="top">1991</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR47.html" target="_blank">AMBASSADOR REPORT, March '91</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 47</td>
+</tr>
+<tr>
+<td valign="top">1991</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR48.html" target="_blank">AMBASSADOR REPORT, May '91</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 48</td>
+</tr>
+<tr>
+<td valign="top">1991</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR49.html" target="_blank">AMBASSADOR REPORT, Nov. '91</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 49</td>
+</tr>
+<tr>
+<td valign="top">1992</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR50.html" target="_blank">AMBASSADOR REPORT, June '92</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 50</td>
+</tr>
+<tr>
+<td valign="top">1992</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR51.html" target="_blank">AMBASSADOR REPORT, Oct. '92</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 51</td>
+</tr>
+<tr>
+<td valign="top">1993</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR52.html" target="_blank">AMBASSADOR REPORT, June '93</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 52</td>
+</tr>
+<tr>
+<td valign="top">1993</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR53.html" target="_blank">AMBASSADOR REPORT, Sept. '93</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 53</td>
+</tr>
+<tr>
+<td valign="top">1994</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR54.html" target="_blank">AMBASSADOR REPORT, Feb. '94</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 54</td>
+</tr>
+<tr>
+<td valign="top">1994</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR55.html" target="_blank">AMBASSADOR REPORT, May '94</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 55</td>
+</tr>
+<tr>
+<td valign="top">1994</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR56.html" target="_blank">AMBASSADOR REPORT, Oct. '94</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 56</td>
+</tr>
+<tr>
+<td valign="top">1995</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR57.html" target="_blank">AMBASSADOR REPORT, Jan. '95</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 57</td>
+</tr>
+<tr>
+<td valign="top">1995</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR58.html" target="_blank">AMBASSADOR REPORT, April '95</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 58</td>
+</tr>
+<tr>
+<td valign="top">1995</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR59.html" target="_blank">AMBASSADOR REPORT, June '95</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 59</td>
+</tr>
+<tr>
+<td valign="top">1995</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR60.html" target="_blank">AMBASSADOR REPORT, Oct. '95</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 60</td>
+</tr>
+<tr>
+<td valign="top">1996</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR61.html" target="_blank">AMBASSADOR REPORT, March '96</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 61</td>
+</tr>
+<tr>
+<td valign="top">1996</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR62.html" target="_blank">AMBASSADOR REPORT, July '96</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 62</td>
+</tr>
+<tr>
+<td valign="top">1996</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR63.html" target="_blank">AMBASSADOR REPORT, Sept. '96</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 63</td>
+</tr>
+<tr>
+<td valign="top">1997</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR64.html" target="_blank">AMBASSADOR REPORT, February '97</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 64</td>
+</tr>
+<tr>
+<td valign="top">1997</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR65.html" target="_blank">AMBASSADOR REPORT, May '97</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 65</td>
+</tr>
+<tr>
+<td valign="top">1997</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR66.html" target="_blank">AMBASSADOR REPORT, Sept. '97</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 66</td>
+</tr>
+<tr>
+<td valign="top">1997</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR67.html" target="_blank">AMBASSADOR REPORT, Dec. '97</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 67</td>
+</tr>
+<tr>
+<td valign="top">1998</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR68.html" target="_blank">AMBASSADOR REPORT, April '98</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 68</td>
+</tr>
+<tr>
+<td valign="top">1998</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR69.html" target="_blank">AMBASSADOR REPORT, July '98</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 69</td>
+</tr>
+<tr>
+<td valign="top">1998</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR70.html" target="_blank">AMBASSADOR REPORT, Oct. '98</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 70</td>
+</tr>
+<tr>
+<td valign="top">1999</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/ARletter.html" target="_blank">AMBASSADOR REPORT Jan. 21, 1999</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 70</td>
+</tr>
+<tr>
+<td valign="top">1999</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR71.html" target="_blank">AMBASSADOR REPORT, Feb. '99</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 71</td>
+</tr>
+<tr>
+<td valign="top">1999</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/AR72.html" target="_blank">AMBASSADOR REPORT, April '99</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 72</td>
+</tr>
+<tr>
+<td valign="top">1999</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/ar/ARletter2.html" target="_blank">AMBASSADOR REPORT, Oct. 7, 1999</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">AR 73</td>
+</tr>
+<tr>
+<td valign="top">1969</td>
+<td valign="top"><a href="http://silenced.co/2011/09/rogues-gallery-the-1969-envoy/" target="_new">1969 <em>Envoy</em></a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">1956</td>
+<td valign="top"><a href="http://silenced.co/2011/07/1975-illustrated/" target="_new">1975 Illustrated</a></td>
+<td valign="top">Prophecy</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">1969</td>
+<td valign="top"><a href="http://silenced.co/2011/08/herbert-w-armstrongs-1975-in-prophecy/" target="_new"><em>1975 in Prophecy!</em></a></td>
+<td valign="top">Prophecy</td>
+<td valign="top">Video</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://silenced.co/2011/07/interviews-with-garner-ted-armstrong/" target="_new">Interviews with Garner Ted Armstrong</a></td>
+<td valign="top">GTA</td>
+<td valign="top"></td>
+</tr>
+<tr>
+<td valign="top">1975</td>
+<td valign="top"><a href="http://www.coghomeschool.org/site/cog_archives/good_news/COG_Library_Good_News.htm" target="_new target=">WCG Literature Archive</a></td>
+<td valign="top">HWA</td>
+<td valign="top">Literature</td>
+</tr>
+<tr>
+<td valign="top">1977</td>
+<td valign="top"><a title="Supreme Court Hears Sabbath Case (1977)" href="http://silenced.co/2011/09/supreme-court-hears-sabbath-case-1977/" target="_new">Supreme Court Hears Sabbath Case</a></td>
+<td valign="top">WCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">1979</td>
+<td valign="top"><a title="Apocalypse Now? (1979)" href="http://silenced.co/2011/09/apocalypse-now-1979/" target="_new">Apocalypse Now?</a></td>
+<td valign="top">WCG, Prophecy</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">1980</td>
+<td valign="top"><a title="The Armstrongs Keep Battling (1980)" href="http://silenced.co/2011/09/the-armstrongs-keep-battling-1980/" target="_new">The Armstrongs Keep Battling</a></td>
+<td valign="top">WCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">1980</td>
+<td valign="top"><a title="Church Loses Please to Bar Coast Inquiry (1980)" href="http://silenced.co/2011/09/church-loses-please-to-bar-coast-inquiry-1980/" target="_new">Church Loses Plea to Bar Coast Inquiry</a></td>
+<td valign="top">WCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">1982</td>
+<td valign="top"><a href="http://silenced.co/2011/06/armstrongs-fake-meetings-with-world-leaders/" target="_new">Kinky Churchman Fools Charles and His Cheque Bought Meeting With Maggie</a></td>
+<td valign="top">HWA, Corruption</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">1992</td>
+<td valign="top"><a title="Hulme's Defense Against Fischer Controversies (1992)" href="http://silenced.co/2011/09/hulmes-defense-against-fischer-controversies-1992/" target="_new">Hulme's Defense Against Fischer Controversies</a></td>
+<td valign="top">WCG, Fischer</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">1992</td>
+<td valign="top"><a title="Chess genius Bobby Fischer beat the world - and lost his mind (1992)" href="http://silenced.co/2011/09/chess-genius-bobby-fischer-beat-the-world-and-lost-his-mind-1992/" target="_new">Chess genius Bobby Fischer beat the world - and lost his mind</a></td>
+<td valign="top">WCG, Fischer</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">1994</td>
+<td valign="top"><a title="Clinton administration withdraws from church case (1994)" href="http://silenced.co/2011/09/clinton-administration-withdraws-from-church-case-1994/" target="_new">Clinton administration withdraws from church case</a></td>
+<td valign="top">WCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">1994</td>
+<td valign="top"><a title="Worldwide Church of God gathers (1994)" href="http://silenced.co/2011/09/worldwide-church-of-god-gathers-1994/" target="_new">Worldwide Church of God gathers</a></td>
+<td valign="top">WCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">1996</td>
+<td valign="top"><a title="Churches say the Sabbath's on Saturday not Sunday (1996)" href="http://silenced.co/2011/09/churches-say-the-sabbaths-on-saturday-not-sunday-1996/" target="_new">Churches say the Sabbath's on Saturday not Sunday</a></td>
+<td valign="top">WCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">1997</td>
+<td valign="top"><a href="http://silenced.co/2011/06/honey-i-shrunk-the-church-1997/" target="_new">Honey, I shrunk the church</a></td>
+<td valign="top">WCG, Schism</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">1997</td>
+<td valign="top"><a title="25 Years Ago (1997)" href="http://silenced.co/2011/09/25-years-ago-1997/" target="_new">25 Years Ago</a></td>
+<td valign="top">WCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2003</td>
+<td valign="top"><a href="http://silenced.co/2011/06/garner-ted-armstrong-73-tv-evangelist-formed-own-church-after-break-with-father-2003/" target="_new">Garner Ted Armstrong, 73; TV Evangelist Formed Own Church After Break With Father</a></td>
+<td valign="top">GTA</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2003</td>
+<td valign="top"><a href="http://silenced.co/2011/06/campus-mansions-put-on-market-2003/" target="_new">Campus mansions put on market</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2003</td>
+<td valign="top"><a href="http://silenced.co/2011/06/church-sells-armstrongs-works-2003/" target="_new">Church Sells Armstrong's Works</a></td>
+<td valign="top">WCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2003</td>
+<td valign="top"><a href="http://silenced.co/2011/06/church-struggles-with-changes-in-its-mission-financial-woes-2003/" target="_new">Church struggles with changes in its mission, financial woes</a></td>
+<td valign="top">WCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2003</td>
+<td valign="top"><a href="http://silenced.co/2011/06/worldwide-church-of-god-seeks-a-new-start-in-the-face-of-fresh-opposition-2003/" target="_new">Worldwide Church of God seeks a new start in the face of fresh opposition</a></td>
+<td valign="top">WCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2004</td>
+<td valign="top"><a href="http://silenced.co/2011/06/auditorium-preserved-2004/" target="_new">Auditorium Preserved</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2004</td>
+<td valign="top"><a href="http://silenced.co/2011/06/once-in-cult-student-now-sees-importance-of-knowing-theology/" target="_new">Once in cult, student now sees importance of knowing theology</a></td>
+<td valign="top">WCG, Cults</td>
+<td valign="top">Member Story</td>
+</tr>
+<tr>
+<td valign="top">2005</td>
+<td valign="top"><a title="Suicide gunman kills 7 at service (2005)" href="http://silenced.co/2011/09/suicide-gunman-kills-7-at-service-2005/" target="_new">Suicide gunman kills 7 at service</a></td>
+<td valign="top">LCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2005</td>
+<td valign="top"><a title="Gunman kills 7 in church group near Milwaukee (2005)" href="http://silenced.co/2011/09/gunman-kills-7-in-church-group-near-milwaukee-2005/" target="_new">Gunman kills 7 in church group near Milwaukee</a></td>
+<td valign="top">LCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2005</td>
+<td valign="top"><a title="After Shootings, Looking for Answers (2005)" href="http://silenced.co/2011/09/after-shootings-looking-for-answers-2005/" target="_new">After Shootings, Looking for Answers</a></td>
+<td valign="top">LCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2005</td>
+<td valign="top"><a title="Rampage Puts Spotlight On a Church Community (2005)" href="http://silenced.co/2011/09/rampage-puts-spotlight-on-a-church-community/" target="_new">Rampage Puts Spotlight On a Church Community</a></td>
+<td valign="top">LCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2005</td>
+<td valign="top"><a title="Police Search for Motive in Wisconsin Slayings (2005)" href="http://silenced.co/2011/09/police-search-for-motive-in-wisconsin-slayings-2005/" target="_new">Police Search for Motive in Wisconsin Slayings</a></td>
+<td valign="top">LCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2005</td>
+<td valign="top"><a title="Police Focus on Religion In Milwaukee Shootings (2005)" href="http://silenced.co/2011/09/police-focus-on-religion-in-milwaukee-shootings-2005/" target="_new">Police Focus on Religion In Milwaukee Shootings</a></td>
+<td valign="top">LCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2005</td>
+<td valign="top"><a href="http://silenced.co/2011/06/church-split-may-have-torn-ratzmann-2005/" target="_new">Church split may have torn Ratzmann</a></td>
+<td valign="top">LCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2005</td>
+<td valign="top"><a href="http://silenced.co/2011/06/worldwide-church-of-god-leaving-pasadena-2004/" target="_new">Worldwide Church of God Leaving Pasadena</a></td>
+<td valign="top">WCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2007</td>
+<td valign="top"><a title="Some Christians Shun Christmas and Its Trappings (2007)" href="http://silenced.co/2011/09/some-christians-shun-christmas-and-its-trappings-2007/" target="_new">Some Christians Shun Christmas and Its Trappings</a></td>
+<td valign="top">Doctrine</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2008</td>
+<td valign="top"><a href="http://silenced.co/2011/06/ambassador-campus-development-in-pasadena-foreclosed-2008/" target="_new">Ambassador campus development in Pasadena foreclosed</a></td>
+<td valign="top">Ambassador</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2008</td>
+<td valign="top"><a href="http://silenced.co/2011/08/danger-the-house-of-yahweh/" target="_new">House Of Yahweh: A Darker Sect Than FLDS</a></td>
+<td valign="top">HOY, Corruption, Cults</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2008</td>
+<td valign="top"><a href="http://silenced.co/2011/08/house-of-yahwehs-hawkins-sentenced-to-30-years-for-sexual-assault-2008/" target="_new">House of Yahweh's Hawkins sentenced to 30 years for sexual assault</a></td>
+<td valign="top">HOY, Corruption, Cults</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://oaklandnorth.net/2011/02/01/glynn-washington-takes-his-oakland-based-radio-show-to-the-top/" target="_new">Glynn Washington takes his Oakland-based radio show to the top</a></td>
+<td valign="top">WCG</td>
+<td valign="top">Member Story</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a title="Solving Bobby Fischer (2011)" href="http://silenced.co/2011/09/solving-bobby-fischer-2011/" target="_new">Solving Bobby Fischer</a></td>
+<td valign="top">Fischer, WCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://silenced.co/2011/11/union-minister-is-indicted-on-income-tax-evasion-charges-2011/" target="_new">Union minister is indicted on income tax-evasion charges</a></td>
+<td valign="top">COG-PKG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://silenced.co/2011/11/local-minister-indicted-for-tax-evasion-charges/" target="_new">Local minister indicted for tax evasion charges</a></td>
+<td valign="top">COG-PKG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://silenced.co/2011/11/minister-indicted-for-tax-evasion-2011/" target="_new">Minister indicted for tax evasion</a></td>
+<td valign="top">COG-PKG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2012</td>
+<td valign="top"><a title="Wadsworth church continues Bible prophecy ministry (2012)" href="http://silenced.co/2012/05/wadsworth-church-continues-bible-prophecy-ministry-2012/" target="_new">Wadsworth church continues Bible prophecy ministry</a></td>
+<td valign="top">RCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">1986</td>
+<td valign="top"><a title="Armstrong, 93, Founder of the Worldwide Church, Dies (1986)" href="http://silenced.co/2011/09/armstrong-93-founder-of-the-worldwide-church-dies/" target="_new">Armstrong, 93, Founder of the Worldwide Church, Dies</a></td>
+<td valign="top">WCG, HWA</td>
+<td valign="top">Obituary</td>
+</tr>
+<tr>
+<td valign="top">2003</td>
+<td valign="top"><a href="http://silenced.co/2011/06/garner-ted-armstrong-73-tv-evangelist-formed-own-church-after-break-with-father-2003/" target="_new">Garner Ted Armstrong, 73; TV Evangelist Formed Own Church After Break With Father</a></td>
+<td valign="top">WCG, GTA</td>
+<td valign="top">Obituary</td>
+</tr>
+<tr>
+<td valign="top">2002</td>
+<td valign="top"><a href="http://silenced.co/2011/06/stanley-rader-71-advisor-in-worldwide-church-of-god-2002/" target="_new">Stanley Rader, 71; Advisor in Worldwide Church of God</a></td>
+<td valign="top">WCG</td>
+<td valign="top">Obituary</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://silenced.co/2011/06/wcg-the-60-minutes-interview/" target="_new">60 Minutes Stanley Radar Interview</a></td>
+<td valign="top">Corruption, WCG</td>
+<td valign="top">News (TV)</td>
+</tr>
+<tr>
+<td valign="top">2008</td>
+<td valign="top"><a href="http://silenced.co/2011/12/bill-mahers-religulous-on-science-vs-the-bible/" target="_new">Bill Maher on Christians</a></td>
+<td valign="top">Cults</td>
+<td valign="top">Video</td>
+</tr>
+<tr>
+<td valign="top">2006</td>
+<td valign="top"><a title="Cults - Dangerous Devotion (Decoding the Past)" href="http://silenced.co/2012/04/cults-dangerous-devotion-decoding-the-past/" target="_new">Cults - Dangerous Devotion (Decoding the Past)</a></td>
+<td valign="top">Cults</td>
+<td valign="top">Video</td>
+</tr>
+<tr>
+<td valign="top">1985</td>
+<td valign="top"><a href="http://silenced.co/2012/05/christian-cults-with-dr-walter-martin/" target="_new">Christian Cults with Dr. Walter Martin</a></td>
+<td valign="top">Cults</td>
+<td valign="top">News (TV)</td>
+</tr>
+<tr>
+<td valign="top">2008</td>
+<td valign="top"><a href="http://silenced.co/2011/11/a-calm-rational-discussion-on-evolution/" target="_new">Father George Coyne and Professor Richard Dawkins</a></td>
+<td valign="top">Science, Doctrine</td>
+<td valign="top">Video</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://silenced.co/2011/11/a-cult-in-decline-%e2%80%93-armstrongism-in-the-21st-century-2/" target="_new">A Cult In Decline - Armstrongism In The 21st Century</a></td>
+<td valign="top">Cults, WCG, HWA</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://silenced.co/2011/07/armstrongism-whats-behind-this-cult/" target="_new">Armstrongism - What's Behind This Cult?</a></td>
+<td valign="top">Cults, HWA, WCG</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">2009</td>
+<td valign="top"><a href="http://silenced.co/2011/07/five-keys-to-surviving-the-cult-experience/" target="_new">Five Keys to Surviving the Cult Experience</a></td>
+<td valign="top">Cults</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">2012</td>
+<td valign="top"><a href="http://silenced.co/2012/05/herbert-w-armstrong-instructs-on-how-to-start-a-cult target=">Herbert W. Armstrong Instructs on “How To Start A Cult”</a></td>
+<td valign="top">HWA, Cults</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">2012</td>
+<td valign="top"><a href="http://silenced.co/2011/07/hwa-and-interracial-marriage/" target="_new">HWA and Interracial Marriage</a></td>
+<td valign="top">HWA</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">2012</td>
+<td valign="top"><a href="http://www.truthorfables.com/LYING%20FOR%20GOD.pdf target=">Lying for God: What the Adventists Knew and When They Knew It</a></td>
+<td valign="top">Cults, Corruption</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">2010</td>
+<td valign="top"><a href="http://silenced.co/2011/08/pay-and-pray/" target="_new">Pay and Pray</a></td>
+<td valign="top">Tithing, Corruption</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">2010</td>
+<td valign="top"><a href="http://silenced.co/2011/08/people-matter-organizations-are-at-best-secondary/" target="_new">People matter, organizations are at best secondary</a></td>
+<td valign="top">WCG, Schism</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">2006</td>
+<td valign="top"><a href="http://silenced.co/2011/08/the-cult-of-the-house-of-yahweh/" target="_new">The Cult of the House of Yaweh</a></td>
+<td valign="top">HOY, Hawkins</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">2005</td>
+<td valign="top"><a href="http://silenced.co/2011/08/questions-your-pastor-will-hate/" target="_new">Questions Your Pastor Will Hate</a></td>
+<td valign="top">Doctrine</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">1997</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/video/gta/gta-sexual-assault.html" target="_blank">GTA Sexual Assault Tape</a></td>
+<td valign="top">Corruption</td>
+<td valign="top">News (TV)</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://silenced.co/wp-content/uploads/2012/05/RCG-remote-service-instruction-book.pdf target=">RCG remote services handbook</a></td>
+<td valign="top">RCG</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://silenced.co/wp-content/uploads/2012/03/Dear-prospective-member.pdf target=">Dear Prospective Member</a></td>
+<td valign="top">RCG</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://silenced.co/wp-content/uploads/2012/03/Newly-Baptized-Member.pdf target=">A Letter to a Newly Baptized Member</a></td>
+<td valign="top">RCG</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://silenced.co/wp-content/uploads/2012/03/BC-11-27-11.pdf target=">Dear Brethren and Co-Workers: September 27, 2011</a></td>
+<td valign="top">RCG</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://silenced.co/wp-content/uploads/2012/03/BC-11-04-11.pdf target=">Dear Brethren and Co-Workers: November 4, 2011</a></td>
+<td valign="top">RCG</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2012</td>
+<td valign="top"><a href="http://silenced.co/wp-content/uploads/2012/03/BC-01-04-12.pdf target=">Dear Brethren and Co-Workers: January 4, 2012</a></td>
+<td valign="top">RCG</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2012</td>
+<td valign="top"><a href="http://silenced.co/wp-content/uploads/2012/03/BC-02-10-12.pdf target=">Dear Brethren and Co-Workers: February 10, 2012</a></td>
+<td valign="top">RCG</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2012</td>
+<td valign="top"><a href="http://silenced.co/wp-content/uploads/2012/03/BC-03-07-12.pdf target=">Dear Brethren and Co-Workers: March 3, 2012</a></td>
+<td valign="top">RCG</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2012</td>
+<td valign="top"><a href="http://silenced.co/wp-content/uploads/2012/04/BC-04-03-12.pdf target=">Dear Brethren and Co-Workers: April 3, 2012</a></td>
+<td valign="top">RCG</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2012</td>
+<td valign="top"><a href="http://silenced.co/wp-content/uploads/2012/05/BC-05-03-12.pdf target=">Dear Brethren and Co-Workers: May 3, 2012</a></td>
+<td valign="top">RCG</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2012</td>
+<td valign="top"><a href="http://silenced.co/wp-content/uploads/2012/07/BC-06-12-12.pdf target=">Dear Brethren and Co-Workers: June 12, 2012</a></td>
+<td valign="top">RCG</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://www.freewebs.com/ucgcurrentcrisis/apps/blog/entries/search?utf8=%E2%9C%93&amp;query=cattle target=">Cattlegate Letters</a></td>
+<td valign="top">UCG, Schism</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2010</td>
+<td valign="top"><a href="http://www.freewebs.com/ucgcurrentcrisis/iaoupdates.htm target=">IAO Updates</a></td>
+<td valign="top">UCG, Schism</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2010</td>
+<td valign="top"><a href="http://www.freewebs.com/ucgcurrentcrisis/latinamericaninfo.htm target=">Latin American Info</a></td>
+<td valign="top">UCG, Schism</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2010</td>
+<td valign="top"><a href="http://www.freewebs.com/ucgcurrentcrisis/lettersfrommembers.htm target=">Letters from Members</a></td>
+<td valign="top">UCG, Schism</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2010</td>
+<td valign="top"><a href="http://www.freewebs.com/ucgcurrentcrisis/resignationletters.htm target=">Resignation Letters</a></td>
+<td valign="top">UCG, Schism</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2010</td>
+<td valign="top"><a href="http://www.freewebs.com/ucgcurrentcrisis/whydidcogwaseparate.htm target=">Why did COGWA separate from UCG?</a></td>
+<td valign="top">COG-PKG, Corruption</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://ronaldweinland.info/falseprophet/2012/10/10/the-governments-case-against-ronald-e-weinland/" target="_new target=">Opening Statement by Robert McBride, Assistant US Attorney</a></td>
+<td valign="top">COG-PKG, Corruption</td>
+<td valign="top">Legal Document</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://ronaldweinland.info/falseprophet/2011/11/17/a-true-bill/" target="_new">Ronald Weinland Federal Indictment</a></td>
+<td valign="top">COG-PKG, Corruption</td>
+<td valign="top">Legal Document</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://silenced.co/2011/11/weinland-indicted-on-tax-evasion/" target="_new">Ronald Weinland Federal Press Release</a></td>
+<td valign="top">COG-PKG, Corruption</td>
+<td valign="top">Legal Document</td>
+</tr>
+<tr>
+<td valign="top">2004</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/All2_True/Stalker_Court_Case.html" target="_blank">UCG Stalker Court Case Transcript</a></td>
+<td valign="top">UCG</td>
+<td valign="top">Legal Document</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://silenced.co/2011/11/pcg-out-7-million/" target="_new">Gerald Flurry lambasting PCG members for not donating more money</a></td>
+<td valign="top">PCG</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2002</td>
+<td valign="top"><a href="http://silenced.co/2011/06/apologetics-index-wcg/" target="_new">Apologetics Index: WCG</a></td>
+<td valign="top"></td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">2008</td>
+<td valign="top"><a href="http://silenced.co/2011/07/bobby-fischer-and-the-cog/" target="_new">Bobby Fischer and the COG</a></td>
+<td valign="top">Fischer, WCG</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">1978</td>
+<td valign="top"><a href="http://silenced.co/2011/08/dr-walter-martin-worldwide-church-of-god/" target="_new">Dr. Walter Martin - Worldwide Church of God</a></td>
+<td valign="top">WCG, Cults</td>
+<td valign="top">News (TV)</td>
+</tr>
+<tr>
+<td valign="top">1979</td>
+<td valign="top"><a href="http://silenced.co/2011/08/british-israelism-a-mirage/" target="_new">British-Israelism: A Mirage</a></td>
+<td valign="top">British-Israelism, Doctrine</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">2005</td>
+<td valign="top"><a href="http://silenced.co/2011/07/debunking-british-israelism/" target="_new">Debunking British Israelism Racists</a></td>
+<td valign="top">British-Israelism, Doctrine</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">2005</td>
+<td valign="top"><a href="http://silenced.co/2011/07/ephraimite-deception-and-british-israelism/" target="_new">Ephriamite Deception and British Israelism</a></td>
+<td valign="top">British-Israelism, Doctrine</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">1981</td>
+<td valign="top"><a href="http://www.didacticministries.org/uploads/KESSLER.PDF target=">The Kessler Letter</a></td>
+<td valign="top">WCG, Corruption</td>
+<td valign="top">Letter</td>
+</tr>
+<tr>
+<td valign="top">1998</td>
+<td valign="top"><a href="http://www.philadelphiachurchofgod.org/" target="_new">The Plain Truth About Gerald R. Flurry</a></td>
+<td valign="top">PCG</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">1998</td>
+<td valign="top"><a href="http://silenced.co/2011/07/transforming-the-truth/" target="_new">Transforming the Truth</a></td>
+<td valign="top">WCG</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">1981</td>
+<td valign="top"><a href="http://silenced.co/2011/08/the-truth-shall-make-you-free/" target="_new">The Truth Shall Make You Free</a></td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">1997</td>
+<td valign="top"><a href="http://silenced.co/2011/06/the-two-faces-of-wcg-1997/" target="_new">The Two Faces of WCG</a></td>
+<td valign="top">WCG</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">2012</td>
+<td valign="top"><a href="http://silenced.co/2012/02/the-van-robinson-letters/" target="_new">The Van Robinson Letters</a></td>
+<td valign="top">Cults, Corruption</td>
+<td valign="top">Letter</td>
+</tr>
+<tr>
+<td valign="top">2001</td>
+<td valign="top"><a href="http://silenced.co/2011/06/wcg-christian-or-cult/" target="_new">Worldwide Church of God: Christian or Cult?</a></td>
+<td valign="top">WCG</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">2013</td>
+<td valign="top"><a href="http://www.amazon.com/Fragmentation-Sect-Schism-Worldwide-Church/dp/019986151X/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1357433729&amp;sr=1-1&amp;keywords=the+fragmentation+of+a+sect target=">The Fragmentation of a Sect</a> - David V. Barrett</td>
+<td valign="top">WCG, Schism</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2012</td>
+<td valign="top"><a href="http://www.amazon.com/The-People-Sign-Wade-Fransson/dp/0984693807/ref=sr_1_fkmr0_1?s=books&amp;ie=UTF8&amp;qid=1335022322&amp;sr=1-1-fkmr0 target=">The People of the Sign</a> - Wade Frannson</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://www.amazon.com/dp/146205496X/ref=rdr_ext_tmb target=">Blood, Sweat and High Heels</a> - Cheryl Waiters</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://www.amazon.com/dp/1462058043/ref=rdr_ext_tmb target=">Feathers</a> - Jim Feazell</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://www.amazon.com/dp/161739940X/ref=rdr_ext_tmb target=">Freedom's Journey</a> - Krystal Kroh</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://www.amazon.com/God-Followers-beginning-1/dp/146629079X/ref=sr_1_1?ie=UTF8&amp;qid=1325412436&amp;sr=8-1 target=">The God Followers</a> - Rand Zacharias</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://www.amazon.com/The-Last-Great-Day-ebook/dp/B004UGM5JE/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1335022419&amp;sr=1-1 target=">The Last Great Day</a> - Benjamin Grant Mitchel</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://www.amazon.com/dp/161739873X/ref=rdr_ext_tmb target=">Old Covenant, New Covenant</a> - Jesse Acuf</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2010</td>
+<td valign="top"><a href="http://www.blurb.com/bookstore/detail/1220323 target=">AGAINST ARMSTRONGISM</a> - Scott C. Blue</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2010</td>
+<td valign="top"><a href="http://www.hwarmstrong.com/memory-01.htm target=">Childhood Lost</a> - Dale Brown</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2010</td>
+<td valign="top"><a href="http://www.amazon.com/dp/1921513500/ref=rdr_ext_tmb target=">Counseling Christian Women</a> - Lynne M. Baker</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2010</td>
+<td valign="top"><a href="http://www.amazon.com/Grace-Dark-Places-Jim-Turner/dp/1615799249/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1284851261&amp;sr=1-1 target=">Grace in the Dark Places</a> - Jim Turner</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2010</td>
+<td valign="top"><a href="http://www.allbookstores.com/Homemade-Atheist-Former-Evangelical-Womans/9781569757840" target="_blank">The Homemade Atheist</a> - Betty Brogaard</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2010</td>
+<td valign="top"><a href="http://www.amazon.com/dp/1615664319/ref=rdr_ext_tmb" target="_blank">In His Service</a> - Eric C. Wheeler</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2009</td>
+<td valign="top"><a href="http://www.blurb.com/bookstore/detail/679697" target="_blank">De-Mystifying the Mysteries</a> - Scott C. Blue</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2009</td>
+<td valign="top"><a href="http://www.lulu.com/shop/jennifer-l-armstrong/dreaming-in-arabic-black-white-version/paperback/product-4150945.html;jsessionid=F619AAF51472D83070602CD198F4F0A6" target="_blank">Dreaming in Arabic</a> - Jennifer L. Armstrong</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2009</td>
+<td valign="top"><a href="http://www.amazon.com/Flying-Free-Journey-Fundamentalism-Freedom/dp/1448658845" target="_blank">Flying Free: A Journey from Fundamentalism to Freedom</a> - John Morgan</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2009</td>
+<td valign="top"><a href="http://www.amazon.com/Matches-Gas-Tank-Trial-Armstrong/dp/1933979534" target="_blank">Matches in the Gas Tank: Trial by Fire in the Armstrong Cult</a> - Carla Powers</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2009</td>
+<td valign="top"><a href="http://www.lulu.com/shop/greg-doudna/showdown-at-big-sandy-youthful-creativity-confronts-bureaucratic-inertia-at-an-unconventional-bible-college-in-east-texas/paperback/product-802328.html" target="_blank">Showdown at Big Sandy</a> - Greg Doudna</td>
+<td valign="top">WCG, Ambassador</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2008</td>
+<td valign="top"><a href="http://www.milestonesintl.com/comingoutofhell.htm" target="_blank">Coming Out of Hell</a> - David J. Bonnet</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2008</td>
+<td valign="top"><a href="http://www.amazon.com/Faith-Mary-Ellen-Humphrey/dp/0970717245" target="_blank">Faith</a> - Mary Ellen Humphrey</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2008</td>
+<td valign="top"><a href="http://www.amazon.com/dp/1436367905/ref=rdr_ext_tmb" target="_blank">Invisible Warrior</a> - Christopher Bear Beam</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2008</td>
+<td valign="top"><a href="http://www.amazon.com/Unplugging-Religion-Greg-Albrecht/dp/1889973084/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1284860854&amp;sr=1-1" target="_blank">Unplugging From Religion</a> - Greg Albrecht</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2007</td>
+<td valign="top"><a href="http://www.xulonpress.com/bookstore/bookdetail.php?PB_ISBN=9781602662971&amp;HC_ISBN=9781602662988" target="_blank">HEY BY GEORGE!</a> - George W. Denn</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2006</td>
+<td valign="top"><a href="http://www.amazon.com/exec/obidos/ASIN/0741435713/smolderingwic-20" target="_blank">Ashes to Flames: Recovery from Spiritual Burnout</a> - Kim Wenzel</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2006</td>
+<td valign="top"><a href="http://www.amazon.com/dp/1419647989/ref=rdr_ext_tmb" target="_blank">The Strange World of Man: A Guide to Post-Mortem Life</a> - Gregory Stephen</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2006</td>
+<td valign="top"><a href="http://books.google.com/books?id=MzhVs1852I0C&amp;printsec=frontcover&amp;dq=martyrdom+in+milwaukee+++thomas+Geiger&amp;source=bl&amp;ots=utlgHvEcmI&amp;sig=D1rcORI8UtwIwGAAftZ4DRR1_B0&amp;hl=en&amp;ei=akSVTKP9MImasAOf8oHACg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CBIQ6AEwAA#v=onepage&amp;q&amp;f=false" target="_blank">Martyrdom in Milwaukee </a>- Thomas M. Geigerm</td>
+<td valign="top">LCG, Ratzmann</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2005</td>
+<td valign="top"><a href="http://www.amazon.com/God-That-Prevailed-Spiritual-Armstrongs/dp/0595340318/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1284859406&amp;sr=1-1" target="_blank">The God That Prevailed</a> - Dennis Embo</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2005</td>
+<td valign="top"><a href="http://www.amazon.com/Field-Guide-Wild-World-Religion/dp/1933265248/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1284850511&amp;sr=1-1" target="_blank">Field Guide to the Wild World of Religion</a> - Pam Dewey</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2005</td>
+<td valign="top"><a href="http://www.amazon.com/Revelation-Revolution-Greg-Albrecht/dp/0529122421/ref=sr_1_7?ie=UTF8&amp;s=books&amp;qid=1284860782&amp;sr=8-7" target="_blank">Revelation Revolution</a> - Greg Albrecht</td>
+<td valign="top">WCG, Doctrine</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2004</td>
+<td valign="top"><a href="http://www.amazon.com/Another-Gospel-Alternative-Religions-Movement/dp/0310259371/ref=sr_1_2?s=gateway&amp;ie=UTF8&amp;qid=1285829535&amp;sr=8-2" target="_blank">Another Gospel: Cults, Alternative Religions, and the New Age Movement</a> - Ruth A. Tucker</td>
+<td valign="top">Cults</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2004</td>
+<td valign="top"><a href="http://www.amazon.com/Bad-News-Religion-Virus-Attacks/dp/0529119544/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1284860636&amp;sr=8-1" target="_blank">Bad News Religion: The Virus That Attacks God's Grace</a> - Greg Albrecht</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2004</td>
+<td valign="top"><a href="http://www.allbookstores.com/Dare-Think-Yourself-Journey-Faith/9781413739558" target="_blank">Dare To Think For Yourself</a> - Betty Brogaard</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2003</td>
+<td valign="top"><a href="http://www.amazon.com/Ghosts-Fireground-Peshtigo-Wildland-Firefighter/dp/B000C4SJI4/ref=sr_1_5?ie=UTF8&amp;s=books&amp;qid=1284853707&amp;sr=8-5" target="_blank">Ghosts of the Fireground</a> - Peter M. Leschak</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2003</td>
+<td valign="top"><a href="http://www.amazon.com/Liberation-Worldwide-Church-Michael-Feazell/dp/0310250110/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1284861232&amp;sr=1-1" target="_blank">Liberation of the Worldwide Church of God</a> - J. Michael Feazell</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2003</td>
+<td valign="top"><a href="http://www.amazon.com/exec/obidos/ASIN/1844030407/thepracticals-20" target="_blank">The New Believers: Sects, ‘Cults' and Alternative Religions</a> - David V. Barrett</td>
+<td valign="top">Cults</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2002</td>
+<td valign="top"><a href="http://www.amazon.com/exec/obidos/ASIN/0741409097/smolderingwic-20" target="_blank">Faith on the Rock</a> - Kim Wenzel</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2002</td>
+<td valign="top"><a href="http://www.amazon.com/Angels-Wings-Spiritual-Journey/dp/1403339996/ref=sr_1_fkmr0_1?ie=UTF8&amp;qid=1284851376&amp;sr=1-1-fkmr0" target="_blank">On Angels Wings: A Spiritual Journey</a> - Patricia Ann Laessig</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2002</td>
+<td valign="top"><a href="http://www.amazon.com/Sabbath-Circumcision-Tithing-Testament-Christians/dp/0595232817/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1284851160&amp;sr=1-1-spell" target="_blank">Sabbath, Circumcision, and Tithing: Which Old Testament Laws Apply to Christians?</a> - Michael Morrison</td>
+<td valign="top">Doctrine</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2001</td>
+<td valign="top"><a href="http://www.amazon.com/gp/product/0570052467/ref=pd_lpo_k2_dp_sr_1?pf_rd_p=486539851&amp;pf_rd_s=lpo-top-stripe-1&amp;pf_rd_t=201&amp;pf_rd_i=1932587632&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=088SNZXH737KNR5A5PXZ" target="_blank">Out of the Shadows: Finding God's Truth in a World of Deception</a> - J. Thomas Lapacka</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">1999</td>
+<td valign="top"><a href="http://www.amazon.com/Trials-Wildfire-Search-Warrior-Spirit/dp/1570251983/ref=sr_1_6?ie=UTF8&amp;s=books&amp;qid=1284853707&amp;sr=8-6" target="_blank">Trials by Wildfire: In Search of the New Warrior Spirit</a> - Peter M. Leschak</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">1997</td>
+<td valign="top"><a href="http://www.amazon.com/Discovering-Plain-Truth-Worldwide-Encountered/dp/083081969X/ref=sr_1_8?s=books&amp;ie=UTF8&amp;qid=1284861013&amp;sr=1-8" target="_blank">Discovering the Plain Truth</a> - George Mather</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">1997</td>
+<td valign="top"><a href="http://www.amazon.com/The-Kingdom-Cults-Walter-Martin/dp/1556617143" target="_blank">The Kingdom of the Cults</a> - Walter Martin</td>
+<td valign="top">WCG, Cults</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">1997</td>
+<td valign="top"><a href="http://www.amazon.com/Transformed-Truth-Joseph-Tkach/dp/1576731812/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1284861099&amp;sr=1-1" target="_blank">Transformed by Truth</a> - Joseph Tkach Jr.</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">1996</td>
+<td valign="top"><a href="http://www.amazon.com/gp/reader/1852423382/ref=sr_1_386?p=S00G&amp;keywords=worldwide+church+of+god&amp;ie=UTF8&amp;qid=1334850990#reader_1852423382" target="_blank">Man Enough To Be A Woman</a> - Jayne County</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">1995</td>
+<td valign="top"><a href="http://www.amazon.com/Oldest-Sin-Ellen-Hart/dp/0345482816/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1284851622&amp;sr=1-1" target="_blank">The Oldest Sin</a> - Ellen Hart</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">1994</td>
+<td valign="top"><a href="http://www.amazon.com/Out-Cults-Into-Church-Understanding/dp/0825428858" target="_blank">Out of the Cults and Into the Church</a> - Janis Hutchinson</td>
+<td valign="top">Cults, WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">1992</td>
+<td valign="top"><a href="http://www.amazon.com/Bumming-Furies-Peter-Leschak/dp/0878390782/ref=sr_1_3?ie=UTF8&amp;s=books&amp;qid=1284853707&amp;sr=8-3" target="_blank">Bumming with the Furies</a> - Peter Leschak</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">1980</td>
+<td valign="top"><a href="http://www.amazon.com/Herbert-Armstrongs-tangled-web-Worldwide/dp/B0006XI300/ref=sr_1_1?ie=UTF8&amp;qid=1357433638&amp;sr=8-1&amp;keywords=tangled+web+of+herbert+w.+armstrong" target="_blank">Herbert Armstrong's Tangled Web</a> - David Robinson</td>
+<td valign="top">HWA</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2012</td>
+<td valign="top"><a href="http://silenced.co/timeline1.html" target="_blank">COG Timeline</a></td>
+<td valign="top">WCG</td>
+<td valign="top">Timeline</td>
+</tr>
+<tr>
+<td valign="top">2012</td>
+<td valign="top"><a href="http://www.youtube.com/watch?v=nKzucy34nNI" target="_blank">Dumpster Therapy</a></td>
+<td valign="top">WCG, HWA</td>
+<td valign="top">Member Story</td>
+</tr>
+<tr>
+<td valign="top">2010</td>
+<td valign="top"><a href="http://www.youtube.com/watch?v=86CZcF_LzTo&amp;feature=share&amp;list=PL44C804B0FCEE8E2E" target="_blank">The Worldwide Church of God - The Profits of Doom</a></td>
+<td valign="top">WCG</td>
+<td valign="top">Video</td>
+</tr>
+<tr>
+<td valign="top">2009</td>
+<td valign="top">
+<p id="watch-headline-title target="><a href="http://www.youtube.com/watch?v=jBU0nb2g448&amp;feature=share&amp;list=PL44C804B0FCEE8E2E" target="_blank">Born a Mind-Slave to Religion, Part 1 The Worldwide Church of God</a></p>
+</td>
+<td valign="top">WCG, PCG</td>
+<td valign="top">Member Story</td>
+</tr>
+<tr>
+<td valign="top">2009</td>
+<td valign="top"><a href="http://www.youtube.com/watch?v=LZ0FmVnpUMc&amp;feature=share&amp;list=PL44C804B0FCEE8E2E" target="_blank">Born a Mind-Slave to Religion, Part 2 The Worldwide Church of God</a></td>
+<td valign="top">WCG, PCG</td>
+<td valign="top">Member Story</td>
+</tr>
+<tr>
+<td valign="top">2009</td>
+<td valign="top"><a href="http://www.youtube.com/watch?v=bcQayCwiLsg&amp;feature=share&amp;list=PL44C804B0FCEE8E2E" target="_blank">Armstrong and the Church of God Cult</a></td>
+<td valign="top">WCG</td>
+<td valign="top">Member Story</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://www.youtube.com/watch?v=X7NGm2ZQmaQ&amp;feature=share&amp;list=PL44C804B0FCEE8E2E" target="_blank">Pt. 1 of Out of Armstrongism: Bill's Testimony</a></td>
+<td valign="top">WCG</td>
+<td valign="top">Member Story</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://www.youtube.com/watch?v=hxi-J8Xt8Cg&amp;feature=share&amp;list=PL44C804B0FCEE8E2E" target="_blank">Pt. 2 of Out of Armstrongism: Bill's Testimony</a></td>
+<td valign="top">WCG</td>
+<td valign="top">Member Story</td>
+</tr>
+<tr>
+<td valign="top">2006</td>
+<td valign="top"><a href="http://www.youtube.com/watch?v=LWAtvE1xiRk&amp;feature=share&amp;list=PL44C804B0FCEE8E2E" target="_blank">Called to Be Free</a></td>
+<td valign="top">WCG</td>
+<td valign="top">Video</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://www.youtube.com/watch?v=IcbLFRA1IYg&amp;feature=share&amp;list=PL44C804B0FCEE8E2E" target="_blank">B.G. Mitchell on Sunrise TV 2011</a></td>
+<td valign="top">WCG</td>
+<td valign="top">Member Story</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://www.youtube.com/watch?v=mnNSe5XYp6E&amp;feature=share&amp;list=FLy0UMtdWU6nq8xWqg2Syd9g" target="_blank">Mind Control Cults</a></td>
+<td valign="top">Cults</td>
+<td valign="top">Video</td>
+</tr>
+<tr>
+<td valign="top">2011</td>
+<td valign="top"><a href="http://www.youtube.com/watch?v=fv1HojBnHWo&amp;feature=share&amp;list=FLy0UMtdWU6nq8xWqg2Syd9g" target="_blank">Leaving a Cult: How to Rebuild Your Social Network</a></td>
+<td valign="top">Cults</td>
+<td valign="top">Video</td>
+</tr>
+<tr>
+<td valign="top">2010</td>
+<td valign="top"><a href="http://www.youtube.com/watch?v=Ca95xR-xdx0&amp;feature=share&amp;list=FLy0UMtdWU6nq8xWqg2Syd9g" target="_blank">QI: Religious Cults</a></td>
+<td valign="top">Cults, Prophecy</td>
+<td valign="top">Video</td>
+</tr>
+<tr>
+<td valign="top">2007</td>
+<td valign="top"><a href="http://www.youtube.com/watch?v=FfdL_2FVn9M&amp;feature=share&amp;list=PL44C804B0FCEE8E2E" target="_blank">House of Yahweh member arrested</a></td>
+<td valign="top">HOY, Corruption</td>
+<td valign="top">News (TV)</td>
+</tr>
+<tr>
+<td valign="top">2009</td>
+<td valign="top"><a href="http://www.youtube.com/watch?v=0UNljK-ARQo&amp;feature=share&amp;list=PL44C804B0FCEE8E2E" target="_blank">House of Yahweh Featured on <em>Dr. Phil</em></a></td>
+<td valign="top">HOY, Corruption</td>
+<td valign="top">News (TV)</td>
+</tr>
+<tr>
+<td valign="top">2009</td>
+<td valign="top"><a href="http://youtu.be/YAn8RWI012U" target="_blank">House of Yahweh Featured on 20/20</a></td>
+<td valign="top">HOY, Corruption</td>
+<td valign="top">News (TV)</td>
+</tr>
+<tr>
+<td valign="top">2008</td>
+<td valign="top"><a href="http://www.okcfox.com/newsroom/special_reports/videos/vid_152.shtml">FOX 25: Philadelphia Church of God: Part 1</a> | <a href="http://www.okcfox.com/newsroom/special_reports/videos/vid_153.shtml">Part 2</a></td>
+<td valign="top">PCG</td>
+<td valign="top">News (TV)</td>
+</tr>
+<tr>
+<td valign="top">1999</td>
+<td valign="top"><a href="http://www.gentileassembly.org/photos/minister-rusme-3.gif" target="_blank">PCG India Ministerial Resume</a></td>
+<td valign="top">PCG</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2013</td>
+<td valign="top"><a href="http://www.syracuse.com/news/index.ssf/2013/03/david_renzs_deformed_face_and.html" target="_blank">David Renz was the kid with the deformed face before being accused of horrifying crime</a></td>
+<td valign="top">WCG</td>
+<td valign="top">News Article</td>
+</tr>
+<tr>
+<td valign="top">2013</td>
+<td valign="top"><a href="http://silenced.co/2013/05/update-abc-expulsion" target="_blank">ABC Expulsion Letters</a></td>
+<td valign="top">UCG, ABC</td>
+<td valign="top">Leak, Member Story</td>
+</tr>
+<tr>
+<td valign="top">2013</td>
+<td valign="top"><a href="http://silenced.co/2013/05/ucgs-demographic-crisis/" target="_blank">UCG's Demographic Crisis</a></td>
+<td valign="top">UCG, ABC</td>
+<td valign="top">Leak, Member Story</td>
+</tr>
+<tr>
+<td valign="top">2012</td>
+<td valign="top"><a href="http://silenced.co/wp-content/uploads/2013/05/Letter-to-Mr-Flurry-Seabreeze-collusion_Redacted.pdf" target="_blank">The Seabreeze Collusion</a> | <a href="http://silenced.co/wp-content/uploads/2013/05/Letter-2-to-MR-flurrydocx.pdf">Letter to Gerald R. Flurry</a></td>
+<td valign="top">PCG, Corruption</td>
+<td valign="top">Leak, Member Story</td>
+</tr>
+<tr>
+<td valign="top">2006</td>
+<td valign="top"><a href="http://www.jrothraministries.com/pdfdocs/InvestigationofArmstrongism.pdf" target="_blank">Investigating Armstrongism</a></td>
+<td valign="top">WCG</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">2012</td>
+<td valign="top"><a href="http://youtu.be/-stfS6zUaoE" target="_blank">Mike Vinson admitting IWWB is a WCG splinter group</a></td>
+<td valign="top">IWWB</td>
+<td valign="top">Leak</td>
+</tr>
+<tr>
+<td valign="top">2012</td>
+<td valign="top"><a href="http://www.amazon.com/Cults-and-Closets-ebook/dp/B00EQ8D2FC/ref=sr_1_1?ie=UTF8&amp;qid=1377441641&amp;sr=8-1&amp;keywords=cults+and+closets" target="_blank">Cults and Closets</a> - Troy Fitzgerald</td>
+<td valign="top">WCG</td>
+<td valign="top">Book</td>
+</tr>
+<tr>
+<td valign="top">2013</td>
+<td valign="top"><a href="http://www.outofthecocoon.net/PDF/WhichCameFirst_TheWorldwideChurchofGodOrTheWatchtowerBibleandTractSociety.pdf" target="_blank">THE WORLDWIDE CHURCH OF GOD OR
+THE WATCHTOWER BIBLE &amp; TRACT SOCIETY?</a></td>
+<td valign="top">WCG</td>
+<td valign="top">Paper</td>
+</tr>
+<tr>
+<td valign="top">1999</td>
+<td valign="top"><a href="http://silenced.co/wp-content/uploads/2013/11/megiddo.pdf" target="_blank">Project Megiddo - FBI report</a></td>
+<td valign="top">HOY</td>
+<td valign="top">Legal Document</td>
+</tr>
+<tr>
+<td valign="top">2013</td>
+<td valign="top"><a href="http://www.out.com/entertainment/today-gay-history/2013/07/31/today-gay-history-original-anti-gay-baddie-herbert" target="_blank">Today in Gay History: Often Wrong Herbert Armstrong</a></td>
+<td valign="top">WCG</td>
+<td valign="top">News Article</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>

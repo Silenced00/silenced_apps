@@ -1,0 +1,2 @@
+X	Y	Location	Cult	Image
+-99.732292	32.45203	"Abilene, TX 79604"	The House of Yahweh	http://silenced.co/wp-content/uploads/2012/03/hoy-150x150.png

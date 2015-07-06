@@ -1,0 +1,2 @@
+X	Y	Location	Cult	Image
+-120.829102	38.191586	"Valley Springs, CA"	"Church of God, Faithful Flock"	http://silenced.co/wp-content/uploads/2012/03/cogff.png
