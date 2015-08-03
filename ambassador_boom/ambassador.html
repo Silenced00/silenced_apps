@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Ambassador Campus Status</title>
+  <meta name="description" content="Ambassador Campus Status">
+  <meta name="author" content="Silence">
+
+  <link href='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.css' rel='stylesheet' />
+
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+  .mapbox-logo, .leaflet-control-attribution{ display:none !important; }
+</style>
+</head>
+
+<body>
+
+<div id='map'></div>
+
+</body>
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.js"></script>
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.js'></script>
+
+<script>
+L.mapbox.accessToken = 'pk.eyJ1Ijoic2lsZW5jZWQiLCJhIjoiUm1IZjgyWSJ9.dAfyl93WqB8IOvxlPq-yyA';
+var map = L.mapbox.map('map', 'examples.map-20v6611k').setView([34.143, -118.158], 17) ;
+
+  $.getJSON('campus.json', function(data) {
+      var grid = L.geoJson(data);
+      map.addLayer(grid);
+
+          // Create custom popup content
+
+
+        grid.eachLayer(function (layer) {  
+
+    var popupContent =  layer.feature.properties.title;
+
+    layer.bindPopup(popupContent,{
+        closeButton: false
+    });
+
+      if (layer.feature.properties.title == "Maranatha Field") {    
+        layer.setStyle({"color":"#9855D4","strokeColor":"#9855D4","fillColor":"#9855D4","opacity":.5,"fillOpacity":.5,"weight":5}); 
+      }
+      else if (layer.feature.properties.title == "St. John Parking Lot") {    
+        layer.setStyle({"color":"#9855D4","strokeColor":"#9855D4","fillColor":"#9855D4","opacity":.5,"fillOpacity":.5,"weight":5}); 
+      }
+      else if (layer.feature.properties.title == "Maranathan High School") {    
+        layer.setStyle({"color":"#9855D4","strokeColor":"#9855D4","fillColor":"#9855D4","opacity":.5,"fillOpacity":.5,"weight":5}); 
+      }
+      else if (layer.feature.properties.title == "Ambassador Auditorium") {    
+        layer.setStyle({"color":"#008571","strokeColor":"#008571","fillColor":"#008571","opacity":.5,"fillOpacity":.5,"weight":5}); 
+      }
+      else if (layer.feature.properties.title == "Hall of Administration") {    
+        layer.setStyle({"color":"#E71D32","strokeColor":"#E71D32","fillColor":"#E71D32","opacity":.5,"fillOpacity":.5,"weight":5}); 
+      }
+      else if (layer.feature.properties.title == "Construction Zone") {    
+        layer.setStyle({"color":"#E71D32","strokeColor":"#E71D32","fillColor":"#E71D32","opacity":.5,"fillOpacity":.5,"weight":5}); 
+      }
+      else if (layer.feature.properties.title == "Fine Arts Honeycomb Building") {    
+        layer.setStyle({"color":"#E71D32","strokeColor":"#E71D32","fillColor":"#E71D32","opacity":.5,"fillOpacity":.5,"weight":5}); 
+      }
+      else if (layer.feature.properties.title == "Science Building") {    
+        layer.setStyle({"color":"#E71D32","strokeColor":"#E71D32","fillColor":"#E71D32","opacity":.5,"fillOpacity":.5,"weight":5}); 
+      }
+      else if (layer.feature.properties.title == "Tesles Properties") {    
+        layer.setStyle({"color":"#E71D32","strokeColor":"#E71D32","fillColor":"#E71D32","opacity":.5,"fillOpacity":.5,"weight":5}); 
+      }
+      else {
+        layer.setStyle({"color":"#4178BE","strokeColor":"#4178BE","fillColor":"#4178BE","opacity":.5,"fillOpacity":.5,"weight":5}); 
+      }
+    });
+});
+</script>
+
+</html>
